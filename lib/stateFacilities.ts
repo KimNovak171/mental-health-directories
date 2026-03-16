@@ -24,6 +24,11 @@ import newYorkData from "@/data/new-york_facilities.json";
 import northCarolinaData from "@/data/north-carolina_facilities.json";
 import northDakotaData from "@/data/north-dakota_facilities.json";
 import ohioData from "@/data/ohio_facilities.json";
+import oklahomaData from "@/data/oklahoma_facilities.json";
+import oregonData from "@/data/oregon_facilities.json";
+import pennsylvaniaData from "@/data/pennsylvania_facilities.json";
+import rhodeIslandData from "@/data/rhode-island_facilities.json";
+import southCarolinaData from "@/data/south-carolina_facilities.json";
 
 type AlternateFormatFacilityRaw = {
   name: string;
@@ -137,6 +142,11 @@ const newYorkDataTyped = newYorkData as StateFileShape;
 const northCarolinaDataTyped = northCarolinaData as StateFileShape;
 const northDakotaDataTyped = northDakotaData as StateFileShape;
 const ohioDataTyped = ohioData as StateFileShape;
+const oklahomaDataTyped = oklahomaData as StateFileShape;
+const oregonDataTyped = oregonData as StateFileShape;
+const pennsylvaniaDataTyped = pennsylvaniaData as StateFileShape;
+const rhodeIslandDataTyped = rhodeIslandData as StateFileShape;
+const southCarolinaDataTyped = southCarolinaData as StateFileShape;
 
 const alaskaFacilities = transformAlternateFormatFacilities(
   alaskaDataTyped.facilities,
@@ -288,6 +298,36 @@ const ohioFacilities = transformAlternateFormatFacilities(
   ohioDataTyped.state_slug,
 );
 
+const oklahomaFacilities = transformAlternateFormatFacilities(
+  oklahomaDataTyped.facilities,
+  oklahomaDataTyped.state,
+  oklahomaDataTyped.state_slug,
+);
+
+const oregonFacilities = transformAlternateFormatFacilities(
+  oregonDataTyped.facilities,
+  oregonDataTyped.state,
+  oregonDataTyped.state_slug,
+);
+
+const pennsylvaniaFacilities = transformAlternateFormatFacilities(
+  pennsylvaniaDataTyped.facilities,
+  pennsylvaniaDataTyped.state,
+  pennsylvaniaDataTyped.state_slug,
+);
+
+const rhodeIslandFacilities = transformAlternateFormatFacilities(
+  rhodeIslandDataTyped.facilities,
+  rhodeIslandDataTyped.state,
+  rhodeIslandDataTyped.state_slug,
+);
+
+const southCarolinaFacilities = transformAlternateFormatFacilities(
+  southCarolinaDataTyped.facilities,
+  southCarolinaDataTyped.state,
+  southCarolinaDataTyped.state_slug,
+);
+
 export type RawFacility = {
   id: string;
   name: string;
@@ -355,6 +395,18 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   missouri: missouriFacilities,
   montana: montanaFacilities,
   nevada: nevadaFacilities,
+  "new-hampshire": newHampshireFacilities,
+  "new-jersey": newJerseyFacilities,
+  "new-mexico": newMexicoFacilities,
+  "new-york": newYorkFacilities,
+  "north-carolina": northCarolinaFacilities,
+  "north-dakota": northDakotaFacilities,
+  ohio: ohioFacilities,
+  oklahoma: oklahomaFacilities,
+  oregon: oregonFacilities,
+  pennsylvania: pennsylvaniaFacilities,
+  "rhode-island": rhodeIslandFacilities,
+  "south-carolina": southCarolinaFacilities,
 };
 
 const CANADIAN_REGION_SLUGS = new Set([
@@ -715,6 +767,21 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "ohio") {
     return "https://mha.ohio.gov/";
+  }
+  if (normalized === "oklahoma") {
+    return "https://www.odmhsas.org/";
+  }
+  if (normalized === "oregon") {
+    return "https://www.oregon.gov/dhs/mental-health/Pages/index.aspx";
+  }
+  if (normalized === "pennsylvania") {
+    return "https://www.pa.gov/guides/mental-health-resources";
+  }
+  if (normalized === "rhode-island") {
+    return "https://bhddh.ri.gov/";
+  }
+  if (normalized === "south-carolina") {
+    return "https://www.scdmh.org/";
   }
   return "https://www.samhsa.gov/";
 }
