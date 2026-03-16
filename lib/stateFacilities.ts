@@ -17,6 +17,13 @@ import mississippiData from "@/data/mississippi_facilities.json";
 import missouriData from "@/data/missouri_facilities.json";
 import montanaData from "@/data/montana_facilities.json";
 import nevadaData from "@/data/nevada_facilities.json";
+import newHampshireData from "@/data/new-hampshire_facilities.json";
+import newJerseyData from "@/data/new-jersey_facilities.json";
+import newMexicoData from "@/data/new-mexico_facilities.json";
+import newYorkData from "@/data/new-york_facilities.json";
+import northCarolinaData from "@/data/north-carolina_facilities.json";
+import northDakotaData from "@/data/north-dakota_facilities.json";
+import ohioData from "@/data/ohio_facilities.json";
 
 type AlternateFormatFacilityRaw = {
   name: string;
@@ -123,6 +130,13 @@ const mississippiDataTyped = mississippiData as StateFileShape;
 const missouriDataTyped = missouriData as StateFileShape;
 const montanaDataTyped = montanaData as StateFileShape;
 const nevadaDataTyped = nevadaData as StateFileShape;
+const newHampshireDataTyped = newHampshireData as StateFileShape;
+const newJerseyDataTyped = newJerseyData as StateFileShape;
+const newMexicoDataTyped = newMexicoData as StateFileShape;
+const newYorkDataTyped = newYorkData as StateFileShape;
+const northCarolinaDataTyped = northCarolinaData as StateFileShape;
+const northDakotaDataTyped = northDakotaData as StateFileShape;
+const ohioDataTyped = ohioData as StateFileShape;
 
 const alaskaFacilities = transformAlternateFormatFacilities(
   alaskaDataTyped.facilities,
@@ -230,6 +244,48 @@ const nevadaFacilities = transformAlternateFormatFacilities(
   nevadaDataTyped.facilities,
   nevadaDataTyped.state,
   nevadaDataTyped.state_slug,
+);
+
+const newHampshireFacilities = transformAlternateFormatFacilities(
+  newHampshireDataTyped.facilities,
+  newHampshireDataTyped.state,
+  newHampshireDataTyped.state_slug,
+);
+
+const newJerseyFacilities = transformAlternateFormatFacilities(
+  newJerseyDataTyped.facilities,
+  newJerseyDataTyped.state,
+  newJerseyDataTyped.state_slug,
+);
+
+const newMexicoFacilities = transformAlternateFormatFacilities(
+  newMexicoDataTyped.facilities,
+  newMexicoDataTyped.state,
+  newMexicoDataTyped.state_slug,
+);
+
+const newYorkFacilities = transformAlternateFormatFacilities(
+  newYorkDataTyped.facilities,
+  newYorkDataTyped.state,
+  newYorkDataTyped.state_slug,
+);
+
+const northCarolinaFacilities = transformAlternateFormatFacilities(
+  northCarolinaDataTyped.facilities,
+  northCarolinaDataTyped.state,
+  northCarolinaDataTyped.state_slug,
+);
+
+const northDakotaFacilities = transformAlternateFormatFacilities(
+  northDakotaDataTyped.facilities,
+  northDakotaDataTyped.state,
+  northDakotaDataTyped.state_slug,
+);
+
+const ohioFacilities = transformAlternateFormatFacilities(
+  ohioDataTyped.facilities,
+  ohioDataTyped.state,
+  ohioDataTyped.state_slug,
 );
 
 export type RawFacility = {
@@ -638,6 +694,27 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "nevada") {
     return "https://mhds.nv.gov/";
+  }
+  if (normalized === "new-hampshire") {
+    return "https://www.dhhs.nh.gov/programs/behavioral-health";
+  }
+  if (normalized === "new-jersey") {
+    return "https://www.nj.gov/humanservices/dmhas/";
+  }
+  if (normalized === "new-mexico") {
+    return "https://www.nmhealth.org/about/bhs/";
+  }
+  if (normalized === "new-york") {
+    return "https://omh.ny.gov/";
+  }
+  if (normalized === "north-carolina") {
+    return "https://www.ncdhhs.gov/divisions/mental-health-developmental-disabilities-and-substance-use-services";
+  }
+  if (normalized === "north-dakota") {
+    return "https://www.nd.gov/dhs/services/mentalhealth/";
+  }
+  if (normalized === "ohio") {
+    return "https://mha.ohio.gov/";
   }
   return "https://www.samhsa.gov/";
 }
