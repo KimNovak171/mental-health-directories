@@ -88,7 +88,17 @@ export default async function Home() {
             </p>
 
             <p className="mt-2 text-sm font-medium text-white">
-              {usStatesSorted.map((s) => s.stateName).join(" • ")}
+              {usStatesSorted.map((s, i) => (
+                <span key={s.stateSlug}>
+                  {i > 0 && " • "}
+                  <Link
+                    href={`/${s.stateSlug}`}
+                    className="underline underline-offset-2 hover:text-gold-soft"
+                  >
+                    {s.stateName}
+                  </Link>
+                </span>
+              ))}
             </p>
             <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
               {usStatesSorted.map((state) => (

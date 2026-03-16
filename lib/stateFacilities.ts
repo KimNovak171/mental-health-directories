@@ -1,72 +1,39 @@
 import type { Facility } from "@/components/FacilityCard";
-import floridaData from "@/data/florida_facilities.json";
-import californiaData from "@/data/california_facilities.json";
-import texasData from "@/data/texas_facilities.json";
-import newYorkData from "@/data/new_york_facilities.json";
-import arizonaData from "@/data/arizona_facilities.json";
-import illinoisData from "@/data/illinois_facilities.json";
-import ohioData from "@/data/ohio_facilities.json";
-import michiganData from "@/data/michigan_facilities.json";
-import southCarolinaData from "@/data/south_carolina_facilities.json";
-import marylandData from "@/data/maryland_facilities.json";
-import newMexicoData from "@/data/new_mexico_facilities.json";
-import kansasData from "@/data/kansas_facilities.json";
-import hawaiiData from "@/data/hawaii_facilities.json";
-import wisconsinData from "@/data/wisconsin_facilities.json";
-import missouriData from "@/data/missouri_facilities.json";
-import indianaData from "@/data/indiana_facilities.json";
-import northCarolinaData from "@/data/north_carolina_facilities.json";
-import utahData from "@/data/utah_facilities.json";
-import virginiaData from "@/data/virginia_facilities.json";
-import nebraskaData from "@/data/nebraska_facilities.json";
-import arkansasData from "@/data/arkansas_facilities.json";
-import tennesseeData from "@/data/tennessee_facilities.json";
-import kentuckyData from "@/data/kentucky_facilities.json";
-import minnesotaData from "@/data/minnesota_facilities.json";
-import idahoData from "@/data/idaho_facilities.json";
-import newJerseyData from "@/data/new_jersey_facilities.json";
-import connecticutData from "@/data/connecticut_facilities.json";
-import coloradoData from "@/data/colorado_facilities.json";
-import georgiaData from "@/data/georgia_facilities.json";
-import nevadaData from "@/data/nevada_facilities.json";
-import alabamaData from "@/data/alabama_facilities.json";
-import louisianaData from "@/data/louisiana_facilities.json";
-import oregonData from "@/data/oregon_facilities.json";
-import newHampshireData from "@/data/new_hampshire_facilities.json";
-import washingtonData from "@/data/washington_facilities.json";
-import massachusettsData from "@/data/massachusetts_facilities.json";
-import vermontData from "@/data/vermont_facilities.json";
-import rhodeIslandData from "@/data/rhode_island_facilities.json";
-import mississippiData from "@/data/mississippi_facilities.json";
-import montanaData from "@/data/montana_facilities.json";
-import washingtonDcData from "@/data/washington_dc_facilities.json";
-import northDakotaData from "@/data/north_dakota_facilities.json";
-import southDakotaData from "@/data/south_dakota_facilities.json";
-import wyomingData from "@/data/wyoming_facilities.json";
-import pennsylvaniaData from "@/data/pennsylvania_facilities.json";
 import alaskaData from "@/data/alaska_facilities.json";
+import arizonaData from "@/data/arizona_facilities.json";
+import arkansasData from "@/data/arkansas_facilities.json";
+import connecticutData from "@/data/connecticut_facilities.json";
 import delawareData from "@/data/delaware_facilities.json";
-import westVirginiaData from "@/data/west_virginia_facilities.json";
-import iowaData from "@/data/iowa_facilities.json";
-import oklahomaData from "@/data/oklahoma_facilities.json";
+import floridaData from "@/data/florida_facilities.json";
 
 type AlternateFormatFacilityRaw = {
   name: string;
+  category?: string;
   care_type?: string;
   type?: string;
   address: string;
+  street?: string;
   city: string;
   state: string;
+  state_code?: string;
   phone?: string | null;
   website?: string | null;
   rating?: number | null;
   reviews?: number | null;
+  reviews_link?: string | null;
   place_id?: string | null;
   recommended?: boolean;
   featured?: boolean;
   premium?: boolean;
   logo?: string | null;
   tagline?: string | null;
+};
+
+type StateFileShape = {
+  state: string;
+  state_code?: string;
+  state_slug: string;
+  facilities: AlternateFormatFacilityRaw[];
 };
 
 function slugify(text: string | null | undefined): string {
@@ -93,9 +60,15 @@ function transformAlternateFormatFacilities(
     const addressLine1 = addressParts[0] ?? "";
     const addressLine2 = addressParts.length > 1 ? addressParts.slice(1).join(", ") : undefined;
     const mapsUrl =
-      f.place_id ?
-        `https://search.google.com/local/reviews?placeid=${f.place_id}&q=*&authuser=0&hl=en&gl=US`
-      : undefined;
+      (f.reviews_link && String(f.reviews_link).trim())
+        ? String(f.reviews_link).trim()
+        : f.place_id
+          ? `https://search.google.com/local/reviews?placeid=${f.place_id}&q=*&authuser=0&hl=en&gl=US`
+          : undefined;
+    const categorySource = (f.category ?? f.care_type ?? f.type ?? "").trim();
+    const careTypes = categorySource
+      ? [categorySource]
+      : ["Mental health service"];
     return {
       id,
       name: (f.name ?? "").trim() || "Unnamed",
@@ -110,7 +83,7 @@ function transformAlternateFormatFacilities(
       mapsUrl: mapsUrl ?? null,
       rating: f.rating ?? null,
       reviewCount: f.reviews ?? null,
-      careTypes: ["Mental health service"],
+      careTypes,
       featured: f.featured ?? undefined,
       premium: f.premium ?? undefined,
       recommended: f.recommended ?? undefined,
@@ -120,300 +93,47 @@ function transformAlternateFormatFacilities(
   });
 }
 
-const floridaFacilities = transformAlternateFormatFacilities(
-  floridaData as unknown as AlternateFormatFacilityRaw[],
-  "Florida",
-  "florida",
-);
+const alaskaDataTyped = alaskaData as StateFileShape;
+const arizonaDataTyped = arizonaData as StateFileShape;
+const arkansasDataTyped = arkansasData as StateFileShape;
+const connecticutDataTyped = connecticutData as StateFileShape;
+const delawareDataTyped = delawareData as StateFileShape;
+const floridaDataTyped = floridaData as StateFileShape;
 
-const texasFacilities = transformAlternateFormatFacilities(
-  texasData as unknown as AlternateFormatFacilityRaw[],
-  "Texas",
-  "texas",
-);
-
-const californiaFacilities = transformAlternateFormatFacilities(
-  californiaData as unknown as AlternateFormatFacilityRaw[],
-  "California",
-  "california",
-);
-
-const newYorkFacilities = transformAlternateFormatFacilities(
-  newYorkData as unknown as AlternateFormatFacilityRaw[],
-  "New York",
-  "new-york",
+const alaskaFacilities = transformAlternateFormatFacilities(
+  alaskaDataTyped.facilities,
+  alaskaDataTyped.state,
+  alaskaDataTyped.state_slug,
 );
 
 const arizonaFacilities = transformAlternateFormatFacilities(
-  (arizonaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (arizonaData as { state: string }).state,
-  "arizona",
-);
-
-const illinoisFacilities = transformAlternateFormatFacilities(
-  (illinoisData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (illinoisData as { state: string }).state,
-  "illinois",
-);
-
-const ohioFacilities = transformAlternateFormatFacilities(
-  (ohioData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (ohioData as { state: string }).state,
-  "ohio",
-);
-
-const michiganFacilities = transformAlternateFormatFacilities(
-  (michiganData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (michiganData as { state: string }).state,
-  "michigan",
-);
-
-const southCarolinaFacilities = transformAlternateFormatFacilities(
-  (southCarolinaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (southCarolinaData as { state: string }).state,
-  "south-carolina",
-);
-
-const marylandFacilities = transformAlternateFormatFacilities(
-  (marylandData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (marylandData as { state: string }).state,
-  "maryland",
-);
-
-const newMexicoFacilities = transformAlternateFormatFacilities(
-  (newMexicoData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (newMexicoData as { state: string }).state,
-  "new-mexico",
-);
-
-const kansasFacilities = transformAlternateFormatFacilities(
-  (kansasData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (kansasData as { state: string }).state,
-  "kansas",
-);
-
-const hawaiiFacilities = transformAlternateFormatFacilities(
-  (hawaiiData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (hawaiiData as { state: string }).state,
-  "hawaii",
-);
-
-const wisconsinFacilities = transformAlternateFormatFacilities(
-  (wisconsinData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (wisconsinData as { state: string }).state,
-  "wisconsin",
-);
-
-const missouriFacilities = transformAlternateFormatFacilities(
-  (missouriData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (missouriData as { state: string }).state,
-  "missouri",
-);
-
-const indianaFacilities = transformAlternateFormatFacilities(
-  (indianaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (indianaData as { state: string }).state,
-  "indiana",
-);
-
-const northCarolinaFacilities = transformAlternateFormatFacilities(
-  (northCarolinaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (northCarolinaData as { state: string }).state,
-  "north-carolina",
-);
-
-const utahFacilities = transformAlternateFormatFacilities(
-  (utahData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (utahData as { state: string }).state,
-  "utah",
-);
-
-const virginiaFacilities = transformAlternateFormatFacilities(
-  (virginiaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (virginiaData as { state: string }).state,
-  "virginia",
-);
-
-const nebraskaFacilities = transformAlternateFormatFacilities(
-  (nebraskaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (nebraskaData as { state: string }).state,
-  "nebraska",
+  arizonaDataTyped.facilities,
+  arizonaDataTyped.state,
+  arizonaDataTyped.state_slug,
 );
 
 const arkansasFacilities = transformAlternateFormatFacilities(
-  (arkansasData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (arkansasData as { state: string }).state,
-  "arkansas",
-);
-
-const tennesseeFacilities = transformAlternateFormatFacilities(
-  (tennesseeData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (tennesseeData as { state: string }).state,
-  "tennessee",
-);
-
-const kentuckyFacilities = transformAlternateFormatFacilities(
-  (kentuckyData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (kentuckyData as { state: string }).state,
-  "kentucky",
-);
-
-const minnesotaFacilities = transformAlternateFormatFacilities(
-  (minnesotaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (minnesotaData as { state: string }).state,
-  "minnesota",
-);
-
-const idahoFacilities = transformAlternateFormatFacilities(
-  (idahoData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (idahoData as { state: string }).state,
-  "idaho",
-);
-
-const oklahomaFacilities = oklahomaData as unknown as RawFacility[];
-
-const iowaFacilities = transformAlternateFormatFacilities(
-  iowaData as unknown as AlternateFormatFacilityRaw[],
-  "Iowa",
-  "iowa",
-);
-
-const newJerseyFacilities = transformAlternateFormatFacilities(
-  (newJerseyData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (newJerseyData as { state: string }).state,
-  "new-jersey",
+  arkansasDataTyped.facilities,
+  arkansasDataTyped.state,
+  arkansasDataTyped.state_slug,
 );
 
 const connecticutFacilities = transformAlternateFormatFacilities(
-  (connecticutData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (connecticutData as { state: string }).state,
-  "connecticut",
-);
-
-const coloradoFacilities = transformAlternateFormatFacilities(
-  (coloradoData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (coloradoData as { state: string }).state,
-  "colorado",
-);
-
-const georgiaFacilities = transformAlternateFormatFacilities(
-  (georgiaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (georgiaData as { state: string }).state,
-  "georgia",
-);
-
-const nevadaFacilities = transformAlternateFormatFacilities(
-  (nevadaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (nevadaData as { state: string }).state,
-  "nevada",
-);
-
-const alabamaFacilities = transformAlternateFormatFacilities(
-  (alabamaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (alabamaData as { state: string }).state,
-  "alabama",
-);
-
-const louisianaFacilities = transformAlternateFormatFacilities(
-  (louisianaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (louisianaData as { state: string }).state,
-  "louisiana",
-);
-
-const oregonFacilities = transformAlternateFormatFacilities(
-  (oregonData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (oregonData as { state: string }).state,
-  "oregon",
-);
-
-const newHampshireFacilities = transformAlternateFormatFacilities(
-  (newHampshireData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (newHampshireData as { state: string }).state,
-  "new-hampshire",
-);
-
-const washingtonFacilities = transformAlternateFormatFacilities(
-  (washingtonData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (washingtonData as { state: string }).state,
-  "washington",
-);
-
-const massachusettsFacilities = transformAlternateFormatFacilities(
-  (massachusettsData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (massachusettsData as { state: string }).state,
-  "massachusetts",
-);
-
-const vermontFacilities = transformAlternateFormatFacilities(
-  (vermontData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (vermontData as { state: string }).state,
-  "vermont",
-);
-
-const rhodeIslandFacilities = transformAlternateFormatFacilities(
-  (rhodeIslandData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (rhodeIslandData as { state: string }).state,
-  "rhode-island",
-);
-
-const mississippiFacilities = transformAlternateFormatFacilities(
-  (mississippiData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (mississippiData as { state: string }).state,
-  "mississippi",
-);
-
-const montanaFacilities = transformAlternateFormatFacilities(
-  (montanaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (montanaData as { state: string }).state,
-  "montana",
-);
-
-const washingtonDcFacilities = transformAlternateFormatFacilities(
-  (washingtonDcData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (washingtonDcData as { state: string }).state,
-  "washington-dc",
-);
-
-const northDakotaFacilities = transformAlternateFormatFacilities(
-  (northDakotaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (northDakotaData as { state: string }).state,
-  "north-dakota",
-);
-
-const southDakotaFacilities = transformAlternateFormatFacilities(
-  (southDakotaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (southDakotaData as { state: string }).state,
-  "south-dakota",
-);
-
-const wyomingFacilities = transformAlternateFormatFacilities(
-  (wyomingData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (wyomingData as { state: string }).state,
-  "wyoming",
-);
-
-const pennsylvaniaFacilities = transformAlternateFormatFacilities(
-  (pennsylvaniaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (pennsylvaniaData as { state: string }).state,
-  "pennsylvania",
-);
-
-const alaskaFacilities = transformAlternateFormatFacilities(
-  (alaskaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (alaskaData as { state: string }).state,
-  "alaska",
+  connecticutDataTyped.facilities,
+  connecticutDataTyped.state,
+  connecticutDataTyped.state_slug,
 );
 
 const delawareFacilities = transformAlternateFormatFacilities(
-  (delawareData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (delawareData as { state: string }).state,
-  "delaware",
+  delawareDataTyped.facilities,
+  delawareDataTyped.state,
+  delawareDataTyped.state_slug,
 );
 
-const westVirginiaFacilities = transformAlternateFormatFacilities(
-  (westVirginiaData as { facilities: AlternateFormatFacilityRaw[]; state: string }).facilities,
-  (westVirginiaData as { state: string }).state,
-  "west-virginia",
+const floridaFacilities = transformAlternateFormatFacilities(
+  floridaDataTyped.facilities,
+  floridaDataTyped.state,
+  floridaDataTyped.state_slug,
 );
 
 export type RawFacility = {
@@ -465,54 +185,12 @@ export type StateSummary = {
 };
 
 const STATE_DATA: Record<string, RawFacility[]> = {
-  florida: floridaFacilities,
-  hawaii: hawaiiFacilities,
-  california: californiaFacilities,
-  texas: texasFacilities,
-  "new-york": newYorkFacilities,
-  arizona: arizonaFacilities,
-  alabama: alabamaFacilities,
   alaska: alaskaFacilities,
+  arizona: arizonaFacilities,
   arkansas: arkansasFacilities,
-  colorado: coloradoFacilities,
   connecticut: connecticutFacilities,
   delaware: delawareFacilities,
-  illinois: illinoisFacilities,
-  indiana: indianaFacilities,
-  idaho: idahoFacilities,
-  iowa: iowaFacilities,
-  georgia: georgiaFacilities,
-  kansas: kansasFacilities,
-  kentucky: kentuckyFacilities,
-  louisiana: louisianaFacilities,
-  maryland: marylandFacilities,
-  massachusetts: massachusettsFacilities,
-  michigan: michiganFacilities,
-  minnesota: minnesotaFacilities,
-  mississippi: mississippiFacilities,
-  missouri: missouriFacilities,
-  montana: montanaFacilities,
-  nebraska: nebraskaFacilities,
-  "new-hampshire": newHampshireFacilities,
-  "new-mexico": newMexicoFacilities,
-  "north-carolina": northCarolinaFacilities,
-  "north-dakota": northDakotaFacilities,
-  ohio: ohioFacilities,
-  oklahoma: oklahomaFacilities,
-  oregon: oregonFacilities,
-  pennsylvania: pennsylvaniaFacilities,
-  "rhode-island": rhodeIslandFacilities,
-  "south-carolina": southCarolinaFacilities,
-  "south-dakota": southDakotaFacilities,
-  tennessee: tennesseeFacilities,
-  utah: utahFacilities,
-  vermont: vermontFacilities,
-  virginia: virginiaFacilities,
-  washington: washingtonFacilities,
-  "washington-dc": washingtonDcFacilities,
-  "west-virginia": westVirginiaFacilities,
-  wisconsin: wisconsinFacilities,
-  wyoming: wyomingFacilities,
+  florida: floridaFacilities,
 };
 
 const CANADIAN_REGION_SLUGS = new Set([
@@ -799,118 +477,25 @@ export function getGlobalStats(): GlobalStats {
 
 export function getStateResourcesUrl(stateSlug: string): string {
   const normalized = stateSlug.toLowerCase();
-  if (normalized === "california") {
-    return "https://aging.ca.gov/";
-  }
-  if (normalized === "florida") {
-    return "https://elderaffairs.org/";
-  }
-  if (normalized === "texas") {
-    return "https://www.hhs.texas.gov/";
-  }
-  if (normalized === "new-york") {
-    return "https://aging.ny.gov/";
+  if (normalized === "alaska") {
+    return "https://dhss.alaska.gov/dbh/Pages/default.aspx";
   }
   if (normalized === "arizona") {
-    return "https://des.az.gov/aging-adult-services";
-  }
-  if (normalized === "illinois") {
-    return "https://aging.illinois.gov/";
-  }
-  if (normalized === "michigan") {
-    return "https://www.michigan.gov/mdhhs/adult-adult-senior";
-  }
-  if (normalized === "ohio") {
-    return "https://aging.ohio.gov/";
-  }
-  if (normalized === "south-carolina") {
-    return "https://aging.sc.gov/";
-  }
-  if (normalized === "maryland") {
-    return "https://aging.maryland.gov/";
-  }
-  if (normalized === "new-mexico") {
-    return "https://aging.nm.gov/";
-  }
-  if (normalized === "kansas") {
-    return "https://aging.kdads.ks.gov/";
-  }
-  if (normalized === "hawaii") {
-    return "https://health.hawaii.gov/aging/";
-  }
-  if (normalized === "wisconsin") {
-    return "https://www.dhs.wisconsin.gov/aging/";
-  }
-  if (normalized === "missouri") {
-    return "https://health.mo.gov/seniors/";
-  }
-  if (normalized === "indiana") {
-    return "https://www.in.gov/fssa/da/3479.htm";
-  }
-  if (normalized === "north-carolina") {
-    return "https://www.ncdhhs.gov/divisions/aging-and-adult-services";
-  }
-  if (normalized === "utah") {
-    return "https://aging.utah.gov/";
-  }
-  if (normalized === "virginia") {
-    return "https://www.dss.virginia.gov/";
-  }
-  if (normalized === "nebraska") {
-    return "https://dhhs.ne.gov/Pages/aging.aspx";
+    return "https://www.azahcccs.gov/";
   }
   if (normalized === "arkansas") {
-    return "https://humanservices.arkansas.gov/divisions-shared-services/aging-adult-and-behavioral-health-services";
-  }
-  if (normalized === "tennessee") {
-    return "https://www.tn.gov/aging.html";
-  }
-  if (normalized === "kentucky") {
-    return "https://chfs.ky.gov/agencies/dail/Pages/default.aspx";
-  }
-  if (normalized === "minnesota") {
-    return "https://mn.gov/dhs/people-we-serve/seniors/";
-  }
-  if (normalized === "idaho") {
-    return "https://aging.idaho.gov/";
-  }
-  if (normalized === "new-jersey") {
-    return "https://www.nj.gov/health/senior/";
-  }
-  if (normalized === "new-hampshire") {
-    return "https://www.dhhs.nh.gov/programs/elderly-adult-services";
+    return "https://humanservices.arkansas.gov/divisions-shared-services/behavioral-health-services";
   }
   if (normalized === "connecticut") {
-    return "https://portal.ct.gov/aging";
+    return "https://portal.ct.gov/dph";
   }
-  if (normalized === "colorado") {
-    return "https://aging.colorado.gov/";
+  if (normalized === "delaware") {
+    return "https://www.dhss.delaware.gov/dhss/dsamh/";
   }
-  if (normalized === "georgia") {
-    return "https://dhs.georgia.gov/division-aging-services";
+  if (normalized === "florida") {
+    return "https://www.myflorida.com/accessflorida/";
   }
-  if (normalized === "nevada") {
-    return "https://aging.nv.gov/";
-  }
-  if (normalized === "alabama") {
-    return "https://alabamaageline.gov/";
-  }
-  if (normalized === "louisiana") {
-    return "https://ldaf.state.la.us/aging-adult-services/";
-  }
-  if (normalized === "oregon") {
-    return "https://www.oregon.gov/dhs/SENIORS-DISABILITIES/Pages/index.aspx";
-  }
-  if (normalized === "washington") {
-    return "https://www.dshs.wa.gov/aging-and-long-term-support-administration";
-  }
-  if (normalized === "massachusetts") {
-    return "https://www.mass.gov/orgs/executive-office-of-elder-affairs";
-  }
-  if (normalized === "vermont") {
-    return "https://www.vermont.gov/agency/das";
-  }
-  return "https://www.usa.gov/senior-health";
+  return "https://www.samhsa.gov/";
 }
 
 export function getHreflangForRegionSlug(
@@ -919,4 +504,3 @@ export function getHreflangForRegionSlug(
   const normalized = (regionSlug ?? "").toLowerCase();
   return CANADIAN_REGION_SLUGS.has(normalized) ? "en-ca" : "en-us";
 }
-

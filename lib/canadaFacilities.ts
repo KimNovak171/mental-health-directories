@@ -1,42 +1,4 @@
 import type { Facility } from "@/components/FacilityCard";
-import britishColumbiaData from "@/data/british_columbia_facilities.json";
-import albertaData from "@/data/alberta_facilities.json";
-import saskatchewanData from "@/data/saskatchewan_facilities.json";
-import manitobaData from "@/data/manitoba_facilities.json";
-import ontarioData from "@/data/ontario_facilities.json";
-import novaScotiaData from "@/data/nova_scotia_facilities.json";
-import newBrunswickData from "@/data/new_brunswick_facilities.json";
-import princeEdwardIslandData from "@/data/prince_edward_island_facilities.json";
-import northwestTerritoriesData from "@/data/northwest_territories_facilities.json";
-import yukonData from "@/data/yukon_facilities.json";
-import nunavutData from "@/data/nunavut_facilities.json";
-import newfoundlandAndLabradorData from "@/data/newfoundland_and_labrador_facilities.json";
-import quebecData from "@/data/quebec_facilities.json";
-
-type CanadaFacilityRaw = {
-  name: string;
-  care_type: string;
-  address: string;
-  city: string;
-  province: string;
-  country: string;
-  phone?: string | null;
-  website?: string | null;
-  rating?: number | null;
-  reviews?: number | null;
-  place_id?: string | null;
-  recommended?: boolean;
-  featured?: boolean;
-  premium?: boolean;
-  logo?: string | null;
-  tagline?: string | null;
-};
-
-type CanadaJson = {
-  province: string;
-  country: string;
-  facilities: CanadaFacilityRaw[];
-};
 
 export type CanadaRawFacility = {
   id: string;
@@ -93,142 +55,7 @@ export type CanadaDirectoryItem = {
   cities: { citySlug: string; cityName: string }[];
 };
 
-/** Normalize accented characters (e.g. é, è, ô) to ASCII for URL-safe slugs (Quebec data). */
-function normalizeForSlug(text: string): string {
-  return text
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase();
-}
-
-function slugify(text: string | null | undefined): string {
-  return normalizeForSlug((text ?? "").trim())
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-}
-
-function transformCanadaFacilities(
-  facilities: CanadaFacilityRaw[],
-  provinceName: string,
-  provinceSlug: string,
-): CanadaRawFacility[] {
-  const valid = facilities.filter((f) => (f.city ?? "").trim() !== "");
-  return valid.map((f, index) => {
-    const citySlug = slugify(f.city);
-    const nameSlug = slugify(f.name);
-    const id = `ca-${provinceSlug}-${nameSlug}-${citySlug}-${index}`;
-    const addressParts = (f.address || "").split(",").map((s) => s.trim());
-    const addressLine1 = addressParts[0] ?? f.address ?? "";
-    const addressLine2 =
-      addressParts.length > 1 ? addressParts.slice(1).join(", ") : undefined;
-    const mapsUrl = f.place_id
-      ? `https://search.google.com/local/reviews?placeid=${f.place_id}&q=*&authuser=0&hl=en&gl=CA`
-      : undefined;
-    return {
-      id,
-      name: f.name,
-      province: provinceName,
-      provinceSlug,
-      city: f.city,
-      citySlug,
-      addressLine1,
-      addressLine2: addressLine2 || null,
-      phone: f.phone ?? null,
-      websiteUrl: f.website ?? null,
-      mapsUrl: mapsUrl ?? null,
-      rating: f.rating ?? null,
-      reviewCount: f.reviews ?? null,
-      careTypes: ["Mental health service"],
-      featured: f.featured ?? undefined,
-      premium: f.premium ?? undefined,
-      recommended: f.recommended ?? undefined,
-      logo: f.logo ?? undefined,
-      tagline: f.tagline ?? undefined,
-    };
-  });
-}
-
-const britishColumbiaFacilities = transformCanadaFacilities(
-  (britishColumbiaData as CanadaJson).facilities,
-  (britishColumbiaData as CanadaJson).province,
-  "british-columbia",
-);
-const albertaFacilities = transformCanadaFacilities(
-  (albertaData as CanadaJson).facilities,
-  (albertaData as CanadaJson).province,
-  "alberta",
-);
-const saskatchewanFacilities = transformCanadaFacilities(
-  (saskatchewanData as CanadaJson).facilities,
-  (saskatchewanData as CanadaJson).province,
-  "saskatchewan",
-);
-const manitobaFacilities = transformCanadaFacilities(
-  (manitobaData as CanadaJson).facilities,
-  (manitobaData as CanadaJson).province,
-  "manitoba",
-);
-const ontarioFacilities = transformCanadaFacilities(
-  (ontarioData as CanadaJson).facilities,
-  (ontarioData as CanadaJson).province,
-  "ontario",
-);
-const novaScotiaFacilities = transformCanadaFacilities(
-  (novaScotiaData as CanadaJson).facilities,
-  (novaScotiaData as CanadaJson).province,
-  "nova-scotia",
-);
-const newBrunswickFacilities = transformCanadaFacilities(
-  (newBrunswickData as CanadaJson).facilities,
-  (newBrunswickData as CanadaJson).province,
-  "new-brunswick",
-);
-const princeEdwardIslandFacilities = transformCanadaFacilities(
-  (princeEdwardIslandData as CanadaJson).facilities,
-  (princeEdwardIslandData as CanadaJson).province,
-  "prince-edward-island",
-);
-const northwestTerritoriesFacilities = transformCanadaFacilities(
-  (northwestTerritoriesData as CanadaJson).facilities,
-  (northwestTerritoriesData as CanadaJson).province,
-  "northwest-territories",
-);
-const yukonFacilities = transformCanadaFacilities(
-  (yukonData as CanadaJson).facilities,
-  (yukonData as CanadaJson).province,
-  "yukon",
-);
-const nunavutFacilities = transformCanadaFacilities(
-  (nunavutData as CanadaJson).facilities,
-  (nunavutData as CanadaJson).province,
-  "nunavut",
-);
-const newfoundlandAndLabradorFacilities = transformCanadaFacilities(
-  (newfoundlandAndLabradorData as CanadaJson).facilities,
-  (newfoundlandAndLabradorData as CanadaJson).province,
-  "newfoundland-and-labrador",
-);
-const quebecFacilities = transformCanadaFacilities(
-  quebecData as unknown as CanadaFacilityRaw[],
-  "Quebec",
-  "quebec",
-);
-
-const PROVINCE_DATA: Record<string, CanadaRawFacility[]> = {
-  alberta: albertaFacilities,
-  "british-columbia": britishColumbiaFacilities,
-  manitoba: manitobaFacilities,
-  "new-brunswick": newBrunswickFacilities,
-  "newfoundland-and-labrador": newfoundlandAndLabradorFacilities,
-  "northwest-territories": northwestTerritoriesFacilities,
-  "nova-scotia": novaScotiaFacilities,
-  nunavut: nunavutFacilities,
-  ontario: ontarioFacilities,
-  "prince-edward-island": princeEdwardIslandFacilities,
-  quebec: quebecFacilities,
-  saskatchewan: saskatchewanFacilities,
-  yukon: yukonFacilities,
-};
+const PROVINCE_DATA: Record<string, CanadaRawFacility[]> = {};
 
 function toCanadaFacilityRecord(raw: CanadaRawFacility): CanadaFacilityRecord {
   const addressLines: string[] = [raw.addressLine1];
@@ -266,8 +93,6 @@ export async function getProvinceSummary(
   const safeSlug = (provinceSlug ?? "").toLowerCase();
   const rawFacilities = PROVINCE_DATA[safeSlug] ?? [];
   const facilities = rawFacilities.map(toCanadaFacilityRecord);
-
-  const totalFacilities = facilities.length;
 
   const cityMap = new Map<
     string,
@@ -344,7 +169,7 @@ export async function getProvinceSummary(
     provinceSlug: safeSlug,
     provinceName,
     facilities,
-    totalFacilities,
+    totalFacilities: facilities.length,
     cities,
     averageRating,
     careTypes,
