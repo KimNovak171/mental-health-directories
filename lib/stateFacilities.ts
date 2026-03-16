@@ -11,6 +11,12 @@ import louisianaData from "@/data/louisiana_facilities.json";
 import maineData from "@/data/maine_facilities.json";
 import marylandData from "@/data/maryland_facilities.json";
 import massachusettsData from "@/data/massachusetts_facilities.json";
+import michiganData from "@/data/michigan_facilities.json";
+import minnesotaData from "@/data/minnesota_facilities.json";
+import mississippiData from "@/data/mississippi_facilities.json";
+import missouriData from "@/data/missouri_facilities.json";
+import montanaData from "@/data/montana_facilities.json";
+import nevadaData from "@/data/nevada_facilities.json";
 
 type AlternateFormatFacilityRaw = {
   name: string;
@@ -111,6 +117,12 @@ const louisianaDataTyped = louisianaData as StateFileShape;
 const maineDataTyped = maineData as StateFileShape;
 const marylandDataTyped = marylandData as StateFileShape;
 const massachusettsDataTyped = massachusettsData as StateFileShape;
+const michiganDataTyped = michiganData as StateFileShape;
+const minnesotaDataTyped = minnesotaData as StateFileShape;
+const mississippiDataTyped = mississippiData as StateFileShape;
+const missouriDataTyped = missouriData as StateFileShape;
+const montanaDataTyped = montanaData as StateFileShape;
+const nevadaDataTyped = nevadaData as StateFileShape;
 
 const alaskaFacilities = transformAlternateFormatFacilities(
   alaskaDataTyped.facilities,
@@ -184,6 +196,42 @@ const massachusettsFacilities = transformAlternateFormatFacilities(
   massachusettsDataTyped.state_slug,
 );
 
+const michiganFacilities = transformAlternateFormatFacilities(
+  michiganDataTyped.facilities,
+  michiganDataTyped.state,
+  michiganDataTyped.state_slug,
+);
+
+const minnesotaFacilities = transformAlternateFormatFacilities(
+  minnesotaDataTyped.facilities,
+  minnesotaDataTyped.state,
+  minnesotaDataTyped.state_slug,
+);
+
+const mississippiFacilities = transformAlternateFormatFacilities(
+  mississippiDataTyped.facilities,
+  mississippiDataTyped.state,
+  mississippiDataTyped.state_slug,
+);
+
+const missouriFacilities = transformAlternateFormatFacilities(
+  missouriDataTyped.facilities,
+  missouriDataTyped.state,
+  missouriDataTyped.state_slug,
+);
+
+const montanaFacilities = transformAlternateFormatFacilities(
+  montanaDataTyped.facilities,
+  montanaDataTyped.state,
+  montanaDataTyped.state_slug,
+);
+
+const nevadaFacilities = transformAlternateFormatFacilities(
+  nevadaDataTyped.facilities,
+  nevadaDataTyped.state,
+  nevadaDataTyped.state_slug,
+);
+
 export type RawFacility = {
   id: string;
   name: string;
@@ -245,6 +293,12 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   maine: maineFacilities,
   maryland: marylandFacilities,
   massachusetts: massachusettsFacilities,
+  michigan: michiganFacilities,
+  minnesota: minnesotaFacilities,
+  mississippi: mississippiFacilities,
+  missouri: missouriFacilities,
+  montana: montanaFacilities,
+  nevada: nevadaFacilities,
 };
 
 const CANADIAN_REGION_SLUGS = new Set([
@@ -566,6 +620,24 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "massachusetts") {
     return "https://www.mass.gov/orgs/massachusetts-department-of-mental-health";
+  }
+  if (normalized === "michigan") {
+    return "https://www.michigan.gov/mdhhs/mentalhealth";
+  }
+  if (normalized === "minnesota") {
+    return "https://www.health.state.mn.us/people/mentalhealth/";
+  }
+  if (normalized === "mississippi") {
+    return "https://dmh.ms.gov/";
+  }
+  if (normalized === "missouri") {
+    return "https://dmh.mo.gov/";
+  }
+  if (normalized === "montana") {
+    return "https://dphhs.mt.gov/amdd";
+  }
+  if (normalized === "nevada") {
+    return "https://mhds.nv.gov/";
   }
   return "https://www.samhsa.gov/";
 }
