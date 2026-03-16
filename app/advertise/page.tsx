@@ -30,8 +30,8 @@ export const metadata: Metadata = {
 };
 
 const siteUrl = "https://mentalhealthdirectories.com";
-const STRIPE_LINK_49 = "https://buy.stripe.com/28E00jb2q2jlgsC2f7fAc00";
-const STRIPE_LINK_99 = "https://buy.stripe.com/eVq5kD4E2cXZfoy4nffAc01";
+const STRIPE_LINK_FEATURED = "https://buy.stripe.com/dRmbJ18UibTVfoydXPfAc04";
+const STRIPE_LINK_PREMIUM = "https://buy.stripe.com/dRm28rc6u2jl90a9HzfAc05";
 
 export default function AdvertisePage() {
   const breadcrumbSchema = {
@@ -87,12 +87,12 @@ export default function AdvertisePage() {
             <li>Cancel anytime</li>
           </ul>
           <a
-            href={STRIPE_LINK_49}
+            href={STRIPE_LINK_FEATURED}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-5 inline-flex w-full items-center justify-center rounded-full bg-teal px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-soft focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal focus-visible:ring-offset-2"
           >
-            Get Started
+            Get Started — $49/month
           </a>
         </article>
         <article className="rounded-xl border border-surface-muted bg-surface p-6 shadow-sm">
@@ -107,12 +107,12 @@ export default function AdvertisePage() {
             <li>Cancel anytime</li>
           </ul>
           <a
-            href={STRIPE_LINK_99}
+            href={STRIPE_LINK_PREMIUM}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-5 inline-flex w-full items-center justify-center rounded-full bg-teal px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-soft focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal focus-visible:ring-offset-2"
           >
-            Get Started
+            Get Started — $99/month
           </a>
         </article>
       </section>
