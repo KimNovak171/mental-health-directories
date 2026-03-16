@@ -24,31 +24,19 @@ type FacilityCardProps = {
 const getCareTypeColor = (type: string): string => {
   const normalized = type.toLowerCase();
 
-  if (normalized.includes("assisted")) {
-    return "#2E7D32";
+  if (normalized.includes("mental health")) {
+    return "#2A7F7F";
   }
-
-  if (normalized.includes("nursing")) {
-    return "#BF360C";
-  }
-
-  if (normalized.includes("retirement comm")) {
+  if (normalized.includes("therapy") || normalized.includes("therapist")) {
     return "#1976D2";
   }
-
-  if (normalized.includes("retirement home")) {
-    return "#1565C0";
-  }
-
-  if (normalized.includes("day care")) {
-    return "#0277BD";
-  }
-
-  if (normalized.includes("aged care")) {
+  if (normalized.includes("counseling") || normalized.includes("counselor")) {
     return "#00695C";
   }
-
-  if (normalized.includes("hospice")) {
+  if (normalized.includes("clinic")) {
+    return "#0277BD";
+  }
+  if (normalized.includes("psychiatric") || normalized.includes("psychologist")) {
     return "#4A148C";
   }
 

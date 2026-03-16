@@ -67,14 +67,7 @@ export default async function ProvincePage({ params }: ProvincePageProps) {
     careTypes,
   } = await getProvinceSummary(provinceSlug ?? "");
 
-  const careTypesText = (
-    [
-      "assisted living",
-      "nursing homes",
-      "retirement communities",
-      "memory care",
-    ] as const
-  ).join(", ");
+  const careTypesText = "mental health services, therapy, counseling";
   const majorCities = [...cities]
     .sort((a, b) => b.facilityCount - a.facilityCount)
     .slice(0, 6)
@@ -156,10 +149,9 @@ export default async function ProvincePage({ params }: ProvincePageProps) {
     },
     about: [
       { "@type": "Thing", name: `${provinceName} mental health services` },
-      { "@type": "Thing", name: "Assisted living" },
-      { "@type": "Thing", name: "Nursing homes" },
-      { "@type": "Thing", name: "Memory care" },
-      { "@type": "Thing", name: "Retirement communities" },
+      { "@type": "Thing", name: "Mental health service" },
+      { "@type": "Thing", name: "Therapy" },
+      { "@type": "Thing", name: "Counseling" },
     ],
     speakable: {
       "@type": "SpeakableSpecification",
@@ -194,7 +186,7 @@ export default async function ProvincePage({ params }: ProvincePageProps) {
         className="mb-4 flex items-center justify-center gap-2 rounded-full bg-teal px-5 py-3 text-center text-sm font-semibold text-white shadow-md transition hover:bg-teal-soft focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal focus-visible:ring-offset-2"
         aria-label="View featured listing pricing and benefits"
       >
-        Get your community featured — view pricing &amp; benefits →
+        Get your practice featured — view pricing &amp; benefits →
       </Link>
       <section className="rounded-2xl bg-navy px-5 py-6 text-surface shadow-lg shadow-navy/30 ring-1 ring-gold/40 sm:px-8 sm:py-8">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold-soft">
@@ -212,7 +204,7 @@ export default async function ProvincePage({ params }: ProvincePageProps) {
         <div className="mt-5 grid gap-4 text-sm sm:grid-cols-3">
           <div className="rounded-xl bg-navy-soft/70 p-4 ring-1 ring-white/5">
             <p className="text-xs font-semibold uppercase tracking-wide text-gold-soft">
-              Communities listed
+              Listings
             </p>
             <p className="mt-1 text-2xl font-semibold">
               {totalFacilities.toLocaleString()}
@@ -251,7 +243,7 @@ export default async function ProvincePage({ params }: ProvincePageProps) {
               Top Picks in {provinceName}
             </h2>
             <p className="text-sm text-slate-600">
-              Featured communities in {provinceName} — verified listings with
+              Featured providers in {provinceName} — verified listings with
               priority placement.
             </p>
             <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
@@ -282,8 +274,8 @@ export default async function ProvincePage({ params }: ProvincePageProps) {
 
         {cities.length === 0 ? (
           <p className="text-sm text-slate-600">
-            We don&apos;t have facilities listed for {provinceName} yet. As new
-            data becomes available, cities and communities will appear here.
+            We don&apos;t have providers listed for {provinceName} yet. As new
+            data becomes available, cities and listings will appear here.
           </p>
         ) : (
           <div className="mt-4 grid gap-3 sm:grid-cols-2 md:grid-cols-3">

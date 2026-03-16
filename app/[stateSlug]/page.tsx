@@ -25,7 +25,7 @@ export async function generateMetadata({
 
   const { stateName, totalFacilities, cities } = await getStateSummary(safeSlug);
 
-  const title = `Mental Health Services in ${stateName} | ${totalFacilities.toLocaleString()} Verified Communities | MentalHealthDirectories.com`;
+  const title = `Mental Health Services in ${stateName} | ${totalFacilities.toLocaleString()} Verified Listings | MentalHealthDirectories.com`;
 
   const descriptor = `Browse ${totalFacilities.toLocaleString()} verified mental health services across ${cities.length.toLocaleString()} ${stateName} cities. Mental health services — verified and rated on Google Maps.`;
 
@@ -190,7 +190,7 @@ export default async function StatePage({ params }: StatePageProps) {
         className="mb-4 flex items-center justify-center gap-2 rounded-full bg-teal px-5 py-3 text-center text-sm font-semibold text-white shadow-md transition hover:bg-teal-soft focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal focus-visible:ring-offset-2"
         aria-label="View featured listing pricing and benefits"
       >
-        Get your community featured — view pricing &amp; benefits →
+        Get your practice featured — view pricing &amp; benefits →
       </Link>
       <section className="rounded-2xl bg-navy px-5 py-6 text-surface shadow-lg shadow-navy/30 ring-1 ring-gold/40 sm:px-8 sm:py-8">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold-soft">
@@ -217,7 +217,7 @@ export default async function StatePage({ params }: StatePageProps) {
         <div className="mt-5 grid gap-4 text-sm sm:grid-cols-3">
           <div className="rounded-xl bg-navy-soft/70 p-4 ring-1 ring-white/5">
             <p className="text-xs font-semibold uppercase tracking-wide text-gold-soft">
-              Communities listed
+              Listings
             </p>
             <p className="mt-1 text-2xl font-semibold">
               {totalFacilities.toLocaleString()}
@@ -256,7 +256,7 @@ export default async function StatePage({ params }: StatePageProps) {
               Top Picks in {stateName}
             </h2>
             <p className="text-sm text-slate-600">
-              Featured communities in {stateName} — verified listings with priority placement.
+              Featured providers in {stateName} — verified listings with priority placement.
             </p>
             <div className="mt-4 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               {featuredFacilities.map((facility) => (
@@ -286,8 +286,8 @@ export default async function StatePage({ params }: StatePageProps) {
 
         {cities.length === 0 ? (
           <p className="text-sm text-slate-600">
-            We don&apos;t have facilities listed for {stateName} yet. As new
-            data becomes available, cities and communities will appear here.
+            We don&apos;t have providers listed for {stateName} yet. As new
+            data becomes available, cities and listings will appear here.
           </p>
         ) : (
           <div className="mt-4 grid gap-3 sm:grid-cols-2 md:grid-cols-3">

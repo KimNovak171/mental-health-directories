@@ -16,7 +16,7 @@ export function generateMetadata({
     description: `Explore mental health services and providers in ${regionCode} with MentalHealthDirectories.com.`,
     openGraph: {
       title: `Mental health in ${regionCode} | MentalHealthDirectories.com`,
-      description: `Browse senior living options, including mental health services in ${regionCode}.`,
+      description: `Browse mental health services and providers in ${regionCode}.`,
       url: `/locations/${params.region}`,
       type: "website",
     },

@@ -24,7 +24,7 @@ export async function generateMetadata({
   const { provinceName, cityName, facilities: cityFacilities } =
     await getCanadaCityFacilities(safeProvince, safeCity);
   const count = Array.isArray(cityFacilities) ? cityFacilities.length : 0;
-  const title = `Senior Living Facilities in ${cityName}, ${provinceName}, Canada | Mental Health Directories`;
+  const title = `Mental Health Services in ${cityName}, ${provinceName}, Canada | Mental Health Directories`;
   const description = `Find ${count.toLocaleString()} mental health services in ${cityName}, ${provinceName}. Compare mental health services. Verified listings with ratings and reviews.`;
 
   return {
@@ -171,7 +171,7 @@ export default async function CanadaCityPage({ params }: CanadaCityPageProps) {
           each with Google Maps profile links and ratings data where available.
         </p>
         <p className="max-w-2xl text-sm text-slate-600">
-          Compare communities side by side, review care types and contact
+          Compare providers side by side, review care types and contact
           details, and share this page with family members as you plan next
           steps in {provinceName}.
         </p>
@@ -209,13 +209,13 @@ export default async function CanadaCityPage({ params }: CanadaCityPageProps) {
 
       <section className="mt-8 space-y-4">
         <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-navy">
-          Communities in {cityName}
+          Mental health providers in {cityName}
         </h2>
 
         {facilities.length === 0 ? (
           <p className="text-sm text-slate-600">
-            We don&apos;t have facilities listed for {cityName}, {provinceName}{" "}
-            yet. As new data becomes available, communities will appear here.
+            We don&apos;t have providers listed for {cityName}, {provinceName}{" "}
+            yet. As new data becomes available, listings will appear here.
           </p>
         ) : (
           <div className="grid gap-4 md:grid-cols-2">

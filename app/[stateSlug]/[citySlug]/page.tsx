@@ -28,7 +28,7 @@ export async function generateMetadata({
     await getCityFacilities(safeState, safeCity);
   const count = Array.isArray(cityFacilities) ? cityFacilities.length : 0;
   const title = `Mental Health Services in ${cityName}, ${stateName} | Mental Health Directories`;
-  const description = `Find ${count.toLocaleString()} mental health services in ${cityName}, ${stateName}. Compare mental health services. Verified listings with ratings and reviews. Verified listings with ratings and reviews.`;
+  const description = `Find ${count.toLocaleString()} mental health services in ${cityName}, ${stateName}. Compare mental health services. Verified listings with ratings and reviews.`;
 
   return {
     title,
@@ -101,7 +101,7 @@ export default async function CityPage({ params }: CityPageProps) {
   const careTypesText =
     careTypes.length > 0
       ? careTypes.slice(0, 4).join(", ")
-      : "assisted living and retirement care";
+      : "mental health services";
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
@@ -177,12 +177,12 @@ export default async function CityPage({ params }: CityPageProps) {
         </h1>
         <p className="max-w-2xl text-sm text-slate-600">
           {cityName} has {facilities.length.toLocaleString()} verified mental health
-          living facilities including {careTypesText}. Browse all options
+          services including {careTypesText}. Browse all options
           below, each with Google Maps profile links and ratings data where
           available.
         </p>
         <p className="max-w-2xl text-sm text-slate-600">
-          Compare communities side by side, review care types and contact
+          Compare providers side by side, review care types and contact
           details, and share this page with family members as you plan next
           steps in {stateName}.
         </p>
@@ -214,13 +214,13 @@ export default async function CityPage({ params }: CityPageProps) {
 
       <section className="mt-8 space-y-4">
         <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-navy">
-          Communities in {cityName}
+          Mental health providers in {cityName}
         </h2>
 
         {facilities.length === 0 ? (
           <p className="text-sm text-slate-600">
-            We don&apos;t have facilities listed for {cityName}, {stateName} yet.
-            As new data becomes available, communities will appear here.
+            We don&apos;t have providers listed for {cityName}, {stateName} yet.
+            As new data becomes available, listings will appear here.
           </p>
         ) : (
           <div className="grid gap-4 md:grid-cols-2">

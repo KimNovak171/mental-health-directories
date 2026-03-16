@@ -101,8 +101,8 @@ export default function AdvertisePage() {
           </h2>
           <ul className="mt-4 list-disc space-y-2 pl-5 text-sm text-slate-600">
             <li>Everything in Featured</li>
-            <li>Included in the Featured Communities section on the homepage</li>
-            <li>Your facility logo or photo displayed</li>
+            <li>Included in the Featured Mental Health Services section on the homepage</li>
+            <li>Your practice logo or photo displayed</li>
             <li>Custom tagline (up to 60 words)</li>
             <li>Cancel anytime</li>
           </ul>

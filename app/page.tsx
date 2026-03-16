@@ -159,7 +159,7 @@ export default async function Home() {
               Featured Mental Health Services
             </h2>
             <p className="mt-1 text-sm text-slate-600">
-              Selected communities across our directories — verified listings for families comparing care options.
+              Featured providers across our directories — verified listings for families comparing mental health options.
             </p>
             <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {allFeatured.map((facility) => (
@@ -264,7 +264,7 @@ export default async function Home() {
               </h3>
               <p className="mt-2 text-sm text-slate-600">
                 Use website and maps links to verify details and contact
-                communities.
+                providers directly.
               </p>
             </div>
           </div>
