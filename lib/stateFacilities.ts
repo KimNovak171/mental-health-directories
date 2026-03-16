@@ -5,6 +5,12 @@ import arkansasData from "@/data/arkansas_facilities.json";
 import connecticutData from "@/data/connecticut_facilities.json";
 import delawareData from "@/data/delaware_facilities.json";
 import floridaData from "@/data/florida_facilities.json";
+import kansasData from "@/data/kansas_facilities.json";
+import kentuckyData from "@/data/kentucky_facilities.json";
+import louisianaData from "@/data/louisiana_facilities.json";
+import maineData from "@/data/maine_facilities.json";
+import marylandData from "@/data/maryland_facilities.json";
+import massachusettsData from "@/data/massachusetts_facilities.json";
 
 type AlternateFormatFacilityRaw = {
   name: string;
@@ -99,6 +105,12 @@ const arkansasDataTyped = arkansasData as StateFileShape;
 const connecticutDataTyped = connecticutData as StateFileShape;
 const delawareDataTyped = delawareData as StateFileShape;
 const floridaDataTyped = floridaData as StateFileShape;
+const kansasDataTyped = kansasData as StateFileShape;
+const kentuckyDataTyped = kentuckyData as StateFileShape;
+const louisianaDataTyped = louisianaData as StateFileShape;
+const maineDataTyped = maineData as StateFileShape;
+const marylandDataTyped = marylandData as StateFileShape;
+const massachusettsDataTyped = massachusettsData as StateFileShape;
 
 const alaskaFacilities = transformAlternateFormatFacilities(
   alaskaDataTyped.facilities,
@@ -134,6 +146,42 @@ const floridaFacilities = transformAlternateFormatFacilities(
   floridaDataTyped.facilities,
   floridaDataTyped.state,
   floridaDataTyped.state_slug,
+);
+
+const kansasFacilities = transformAlternateFormatFacilities(
+  kansasDataTyped.facilities,
+  kansasDataTyped.state,
+  kansasDataTyped.state_slug,
+);
+
+const kentuckyFacilities = transformAlternateFormatFacilities(
+  kentuckyDataTyped.facilities,
+  kentuckyDataTyped.state,
+  kentuckyDataTyped.state_slug,
+);
+
+const louisianaFacilities = transformAlternateFormatFacilities(
+  louisianaDataTyped.facilities,
+  louisianaDataTyped.state,
+  louisianaDataTyped.state_slug,
+);
+
+const maineFacilities = transformAlternateFormatFacilities(
+  maineDataTyped.facilities,
+  maineDataTyped.state,
+  maineDataTyped.state_slug,
+);
+
+const marylandFacilities = transformAlternateFormatFacilities(
+  marylandDataTyped.facilities,
+  marylandDataTyped.state,
+  marylandDataTyped.state_slug,
+);
+
+const massachusettsFacilities = transformAlternateFormatFacilities(
+  massachusettsDataTyped.facilities,
+  massachusettsDataTyped.state,
+  massachusettsDataTyped.state_slug,
 );
 
 export type RawFacility = {
@@ -191,6 +239,12 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   connecticut: connecticutFacilities,
   delaware: delawareFacilities,
   florida: floridaFacilities,
+  kansas: kansasFacilities,
+  kentucky: kentuckyFacilities,
+  louisiana: louisianaFacilities,
+  maine: maineFacilities,
+  maryland: marylandFacilities,
+  massachusetts: massachusettsFacilities,
 };
 
 const CANADIAN_REGION_SLUGS = new Set([
@@ -494,6 +548,24 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "florida") {
     return "https://www.myflorida.com/accessflorida/";
+  }
+  if (normalized === "kansas") {
+    return "https://dccca.org/";
+  }
+  if (normalized === "kentucky") {
+    return "https://dbhdid.ky.gov/";
+  }
+  if (normalized === "louisiana") {
+    return "https://ldaf.state.la.us/";
+  }
+  if (normalized === "maine") {
+    return "https://www.maine.gov/dhhs/samhs/";
+  }
+  if (normalized === "maryland") {
+    return "https://health.maryland.gov/bha/Pages/index.aspx";
+  }
+  if (normalized === "massachusetts") {
+    return "https://www.mass.gov/orgs/massachusetts-department-of-mental-health";
   }
   return "https://www.samhsa.gov/";
 }
