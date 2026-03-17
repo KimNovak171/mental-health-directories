@@ -102,6 +102,11 @@ function slugify(text: string | null | undefined): string {
     .replace(/^-|-$/g, "");
 }
 
+function toGoogleMapsSearchUrl(query: string): string {
+  const q = (query ?? "").toString().trim();
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`;
+}
+
 function transformAlternateFormatFacilities(
   facilities: AlternateFormatFacilityRaw[],
   stateName: string,
@@ -117,12 +122,16 @@ function transformAlternateFormatFacilities(
     const addressParts = ((f.address ?? "").trim() || "").split(",").map((s) => s.trim());
     const addressLine1 = addressParts[0] ?? "";
     const addressLine2 = addressParts.length > 1 ? addressParts.slice(1).join(", ") : undefined;
+    const name = (f.name ?? "").toString().trim() || "Unnamed";
+    const city = (f.city ?? "").toString().trim();
     const mapsUrl =
       (f.reviews_link && String(f.reviews_link).trim())
         ? String(f.reviews_link).trim()
         : f.place_id
           ? `https://search.google.com/local/reviews?placeid=${f.place_id}&q=*&authuser=0&hl=en&gl=US`
-          : undefined;
+          : toGoogleMapsSearchUrl(
+              [name, addressLine1, city, stateName].filter(Boolean).join(" "),
+            );
     const categorySource = (f.category ?? f.care_type ?? f.type ?? "").trim();
     const careTypes = categorySource
       ? [categorySource]
