@@ -103,6 +103,11 @@ function normalizeUrl(url?: string | null): string | null {
   return u.length > 0 ? u : null;
 }
 
+function toGoogleMapsSearchUrl(query: string): string {
+  const q = (query ?? "").toString().trim();
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`;
+}
+
 function buildRawFacilitiesForProvince(
   provinceSlug: string,
   facilities: CanadaAlternateFacilityRaw[],
@@ -110,6 +115,7 @@ function buildRawFacilitiesForProvince(
   const usedIds = new Map<string, number>();
 
   return (facilities ?? []).map((f, idx) => {
+    const name = (f.name ?? "").toString().trim() || "Unnamed listing";
     const provinceName = (f.province ?? provinceSlug).toString().trim() || provinceSlug;
     const cityName = (f.city ?? "").toString().trim();
     const citySlug = cityName ? slugify(cityName) : "unknown";
@@ -122,7 +128,11 @@ function buildRawFacilitiesForProvince(
       .trim();
     const careTypes = careTypeSource.length > 0 ? [careTypeSource] : ["Mental health service"];
 
-    const mapsUrl = normalizeUrl(f.reviews_link);
+    const mapsUrl =
+      normalizeUrl(f.reviews_link) ??
+      toGoogleMapsSearchUrl(
+        `${name} ${addressLine1} ${cityName} ${provinceName} Canada`,
+      );
     const websiteUrl = normalizeUrl(f.website);
 
     const baseId = `${provinceSlug}:${slugify(f.name ?? "")}:${slugify(addressLine1)}`.replace(
@@ -135,7 +145,7 @@ function buildRawFacilitiesForProvince(
 
     return {
       id: id.length > 0 ? id : `${provinceSlug}:${idx}`,
-      name: (f.name ?? "").toString().trim() || "Unnamed listing",
+      name,
       province: provinceName,
       provinceSlug,
       city: cityName || "Unknown",
