@@ -1,7 +1,9 @@
 import type { Facility } from "@/components/FacilityCard";
+import alabamaData from "@/data/alabama_facilities.json";
 import alaskaData from "@/data/alaska_facilities.json";
 import arizonaData from "@/data/arizona_facilities.json";
 import arkansasData from "@/data/arkansas_facilities.json";
+import californiaData from "@/data/california_facilities.json";
 import connecticutData from "@/data/connecticut_facilities.json";
 import delawareData from "@/data/delaware_facilities.json";
 import coloradoData from "@/data/colorado_facilities.json";
@@ -10,6 +12,10 @@ import iowaData from "@/data/iowa_facilities.json";
 import nebraskaData from "@/data/nebraska_facilities.json";
 import southDakotaData from "@/data/south-dakota_facilities.json";
 import floridaData from "@/data/florida_facilities.json";
+import hawaiiData from "@/data/hawaii_facilities.json";
+import idahoData from "@/data/idaho_facilities.json";
+import illinoisData from "@/data/illinois_facilities.json";
+import indianaData from "@/data/indiana_facilities.json";
 import kansasData from "@/data/kansas_facilities.json";
 import kentuckyData from "@/data/kentucky_facilities.json";
 import louisianaData from "@/data/louisiana_facilities.json";
@@ -34,12 +40,16 @@ import oregonData from "@/data/oregon_facilities.json";
 import pennsylvaniaData from "@/data/pennsylvania_facilities.json";
 import rhodeIslandData from "@/data/rhode-island_facilities.json";
 import southCarolinaData from "@/data/south-carolina_facilities.json";
+import tennesseeData from "@/data/tennessee_facilities.json";
 import texasData from "@/data/texas_facilities.json";
+import utahData from "@/data/utah_facilities.json";
 import vermontData from "@/data/vermont_facilities.json";
 import virginiaData from "@/data/virginia_facilities.json";
 import washingtonData from "@/data/washington_facilities.json";
+import washingtonDcData from "@/data/washington-dc_facilities.json";
 import westVirginiaData from "@/data/west-virginia_facilities.json";
 import wisconsinData from "@/data/wisconsin_facilities.json";
+import wyomingData from "@/data/wyoming_facilities.json";
 
 type AlternateFormatFacilityRaw = {
   name: string;
@@ -128,13 +138,19 @@ function transformAlternateFormatFacilities(
   });
 }
 
+const alabamaDataTyped = alabamaData as StateFileShape;
 const alaskaDataTyped = alaskaData as StateFileShape;
 const arizonaDataTyped = arizonaData as StateFileShape;
 const arkansasDataTyped = arkansasData as StateFileShape;
+const californiaDataTyped = californiaData as StateFileShape;
 const connecticutDataTyped = connecticutData as StateFileShape;
 const delawareDataTyped = delawareData as StateFileShape;
 const coloradoDataTyped = coloradoData as StateFileShape;
 const georgiaDataTyped = georgiaData as StateFileShape;
+const hawaiiDataTyped = hawaiiData as StateFileShape;
+const idahoDataTyped = idahoData as StateFileShape;
+const illinoisDataTyped = illinoisData as StateFileShape;
+const indianaDataTyped = indianaData as StateFileShape;
 const iowaDataTyped = iowaData as StateFileShape;
 const nebraskaDataTyped = nebraskaData as StateFileShape;
 const southDakotaDataTyped = southDakotaData as StateFileShape;
@@ -163,13 +179,22 @@ const oregonDataTyped = oregonData as StateFileShape;
 const pennsylvaniaDataTyped = pennsylvaniaData as StateFileShape;
 const rhodeIslandDataTyped = rhodeIslandData as StateFileShape;
 const southCarolinaDataTyped = southCarolinaData as StateFileShape;
+const tennesseeDataTyped = tennesseeData as StateFileShape;
 const texasDataTyped = texasData as StateFileShape;
+const utahDataTyped = utahData as StateFileShape;
 const vermontDataTyped = vermontData as StateFileShape;
 const virginiaDataTyped = virginiaData as StateFileShape;
 const washingtonDataTyped = washingtonData as StateFileShape;
+const washingtonDcDataTyped = washingtonDcData as StateFileShape;
 const westVirginiaDataTyped = westVirginiaData as StateFileShape;
 const wisconsinDataTyped = wisconsinData as StateFileShape;
+const wyomingDataTyped = wyomingData as StateFileShape;
 
+const alabamaFacilities = transformAlternateFormatFacilities(
+  alabamaDataTyped.facilities,
+  alabamaDataTyped.state,
+  alabamaDataTyped.state_slug,
+);
 const alaskaFacilities = transformAlternateFormatFacilities(
   alaskaDataTyped.facilities,
   alaskaDataTyped.state,
@@ -200,6 +225,11 @@ const delawareFacilities = transformAlternateFormatFacilities(
   delawareDataTyped.state_slug,
 );
 
+const californiaFacilities = transformAlternateFormatFacilities(
+  californiaDataTyped.facilities,
+  californiaDataTyped.state,
+  californiaDataTyped.state_slug,
+);
 const coloradoFacilities = transformAlternateFormatFacilities(
   coloradoDataTyped.facilities,
   coloradoDataTyped.state,
@@ -211,7 +241,26 @@ const georgiaFacilities = transformAlternateFormatFacilities(
   georgiaDataTyped.state,
   georgiaDataTyped.state_slug,
 );
-
+const hawaiiFacilities = transformAlternateFormatFacilities(
+  hawaiiDataTyped.facilities,
+  hawaiiDataTyped.state,
+  hawaiiDataTyped.state_slug,
+);
+const idahoFacilities = transformAlternateFormatFacilities(
+  idahoDataTyped.facilities,
+  idahoDataTyped.state,
+  idahoDataTyped.state_slug,
+);
+const illinoisFacilities = transformAlternateFormatFacilities(
+  illinoisDataTyped.facilities,
+  illinoisDataTyped.state,
+  illinoisDataTyped.state_slug,
+);
+const indianaFacilities = transformAlternateFormatFacilities(
+  indianaDataTyped.facilities,
+  indianaDataTyped.state,
+  indianaDataTyped.state_slug,
+);
 const iowaFacilities = transformAlternateFormatFacilities(
   iowaDataTyped.facilities,
   iowaDataTyped.state,
@@ -379,11 +428,20 @@ const southCarolinaFacilities = transformAlternateFormatFacilities(
   southCarolinaDataTyped.state,
   southCarolinaDataTyped.state_slug,
 );
-
+const tennesseeFacilities = transformAlternateFormatFacilities(
+  tennesseeDataTyped.facilities,
+  tennesseeDataTyped.state,
+  tennesseeDataTyped.state_slug,
+);
 const texasFacilities = transformAlternateFormatFacilities(
   texasDataTyped.facilities,
   texasDataTyped.state,
   texasDataTyped.state_slug,
+);
+const utahFacilities = transformAlternateFormatFacilities(
+  utahDataTyped.facilities,
+  utahDataTyped.state,
+  utahDataTyped.state_slug,
 );
 const vermontFacilities = transformAlternateFormatFacilities(
   vermontDataTyped.facilities,
@@ -400,6 +458,11 @@ const washingtonFacilities = transformAlternateFormatFacilities(
   washingtonDataTyped.state,
   washingtonDataTyped.state_slug,
 );
+const washingtonDcFacilities = transformAlternateFormatFacilities(
+  washingtonDcDataTyped.facilities,
+  washingtonDcDataTyped.state,
+  washingtonDcDataTyped.state_slug,
+);
 const westVirginiaFacilities = transformAlternateFormatFacilities(
   westVirginiaDataTyped.facilities,
   westVirginiaDataTyped.state,
@@ -409,6 +472,11 @@ const wisconsinFacilities = transformAlternateFormatFacilities(
   wisconsinDataTyped.facilities,
   wisconsinDataTyped.state,
   wisconsinDataTyped.state_slug,
+);
+const wyomingFacilities = transformAlternateFormatFacilities(
+  wyomingDataTyped.facilities,
+  wyomingDataTyped.state,
+  wyomingDataTyped.state_slug,
 );
 
 export type RawFacility = {
@@ -460,14 +528,20 @@ export type StateSummary = {
 };
 
 const STATE_DATA: Record<string, RawFacility[]> = {
+  alabama: alabamaFacilities,
   alaska: alaskaFacilities,
   arizona: arizonaFacilities,
   arkansas: arkansasFacilities,
+  california: californiaFacilities,
   colorado: coloradoFacilities,
   connecticut: connecticutFacilities,
   delaware: delawareFacilities,
-  georgia: georgiaFacilities,
   florida: floridaFacilities,
+  georgia: georgiaFacilities,
+  hawaii: hawaiiFacilities,
+  idaho: idahoFacilities,
+  illinois: illinoisFacilities,
+  indiana: indianaFacilities,
   iowa: iowaFacilities,
   kansas: kansasFacilities,
   kentucky: kentuckyFacilities,
@@ -495,12 +569,16 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   "rhode-island": rhodeIslandFacilities,
   "south-carolina": southCarolinaFacilities,
   "south-dakota": southDakotaFacilities,
+  tennessee: tennesseeFacilities,
   texas: texasFacilities,
+  utah: utahFacilities,
   vermont: vermontFacilities,
   virginia: virginiaFacilities,
   washington: washingtonFacilities,
+  "washington-dc": washingtonDcFacilities,
   "west-virginia": westVirginiaFacilities,
   wisconsin: wisconsinFacilities,
+  wyoming: wyomingFacilities,
 };
 
 const CANADIAN_REGION_SLUGS = new Set([
@@ -787,6 +865,9 @@ export function getGlobalStats(): GlobalStats {
 
 export function getStateResourcesUrl(stateSlug: string): string {
   const normalized = stateSlug.toLowerCase();
+  if (normalized === "alabama") {
+    return "https://mh.alabama.gov/";
+  }
   if (normalized === "alaska") {
     return "https://dhss.alaska.gov/dbh/Pages/default.aspx";
   }
@@ -795,6 +876,9 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "arkansas") {
     return "https://humanservices.arkansas.gov/divisions-shared-services/behavioral-health-services";
+  }
+  if (normalized === "california") {
+    return "https://www.dhcs.ca.gov/individuals/Pages/Mental-Health.aspx";
   }
   if (normalized === "connecticut") {
     return "https://portal.ct.gov/dph";
@@ -807,6 +891,18 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "georgia") {
     return "https://dbhdd.georgia.gov/";
+  }
+  if (normalized === "hawaii") {
+    return "https://health.hawaii.gov/amhd/";
+  }
+  if (normalized === "idaho") {
+    return "https://healthandwelfare.idaho.gov/behavioral-health";
+  }
+  if (normalized === "illinois") {
+    return "https://dph.illinois.gov/topics-services/mental-health.html";
+  }
+  if (normalized === "indiana") {
+    return "https://www.in.gov/fssa/dmha/";
   }
   if (normalized === "florida") {
     return "https://www.myflorida.com/accessflorida/";
@@ -892,8 +988,14 @@ export function getStateResourcesUrl(stateSlug: string): string {
   if (normalized === "south-dakota") {
     return "https://dss.sd.gov/behavioralhealth/";
   }
+  if (normalized === "tennessee") {
+    return "https://www.tn.gov/behavioral-health.html";
+  }
   if (normalized === "texas") {
     return "https://www.hhs.texas.gov/services/mental-health-substance-use";
+  }
+  if (normalized === "utah") {
+    return "https://dsamh.utah.gov/";
   }
   if (normalized === "vermont") {
     return "https://mentalhealth.vermont.gov/";
@@ -904,11 +1006,17 @@ export function getStateResourcesUrl(stateSlug: string): string {
   if (normalized === "washington") {
     return "https://www.dshs.wa.gov/mental-health";
   }
+  if (normalized === "washington-dc") {
+    return "https://dbh.dc.gov/";
+  }
   if (normalized === "west-virginia") {
     return "https://dhhr.wv.gov/bhhf/";
   }
   if (normalized === "wisconsin") {
     return "https://www.dhs.wisconsin.gov/mental-health/index.htm";
+  }
+  if (normalized === "wyoming") {
+    return "https://health.wyo.gov/mentalhealth/";
   }
   return "https://www.samhsa.gov/";
 }
