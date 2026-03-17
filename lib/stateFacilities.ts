@@ -34,6 +34,12 @@ import oregonData from "@/data/oregon_facilities.json";
 import pennsylvaniaData from "@/data/pennsylvania_facilities.json";
 import rhodeIslandData from "@/data/rhode-island_facilities.json";
 import southCarolinaData from "@/data/south-carolina_facilities.json";
+import texasData from "@/data/texas_facilities.json";
+import vermontData from "@/data/vermont_facilities.json";
+import virginiaData from "@/data/virginia_facilities.json";
+import washingtonData from "@/data/washington_facilities.json";
+import westVirginiaData from "@/data/west-virginia_facilities.json";
+import wisconsinData from "@/data/wisconsin_facilities.json";
 
 type AlternateFormatFacilityRaw = {
   name: string;
@@ -157,6 +163,12 @@ const oregonDataTyped = oregonData as StateFileShape;
 const pennsylvaniaDataTyped = pennsylvaniaData as StateFileShape;
 const rhodeIslandDataTyped = rhodeIslandData as StateFileShape;
 const southCarolinaDataTyped = southCarolinaData as StateFileShape;
+const texasDataTyped = texasData as StateFileShape;
+const vermontDataTyped = vermontData as StateFileShape;
+const virginiaDataTyped = virginiaData as StateFileShape;
+const washingtonDataTyped = washingtonData as StateFileShape;
+const westVirginiaDataTyped = westVirginiaData as StateFileShape;
+const wisconsinDataTyped = wisconsinData as StateFileShape;
 
 const alaskaFacilities = transformAlternateFormatFacilities(
   alaskaDataTyped.facilities,
@@ -368,6 +380,37 @@ const southCarolinaFacilities = transformAlternateFormatFacilities(
   southCarolinaDataTyped.state_slug,
 );
 
+const texasFacilities = transformAlternateFormatFacilities(
+  texasDataTyped.facilities,
+  texasDataTyped.state,
+  texasDataTyped.state_slug,
+);
+const vermontFacilities = transformAlternateFormatFacilities(
+  vermontDataTyped.facilities,
+  vermontDataTyped.state,
+  vermontDataTyped.state_slug,
+);
+const virginiaFacilities = transformAlternateFormatFacilities(
+  virginiaDataTyped.facilities,
+  virginiaDataTyped.state,
+  virginiaDataTyped.state_slug,
+);
+const washingtonFacilities = transformAlternateFormatFacilities(
+  washingtonDataTyped.facilities,
+  washingtonDataTyped.state,
+  washingtonDataTyped.state_slug,
+);
+const westVirginiaFacilities = transformAlternateFormatFacilities(
+  westVirginiaDataTyped.facilities,
+  westVirginiaDataTyped.state,
+  westVirginiaDataTyped.state_slug,
+);
+const wisconsinFacilities = transformAlternateFormatFacilities(
+  wisconsinDataTyped.facilities,
+  wisconsinDataTyped.state,
+  wisconsinDataTyped.state_slug,
+);
+
 export type RawFacility = {
   id: string;
   name: string;
@@ -452,6 +495,12 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   "rhode-island": rhodeIslandFacilities,
   "south-carolina": southCarolinaFacilities,
   "south-dakota": southDakotaFacilities,
+  texas: texasFacilities,
+  vermont: vermontFacilities,
+  virginia: virginiaFacilities,
+  washington: washingtonFacilities,
+  "west-virginia": westVirginiaFacilities,
+  wisconsin: wisconsinFacilities,
 };
 
 const CANADIAN_REGION_SLUGS = new Set([
@@ -842,6 +891,24 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "south-dakota") {
     return "https://dss.sd.gov/behavioralhealth/";
+  }
+  if (normalized === "texas") {
+    return "https://www.hhs.texas.gov/services/mental-health-substance-use";
+  }
+  if (normalized === "vermont") {
+    return "https://mentalhealth.vermont.gov/";
+  }
+  if (normalized === "virginia") {
+    return "https://www.dbhds.virginia.gov/";
+  }
+  if (normalized === "washington") {
+    return "https://www.dshs.wa.gov/mental-health";
+  }
+  if (normalized === "west-virginia") {
+    return "https://dhhr.wv.gov/bhhf/";
+  }
+  if (normalized === "wisconsin") {
+    return "https://www.dhs.wisconsin.gov/mental-health/index.htm";
   }
   return "https://www.samhsa.gov/";
 }
