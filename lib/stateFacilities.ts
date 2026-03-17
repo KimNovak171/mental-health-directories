@@ -4,6 +4,11 @@ import arizonaData from "@/data/arizona_facilities.json";
 import arkansasData from "@/data/arkansas_facilities.json";
 import connecticutData from "@/data/connecticut_facilities.json";
 import delawareData from "@/data/delaware_facilities.json";
+import coloradoData from "@/data/colorado_facilities.json";
+import georgiaData from "@/data/georgia_facilities.json";
+import iowaData from "@/data/iowa_facilities.json";
+import nebraskaData from "@/data/nebraska_facilities.json";
+import southDakotaData from "@/data/south-dakota_facilities.json";
 import floridaData from "@/data/florida_facilities.json";
 import kansasData from "@/data/kansas_facilities.json";
 import kentuckyData from "@/data/kentucky_facilities.json";
@@ -122,6 +127,11 @@ const arizonaDataTyped = arizonaData as StateFileShape;
 const arkansasDataTyped = arkansasData as StateFileShape;
 const connecticutDataTyped = connecticutData as StateFileShape;
 const delawareDataTyped = delawareData as StateFileShape;
+const coloradoDataTyped = coloradoData as StateFileShape;
+const georgiaDataTyped = georgiaData as StateFileShape;
+const iowaDataTyped = iowaData as StateFileShape;
+const nebraskaDataTyped = nebraskaData as StateFileShape;
+const southDakotaDataTyped = southDakotaData as StateFileShape;
 const floridaDataTyped = floridaData as StateFileShape;
 const kansasDataTyped = kansasData as StateFileShape;
 const kentuckyDataTyped = kentuckyData as StateFileShape;
@@ -176,6 +186,36 @@ const delawareFacilities = transformAlternateFormatFacilities(
   delawareDataTyped.facilities,
   delawareDataTyped.state,
   delawareDataTyped.state_slug,
+);
+
+const coloradoFacilities = transformAlternateFormatFacilities(
+  coloradoDataTyped.facilities,
+  coloradoDataTyped.state,
+  coloradoDataTyped.state_slug,
+);
+
+const georgiaFacilities = transformAlternateFormatFacilities(
+  georgiaDataTyped.facilities,
+  georgiaDataTyped.state,
+  georgiaDataTyped.state_slug,
+);
+
+const iowaFacilities = transformAlternateFormatFacilities(
+  iowaDataTyped.facilities,
+  iowaDataTyped.state,
+  iowaDataTyped.state_slug,
+);
+
+const nebraskaFacilities = transformAlternateFormatFacilities(
+  nebraskaDataTyped.facilities,
+  nebraskaDataTyped.state,
+  nebraskaDataTyped.state_slug,
+);
+
+const southDakotaFacilities = transformAlternateFormatFacilities(
+  southDakotaDataTyped.facilities,
+  southDakotaDataTyped.state,
+  southDakotaDataTyped.state_slug,
 );
 
 const floridaFacilities = transformAlternateFormatFacilities(
@@ -380,9 +420,12 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   alaska: alaskaFacilities,
   arizona: arizonaFacilities,
   arkansas: arkansasFacilities,
+  colorado: coloradoFacilities,
   connecticut: connecticutFacilities,
   delaware: delawareFacilities,
+  georgia: georgiaFacilities,
   florida: floridaFacilities,
+  iowa: iowaFacilities,
   kansas: kansasFacilities,
   kentucky: kentuckyFacilities,
   louisiana: louisianaFacilities,
@@ -394,6 +437,7 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   mississippi: mississippiFacilities,
   missouri: missouriFacilities,
   montana: montanaFacilities,
+  nebraska: nebraskaFacilities,
   nevada: nevadaFacilities,
   "new-hampshire": newHampshireFacilities,
   "new-jersey": newJerseyFacilities,
@@ -407,6 +451,7 @@ const STATE_DATA: Record<string, RawFacility[]> = {
   pennsylvania: pennsylvaniaFacilities,
   "rhode-island": rhodeIslandFacilities,
   "south-carolina": southCarolinaFacilities,
+  "south-dakota": southDakotaFacilities,
 };
 
 const CANADIAN_REGION_SLUGS = new Set([
@@ -708,8 +753,17 @@ export function getStateResourcesUrl(stateSlug: string): string {
   if (normalized === "delaware") {
     return "https://www.dhss.delaware.gov/dhss/dsamh/";
   }
+  if (normalized === "colorado") {
+    return "https://bha.colorado.gov/";
+  }
+  if (normalized === "georgia") {
+    return "https://dbhdd.georgia.gov/";
+  }
   if (normalized === "florida") {
     return "https://www.myflorida.com/accessflorida/";
+  }
+  if (normalized === "iowa") {
+    return "https://hhs.iowa.gov/";
   }
   if (normalized === "kansas") {
     return "https://dccca.org/";
@@ -743,6 +797,9 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "montana") {
     return "https://dphhs.mt.gov/amdd";
+  }
+  if (normalized === "nebraska") {
+    return "https://dhhs.ne.gov/Pages/Behavioral-Health.aspx";
   }
   if (normalized === "nevada") {
     return "https://mhds.nv.gov/";
@@ -782,6 +839,9 @@ export function getStateResourcesUrl(stateSlug: string): string {
   }
   if (normalized === "south-carolina") {
     return "https://www.scdmh.org/";
+  }
+  if (normalized === "south-dakota") {
+    return "https://dss.sd.gov/behavioralhealth/";
   }
   return "https://www.samhsa.gov/";
 }
