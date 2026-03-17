@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { FacilityCard } from "@/components/FacilityCard";
-import { getCanadaDirectoryIndex } from "@/lib/canadaFacilities";
+import { getCanadaDirectoryIndex, getCanadaGlobalStats } from "@/lib/canadaFacilities";
 import { getDirectoryIndex, getStateSummary, getGlobalStats } from "@/lib/stateFacilities";
 
 export const metadata: Metadata = {
@@ -42,7 +42,24 @@ export default async function Home() {
   const stateSummaries = await Promise.all(
     usDirectory.map((s) => getStateSummary(s.stateSlug)),
   );
-  const globalStats = getGlobalStats();
+  const usStats = getGlobalStats();
+  const canadaStats = getCanadaGlobalStats();
+  const globalStats = {
+    totalFacilities: usStats.totalFacilities + canadaStats.totalFacilities,
+    totalCities: usStats.totalCities + canadaStats.totalCities,
+    averageRating:
+      usStats.averageRating == null && canadaStats.averageRating == null
+        ? null
+        : (() => {
+            // Approximate overall average rating by averaging available rating averages.
+            // This avoids loading all ratings into the homepage. Exact precision is not critical for the stats bar.
+            const values = [usStats.averageRating, canadaStats.averageRating].filter(
+              (v): v is number => typeof v === "number",
+            );
+            if (values.length === 0) return null;
+            return Number((values.reduce((a, b) => a + b, 0) / values.length).toFixed(1));
+          })(),
+  };
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
@@ -130,6 +147,19 @@ export default async function Home() {
         <p className="mt-2 text-sm text-slate-600">
           Browse verified mental health services by Canadian province. Same
           directory experience — province by province, then by city.
+        </p>
+        <p className="mt-4 text-sm font-medium text-slate-700">
+          {canadaDirectory.map((p, i) => (
+            <span key={p.provinceSlug}>
+              {i > 0 && " • "}
+              <Link
+                href={`/canada/${p.provinceSlug}`}
+                className="underline underline-offset-2 hover:text-teal"
+              >
+                {p.provinceName}
+              </Link>
+            </span>
+          ))}
         </p>
         <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {canadaDirectory.map((item) => (
