@@ -81,6 +81,19 @@ type StateFileShape = {
   facilities: AlternateFormatFacilityRaw[];
 };
 
+/** Normalize state data: accept either full shape or raw facilities array (e.g. AL, CA, HI, ID, IL, IN, TN, UT, WY, DC). */
+function toStateFileShape(
+  data: StateFileShape | AlternateFormatFacilityRaw[],
+  stateSlug: string,
+  stateName: string,
+): StateFileShape {
+  if (Array.isArray(data)) {
+    const first = data[0] as { state?: string } | undefined;
+    return { state: first?.state ?? stateName, state_slug: stateSlug, facilities: data };
+  }
+  return data;
+}
+
 function slugify(text: string | null | undefined): string {
   return (text ?? "")
     .trim()
@@ -138,19 +151,19 @@ function transformAlternateFormatFacilities(
   });
 }
 
-const alabamaDataTyped = alabamaData as StateFileShape;
+const alabamaDataTyped = toStateFileShape(alabamaData as StateFileShape | AlternateFormatFacilityRaw[], "alabama", "Alabama");
 const alaskaDataTyped = alaskaData as StateFileShape;
 const arizonaDataTyped = arizonaData as StateFileShape;
 const arkansasDataTyped = arkansasData as StateFileShape;
-const californiaDataTyped = californiaData as StateFileShape;
+const californiaDataTyped = toStateFileShape(californiaData as StateFileShape | AlternateFormatFacilityRaw[], "california", "California");
 const connecticutDataTyped = connecticutData as StateFileShape;
 const delawareDataTyped = delawareData as StateFileShape;
 const coloradoDataTyped = coloradoData as StateFileShape;
 const georgiaDataTyped = georgiaData as StateFileShape;
-const hawaiiDataTyped = hawaiiData as StateFileShape;
-const idahoDataTyped = idahoData as StateFileShape;
-const illinoisDataTyped = illinoisData as StateFileShape;
-const indianaDataTyped = indianaData as StateFileShape;
+const hawaiiDataTyped = toStateFileShape(hawaiiData as StateFileShape | AlternateFormatFacilityRaw[], "hawaii", "Hawaii");
+const idahoDataTyped = toStateFileShape(idahoData as StateFileShape | AlternateFormatFacilityRaw[], "idaho", "Idaho");
+const illinoisDataTyped = toStateFileShape(illinoisData as StateFileShape | AlternateFormatFacilityRaw[], "illinois", "Illinois");
+const indianaDataTyped = toStateFileShape(indianaData as StateFileShape | AlternateFormatFacilityRaw[], "indiana", "Indiana");
 const iowaDataTyped = iowaData as StateFileShape;
 const nebraskaDataTyped = nebraskaData as StateFileShape;
 const southDakotaDataTyped = southDakotaData as StateFileShape;
@@ -179,16 +192,16 @@ const oregonDataTyped = oregonData as StateFileShape;
 const pennsylvaniaDataTyped = pennsylvaniaData as StateFileShape;
 const rhodeIslandDataTyped = rhodeIslandData as StateFileShape;
 const southCarolinaDataTyped = southCarolinaData as StateFileShape;
-const tennesseeDataTyped = tennesseeData as StateFileShape;
+const tennesseeDataTyped = toStateFileShape(tennesseeData as StateFileShape | AlternateFormatFacilityRaw[], "tennessee", "Tennessee");
 const texasDataTyped = texasData as StateFileShape;
-const utahDataTyped = utahData as StateFileShape;
+const utahDataTyped = toStateFileShape(utahData as StateFileShape | AlternateFormatFacilityRaw[], "utah", "Utah");
 const vermontDataTyped = vermontData as StateFileShape;
 const virginiaDataTyped = virginiaData as StateFileShape;
 const washingtonDataTyped = washingtonData as StateFileShape;
-const washingtonDcDataTyped = washingtonDcData as StateFileShape;
+const washingtonDcDataTyped = toStateFileShape(washingtonDcData as StateFileShape | AlternateFormatFacilityRaw[], "washington-dc", "District of Columbia");
 const westVirginiaDataTyped = westVirginiaData as StateFileShape;
 const wisconsinDataTyped = wisconsinData as StateFileShape;
-const wyomingDataTyped = wyomingData as StateFileShape;
+const wyomingDataTyped = toStateFileShape(wyomingData as StateFileShape | AlternateFormatFacilityRaw[], "wyoming", "Wyoming");
 
 const alabamaFacilities = transformAlternateFormatFacilities(
   alabamaDataTyped.facilities,
