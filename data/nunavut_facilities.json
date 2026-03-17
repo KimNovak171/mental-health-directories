@@ -1,45 +1,17 @@
 [
   {
-    "name": "Arviat Health Centre",
-    "care_type": "Hospital",
-    "address": "213 3rd Ave, Arviat, NU X0C 0E0",
-    "city": "Arviat",
+    "name": "Women's Shelter",
+    "care_type": "Mental health service",
+    "address": "32 Tuktu St, Cambridge Bay, NU X0B 0A1",
+    "city": "Cambridge Bay",
     "province": "Nunavut",
     "province_code": "NU",
     "country": "Canada",
-    "phone": "867-857-3100",
-    "website": "http://gov.nu.ca/health/information/health-centres%232434",
-    "rating": 5.0,
-    "reviews": 1,
-    "recommended": true
-  },
-  {
-    "name": "Qaujigiartiit Health Research Centre",
-    "care_type": "Health consultant",
-    "address": "764 Fred Coman St, Iqaluit, NU X0A 0A1",
-    "city": "Iqaluit",
-    "province": "Nunavut",
-    "province_code": "NU",
-    "country": "Canada",
-    "phone": "867-975-2523",
-    "website": "https://www.qaujigiartiit.ca/",
-    "rating": 5.0,
-    "reviews": 1,
-    "recommended": true
-  },
-  {
-    "name": "Public Health Iqaluit",
-    "care_type": "Government office",
-    "address": "1091 Mivvik Street, Iqaluit, NU X0A",
-    "city": "Iqaluit",
-    "province": "Nunavut",
-    "province_code": "NU",
-    "country": "Canada",
-    "phone": "867-975-4800",
-    "website": "https://www.gov.nu.ca/health/information/health-services",
-    "rating": 5.0,
-    "reviews": 1,
-    "recommended": true
+    "phone": "nan",
+    "website": null,
+    "rating": null,
+    "reviews": 0,
+    "recommended": false
   },
   {
     "name": "Wenson Support Services Inc",
@@ -53,34 +25,6 @@
     "website": "http://wensonservices.ca/",
     "rating": 2.5,
     "reviews": 2,
-    "recommended": false
-  },
-  {
-    "name": "Akausisarvik",
-    "care_type": "Medical clinic",
-    "address": "503 Niaqunngusiariaq, Iqaluit, NU X0A 0H0",
-    "city": "Iqaluit",
-    "province": "Nunavut",
-    "province_code": "NU",
-    "country": "Canada",
-    "phone": "nan",
-    "website": null,
-    "rating": 1.0,
-    "reviews": 1,
-    "recommended": false
-  },
-  {
-    "name": "Rankin Inlet Healing Facility",
-    "care_type": "Prison",
-    "address": "260 Eksusik St, Rankin Inlet, NU X0C 0A1",
-    "city": "Rankin Inlet",
-    "province": "Nunavut",
-    "province_code": "NU",
-    "country": "Canada",
-    "phone": "867-645-2305",
-    "website": null,
-    "rating": null,
-    "reviews": 0,
     "recommended": false
   }
 ]

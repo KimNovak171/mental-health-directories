@@ -1,10 +1,15 @@
 import type { Facility } from "@/components/FacilityCard";
 
+import albertaData from "@/data/alberta_facilities.json";
 import britishColumbiaData from "@/data/british-columbia_facilities.json";
 import manitobaData from "@/data/manitoba_facilities.json";
+import newBrunswickData from "@/data/new-brunswick_facilities.json";
+import newfoundlandAndLabradorData from "@/data/newfoundland-and-labrador_facilities.json";
 import northwestTerritoriesData from "@/data/northwest-territories_facilities.json";
+import novaScotiaData from "@/data/nova-scotia_facilities.json";
 import nunavutData from "@/data/nunavut_facilities.json";
 import ontarioData from "@/data/ontario_facilities.json";
+import princeEdwardIslandData from "@/data/prince-edward-island_facilities.json";
 import quebecData from "@/data/quebec_facilities.json";
 import saskatchewanData from "@/data/saskatchewan_facilities.json";
 import yukonData from "@/data/yukon_facilities.json";
@@ -166,6 +171,10 @@ function buildRawFacilitiesForProvince(
 }
 
 const PROVINCE_DATA: Record<string, CanadaRawFacility[]> = {
+  alberta: buildRawFacilitiesForProvince(
+    "alberta",
+    albertaData as CanadaAlternateFacilityRaw[],
+  ),
   "british-columbia": buildRawFacilitiesForProvince(
     "british-columbia",
     britishColumbiaData as CanadaAlternateFacilityRaw[],
@@ -174,9 +183,21 @@ const PROVINCE_DATA: Record<string, CanadaRawFacility[]> = {
     "manitoba",
     manitobaData as CanadaAlternateFacilityRaw[],
   ),
+  "new-brunswick": buildRawFacilitiesForProvince(
+    "new-brunswick",
+    newBrunswickData as CanadaAlternateFacilityRaw[],
+  ),
+  "newfoundland-and-labrador": buildRawFacilitiesForProvince(
+    "newfoundland-and-labrador",
+    newfoundlandAndLabradorData as CanadaAlternateFacilityRaw[],
+  ),
   "northwest-territories": buildRawFacilitiesForProvince(
     "northwest-territories",
     northwestTerritoriesData as CanadaAlternateFacilityRaw[],
+  ),
+  "nova-scotia": buildRawFacilitiesForProvince(
+    "nova-scotia",
+    novaScotiaData as CanadaAlternateFacilityRaw[],
   ),
   nunavut: buildRawFacilitiesForProvince(
     "nunavut",
@@ -185,6 +206,10 @@ const PROVINCE_DATA: Record<string, CanadaRawFacility[]> = {
   ontario: buildRawFacilitiesForProvince(
     "ontario",
     ontarioData as CanadaAlternateFacilityRaw[],
+  ),
+  "prince-edward-island": buildRawFacilitiesForProvince(
+    "prince-edward-island",
+    princeEdwardIslandData as CanadaAlternateFacilityRaw[],
   ),
   quebec: buildRawFacilitiesForProvince(
     "quebec",
