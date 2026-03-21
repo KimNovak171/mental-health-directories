@@ -155,14 +155,11 @@ export function FacilityCard({ facility }: FacilityCardProps) {
           ratingValue: rating,
           bestRating: 5,
           worstRating: 0,
-          ratingCount:
-            typeof reviewCount === "number" && reviewCount >= 0
-              ? reviewCount
-              : 0,
-          reviewCount:
-            typeof reviewCount === "number" && reviewCount >= 0
-              ? reviewCount
-              : 0,
+          ...(typeof reviewCount === "number" &&
+          Number.isFinite(reviewCount) &&
+          reviewCount > 0
+            ? { ratingCount: reviewCount, reviewCount }
+            : {}),
         },
       }),
     ...(id && { identifier: id }),
