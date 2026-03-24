@@ -210,10 +210,10 @@ export default async function Home() {
         </Link>{" "}
         or contact{" "}
         <a
-          href="mailto:support@mentalhealthdirectories.com"
+          href="mailto:hello@directoriesnetwork.com"
           className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
         >
-          support@mentalhealthdirectories.com
+          hello@directoriesnetwork.com
         </a>
         .
       </p>

@@ -5,7 +5,7 @@ import { ContactForm } from "./ContactForm";
 export const metadata: Metadata = {
   title: "Contact | MentalHealthDirectories.com",
   description:
-    "Get in touch with MentalHealthDirectories.com. Send a message or email support@mentalhealthdirectories.com.",
+    "Get in touch with MentalHealthDirectories.com. Send a message or email hello@directoriesnetwork.com.",
   alternates: { canonical: "/contact" },
   openGraph: {
     title: "Contact | MentalHealthDirectories.com",
@@ -30,10 +30,10 @@ export default function ContactPage() {
           Have a question or feedback? Use the form below or email us directly
           at{" "}
           <a
-            href="mailto:support@mentalhealthdirectories.com"
+            href="mailto:hello@directoriesnetwork.com"
             className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
           >
-            support@mentalhealthdirectories.com
+            hello@directoriesnetwork.com
           </a>
           .
         </p>
@@ -49,10 +49,10 @@ export default function ContactPage() {
       <p className="mt-6 text-sm text-slate-600">
         You can also reach us at{" "}
         <a
-          href="mailto:support@mentalhealthdirectories.com"
+          href="mailto:hello@directoriesnetwork.com"
           className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
         >
-          support@mentalhealthdirectories.com
+          hello@directoriesnetwork.com
         </a>
         .
       </p>

@@ -51,10 +51,10 @@ export default function AboutPage() {
           If you have questions or suggestions, we&apos;d love to hear from you.
           Contact us at{" "}
           <a
-            href="mailto:support@mentalhealthdirectories.com"
+            href="mailto:hello@directoriesnetwork.com"
             className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
           >
-            support@mentalhealthdirectories.com
+            hello@directoriesnetwork.com
           </a>{" "}
           or visit our{" "}
           <Link href="/contact" className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft">

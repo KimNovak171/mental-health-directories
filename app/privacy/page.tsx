@@ -97,7 +97,7 @@ export default function PrivacyPage() {
             You may opt out of certain cookies through your browser settings. You
             may unsubscribe from communications at any time. You may request
             access to or deletion of your personal information by contacting us
-            at support@mentalhealthdirectories.com.
+            at hello@directoriesnetwork.com.
           </p>
         </section>
 
@@ -125,10 +125,10 @@ export default function PrivacyPage() {
             For questions about this Privacy Policy or our practices, contact us
             at{" "}
             <a
-              href="mailto:support@mentalhealthdirectories.com"
+              href="mailto:hello@directoriesnetwork.com"
               className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
             >
-              support@mentalhealthdirectories.com
+              hello@directoriesnetwork.com
             </a>
             .
           </p>
