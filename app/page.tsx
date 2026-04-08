@@ -140,6 +140,43 @@ export default async function Home() {
         </div>
       </section>
 
+      <section className="mt-8 border-y-2 border-teal/30 bg-teal/10">
+        <div className="mx-auto grid max-w-6xl gap-4 px-4 py-8 sm:grid-cols-2 sm:px-6 lg:grid-cols-4 lg:px-8">
+          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
+            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
+              Verified Listings
+            </p>
+            <p className="mt-2 text-2xl font-semibold text-navy">
+              {globalStats.totalFacilities.toLocaleString()}
+            </p>
+          </div>
+          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
+            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
+              Cities Covered
+            </p>
+            <p className="mt-2 text-2xl font-semibold text-navy">
+              {globalStats.totalCities.toLocaleString()}
+            </p>
+          </div>
+          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
+            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
+              Average Rating
+            </p>
+            <p className="mt-2 text-2xl font-semibold text-navy">
+              {globalStats.averageRating != null
+                ? `${globalStats.averageRating}★`
+                : "—"}
+            </p>
+          </div>
+          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
+            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
+              Quality Standard
+            </p>
+            <p className="mt-2 text-2xl font-semibold text-navy">3★ Minimum</p>
+          </div>
+        </div>
+      </section>
+
       <section className="mx-auto max-w-6xl px-4 pt-8 sm:px-6 lg:px-8">
         <h2 className="text-2xl font-semibold text-navy">
           Canadian Mental Health Directories
@@ -217,43 +254,6 @@ export default async function Home() {
         </a>
         .
       </p>
-
-      <section className="mt-8 border-y-2 border-teal/30 bg-teal/10">
-        <div className="mx-auto grid max-w-6xl gap-4 px-4 py-8 sm:grid-cols-2 sm:px-6 lg:grid-cols-4 lg:px-8">
-          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
-            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
-              Verified Listings
-            </p>
-            <p className="mt-2 text-2xl font-semibold text-navy">
-              {globalStats.totalFacilities.toLocaleString()}
-            </p>
-          </div>
-          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
-            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
-              Cities Covered
-            </p>
-            <p className="mt-2 text-2xl font-semibold text-navy">
-              {globalStats.totalCities.toLocaleString()}
-            </p>
-          </div>
-          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
-            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
-              Average Rating
-            </p>
-            <p className="mt-2 text-2xl font-semibold text-navy">
-              {globalStats.averageRating != null
-                ? `${globalStats.averageRating}★`
-                : "—"}
-            </p>
-          </div>
-          <div className="rounded-xl border-2 border-teal/30 bg-surface p-4 text-center shadow-sm">
-            <p className="text-xs font-semibold uppercase tracking-wide text-teal">
-              Quality Standard
-            </p>
-            <p className="mt-2 text-2xl font-semibold text-navy">3★ Minimum</p>
-          </div>
-        </div>
-      </section>
 
       <section className="bg-navy/5">
         <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
