@@ -106,6 +106,12 @@ export default async function RootLayout({
                     Canada
                   </Link>
                   <Link
+                    href="/blog"
+                    className="text-xs font-medium text-white/90 hover:text-gold-soft transition-colors"
+                  >
+                    Blog
+                  </Link>
+                  <Link
                     href="/contact"
                     className="text-xs font-medium text-white/90 hover:text-gold-soft transition-colors"
                   >
