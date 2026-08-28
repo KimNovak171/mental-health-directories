@@ -21305,5 +21305,20 @@
     "rating": null,
     "reviews": 0,
     "recommended": false
+  },
+  {
+    "name": "Newport Academy",
+    "care_type": "Mental health service",
+    "address": "251 West Weber Canyon Road, Oakley, UT 84055",
+    "city": "Oakley",
+    "state": "Utah",
+    "state_code": "UT",
+    "phone": "435-222-5570",
+    "website": "https://www.newportacademy.com/locations/oakley-residential/?utm_source=mentalhealthdirectories.com&utm_medium=referral&utm_campaign=listing&utm_content=oakley",
+    "reviews_link": "https://maps.google.com/?cid=846777169376656419",
+    "rating": 3.4,
+    "reviews": 59,
+    "recommended": true,
+    "featured": true
   }
 ]
