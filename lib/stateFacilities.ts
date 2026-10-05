@@ -55,6 +55,7 @@ type AlternateFormatFacilityRaw = {
   name: string;
   category?: string;
   care_type?: string;
+  care_types?: string[];
   type?: string;
   address: string;
   street?: string;
@@ -133,9 +134,11 @@ function transformAlternateFormatFacilities(
               [name, addressLine1, city, stateName].filter(Boolean).join(" "),
             );
     const categorySource = (f.category ?? f.care_type ?? f.type ?? "").trim();
-    const careTypes = categorySource
-      ? [categorySource]
-      : ["Mental health service"];
+    const careTypes = Array.isArray(f.care_types) && f.care_types.length > 0
+      ? f.care_types.map((type) => type.trim()).filter(Boolean)
+      : categorySource
+        ? [categorySource]
+        : ["Mental health service"];
     return {
       id,
       name: (f.name ?? "").trim() || "Unnamed",

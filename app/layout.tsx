@@ -1,20 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Script from "next/script";
-import { Geist, Geist_Mono } from "next/font/google";
-import { getCanadaDirectoryIndex } from "@/lib/canadaFacilities";
-import { getDirectoryIndex } from "@/lib/stateFacilities";
+import { GeistSans } from "geist/font/sans";
+import { GeistMono } from "geist/font/mono";
 import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://mentalhealthdirectories.com"),
@@ -45,16 +34,11 @@ export const metadata: Metadata = {
   },
 };
 
-export default async function RootLayout({
+export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const [directory, canadaDirectory] = await Promise.all([
-    getDirectoryIndex(),
-    getCanadaDirectoryIndex(),
-  ]);
-
   return (
     <html lang="en">
       <head>
@@ -79,7 +63,7 @@ export default async function RootLayout({
         />
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${GeistSans.variable} ${GeistMono.variable} antialiased`}
       >
         <div className="flex min-h-screen flex-col bg-background text-foreground">
           <header className="w-full border-b-[3px] border-gold bg-navy text-white">
@@ -133,76 +117,6 @@ export default async function RootLayout({
 
           <main className="flex-1">{children}</main>
 
-          <section
-            className="w-full border-t border-navy/10 bg-navy/5"
-            aria-label="Full State and City Directory"
-          >
-            <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
-              <h2 className="text-sm font-semibold text-navy">
-                Full State and City Directory
-              </h2>
-              <p className="mt-1 text-[11px] text-slate-600">
-                Crawlable internal links to every state and city page.
-              </p>
-              <div className="mt-4 flex flex-col gap-5">
-                {directory.map((state) => (
-                  <div key={state.stateSlug} className="space-y-2">
-                    <Link
-                      href={`/${state.stateSlug}`}
-                      className="text-sm font-semibold text-teal hover:text-teal-soft"
-                    >
-                      {state.stateName}
-                    </Link>
-                    <div className="flex flex-wrap gap-x-3 gap-y-1">
-                      {state.cities.map((city) => (
-                        <Link
-                          key={`${state.stateSlug}-${city.citySlug}`}
-                          href={`/${state.stateSlug}/${city.citySlug}`}
-                          className="text-[11px] text-slate-600 hover:text-teal"
-                        >
-                          {city.cityName}
-                        </Link>
-                      ))}
-                    </div>
-                  </div>
-                ))}
-                {canadaDirectory.length > 0 && (
-                  <>
-                    <div className="space-y-2 border-t border-navy/10 pt-5">
-                      <Link
-                        href="/canada"
-                        className="text-sm font-semibold text-teal hover:text-teal-soft"
-                      >
-                        Canada
-                      </Link>
-                    </div>
-                    {canadaDirectory.map((province) => (
-                      <div key={province.provinceSlug} className="space-y-2">
-                        <Link
-                          href={`/canada/${province.provinceSlug}`}
-                          className="text-sm font-semibold text-teal hover:text-teal-soft"
-                        >
-                          {province.provinceName}
-                        </Link>
-                        <div className="flex flex-wrap gap-x-3 gap-y-1">
-                          {province.cities.map((city) => (
-                            <Link
-                              key={`${province.provinceSlug}-${city.citySlug}`}
-                              href={`/canada/${province.provinceSlug}/${city.citySlug}`}
-                              className="text-[11px] text-slate-600 hover:text-teal"
-                            >
-                              {city.cityName}
-                            </Link>
-                          ))}
-                        </div>
-                      </div>
-                    ))}
-                  </>
-                )}
-              </div>
-            </div>
-          </section>
-
           <footer className="w-full border-t-[3px] border-gold bg-navy">
             <div className="mx-auto max-w-6xl px-4 py-5 text-xs text-white/80 sm:px-6 lg:px-8">
               <p>
@@ -219,6 +133,9 @@ export default async function RootLayout({
                 </Link>
                 <Link href="/about" className="hover:text-gold">
                   About
+                </Link>
+                <Link href="/directory" className="hover:text-gold">
+                  Full Directory
                 </Link>
                 <Link href="/advertise" className="hover:text-gold">
                   Advertise

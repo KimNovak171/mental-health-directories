@@ -401,15 +401,22 @@
       "recommended": true
     },
     {
-      "name": "Ketamine Care Clinic",
+      "name": "Journey to Wellness",
       "category": "Mental health clinic",
-      "address": "1120 College Dr Suite 100, Bismarck, ND 58501",
-      "street": "1120 College Dr Suite 100",
+      "care_types": [
+        "Psychiatric medication management",
+        "Therapy",
+        "Ketamine infusion therapy",
+        "Spravato",
+        "Exomind TMS"
+      ],
+      "address": "1120 College Dr, Suite 100, Bismarck, ND 58501",
+      "street": "1120 College Dr, Suite 100",
       "city": "Bismarck",
       "state": "North Dakota",
       "state_code": "ND",
       "phone": "701-760-8606",
-      "website": "http://www.journeytowellnesspllc.com/",
+      "website": "https://www.journeytowellnesspllc.com/",
       "rating": 5.0,
       "reviews": 14,
       "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJM79zvTSD11IRFL-IH-rAI3I&q=*&authuser=0&hl=en&gl=US",
