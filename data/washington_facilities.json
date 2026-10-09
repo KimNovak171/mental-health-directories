@@ -5095,12 +5095,13 @@
       "city": "Kirkland",
       "state": "Washington",
       "state_code": "WA",
-      "phone": "833-449-1796",
-      "website": "https://www.newportacademy.com/locations/residential-washington-state/%3Futm_source%3Dgmb%26utm_medium%3Dreferral%26utm_campaign%3Dgmb%26utm_content%3Dkirkland",
+      "phone": "866-310-4792",
+      "website": "https://www.newportacademy.com/locations/residential-washington-state/?utm_source=mentalhealthdirectories.com&utm_medium=referral&utm_campaign=listing&utm_content=kirkland",
       "rating": 3.0,
       "reviews": 72,
       "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxciAKHkSkFQRNBobsYEyVkA&q=*&authuser=0&hl=en&gl=US",
-      "recommended": true
+      "recommended": true,
+      "featured": true
     },
     {
       "name": "Kekam Psychiatry Services",
