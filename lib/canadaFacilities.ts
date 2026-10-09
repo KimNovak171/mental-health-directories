@@ -31,6 +31,7 @@ export type CanadaRawFacility = {
   careTypes?: string[];
   featured?: boolean;
   premium?: boolean;
+  claimed?: boolean;
   recommended?: boolean;
   logo?: string | null;
   tagline?: string | null;

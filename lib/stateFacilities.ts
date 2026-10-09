@@ -71,6 +71,7 @@ type AlternateFormatFacilityRaw = {
   recommended?: boolean;
   featured?: boolean;
   premium?: boolean;
+  claimed?: boolean;
   logo?: string | null;
   tagline?: string | null;
 };
@@ -156,6 +157,7 @@ function transformAlternateFormatFacilities(
       careTypes,
       featured: f.featured ?? undefined,
       premium: f.premium ?? undefined,
+      claimed: f.claimed ?? undefined,
       recommended: f.recommended ?? undefined,
       logo: f.logo ?? undefined,
       tagline: f.tagline ?? undefined,
@@ -521,6 +523,7 @@ export type RawFacility = {
   careTypes?: string[];
   featured?: boolean;
   premium?: boolean;
+  claimed?: boolean;
   recommended?: boolean;
   logo?: string | null;
   tagline?: string | null;
