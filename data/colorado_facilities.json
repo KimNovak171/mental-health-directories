@@ -18878,6 +18878,22 @@
       "recommended": false
     },
     {
+      "name": "Tryphtin Scott Counseling PLLC",
+      "category": "Counselor",
+      "address": "1635 Foxtrail Dr, Rm 228, Loveland, CO 80538",
+      "street": "1635 Foxtrail Dr, Rm 228",
+      "city": "Loveland",
+      "state": "Colorado",
+      "state_code": "CO",
+      "phone": "970-305-5362",
+      "website": "https://tryphtinscottcounseling.com/",
+      "rating": 5.0,
+      "reviews": 11,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkQ8h2TGtbocRc7aEpCUSThI&q=*&authuser=0&hl=en&gl=US",
+      "recommended": true,
+      "claimed": true
+    },
+    {
       "name": "Irish Roots Therapy",
       "category": "Psychotherapist",
       "address": "14803 Guernsey Dr, Mead, CO 80542",
