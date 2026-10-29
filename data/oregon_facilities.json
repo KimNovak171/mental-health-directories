@@ -2,7 +2,7 @@
   "state": "Oregon",
   "state_code": "OR",
   "state_slug": "oregon",
-  "total_facilities": 1010,
+  "total_facilities": 1011,
   "total_cities": 46,
   "cities": [
     "Albany",
@@ -1492,6 +1492,19 @@
       "reviews": 9,
       "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvWwnWYFSE24RSDmEF_ofXDc&q=*&authuser=0&hl=en&gl=US",
       "recommended": true
+    },
+    {
+      "name": "Orange Pacific Mental Health",
+      "category": "Psychiatrist",
+      "address": "207 N Fir St, 2nd Floor, Sisters, OR 97759",
+      "street": "207 N Fir St, 2nd Floor",
+      "city": "Bend",
+      "state": "Oregon",
+      "state_code": "OR",
+      "phone": "541-748-3208",
+      "website": "https://orangepacificmh.com/online-psychiatrist-oregon/sisters/",
+      "recommended": true,
+      "claimed": true
     },
     {
       "name": "Downtown Psychological Services",
