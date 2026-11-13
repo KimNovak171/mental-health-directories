@@ -141,7 +141,7 @@ export default function RootLayout({
                   Advertise
                 </Link>
                 <Link href="/claim" className="hover:text-gold">
-                  Verify Your Listing
+                  Add or Edit Your Listing
                 </Link>
               </div>
             </div>
