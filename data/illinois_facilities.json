@@ -124,7 +124,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-628-1811",
-    "website": "https://www.achn.net/locations/location-pages/access-addison-family-health-center/%3Futm_source%3Dgoogle%26utm_medium%3Dwebsite%26utm_id%3Dwebsite%2Blink",
+    "website": "https://www.achn.net/locations/location-pages/access-addison-family-health-center/?utm_source=google&utm_medium=website&utm_id=website+link",
     "rating": 1.9,
     "reviews": 0,
     "recommended": false
@@ -150,7 +150,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-333-9039",
-    "website": "https://care.headway.co/providers/reanna-yarveicy%3Futm_source%3Dpem%26utm_medium%3Ddirect_link%26utm_campaign%3D189656",
+    "website": "https://care.headway.co/providers/reanna-yarveicy?utm_source=pem&utm_medium=direct_link&utm_campaign=189656",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -449,7 +449,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-210-6694",
-    "website": "https://totalspectrumcare.com/locations/chicago/arlington-heights%3Futm_source%3Dgmb%26utm_medium%3Dlocal%26utm_campaign%3Darlington-heights",
+    "website": "https://totalspectrumcare.com/locations/chicago/arlington-heights?utm_source=gmb&utm_medium=local&utm_campaign=arlington-heights",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -566,7 +566,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-952-7460",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/arlington-heights-ascension-illinois-center-for-mental-health-arlington-heights%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/arlington-heights-ascension-illinois-center-for-mental-health-arlington-heights?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 4.2,
     "reviews": 51,
     "recommended": true
@@ -631,7 +631,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-754-9343",
-    "website": "https://neurohealthah.com/%3Futm_source%3Dgoogle_my_business%26utm_medium%3Dorganic",
+    "website": "https://neurohealthah.com/?utm_source=google_my_business&utm_medium=organic",
     "rating": 3.1,
     "reviews": 86,
     "recommended": true
@@ -839,7 +839,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-216-8212",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/aurora/mary-logalbo/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/aurora/mary-logalbo/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 17,
     "recommended": true
@@ -852,7 +852,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-763-6630",
-    "website": "https://www.actionbehavior.com/location/illinois/aurora%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/aurora?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 17,
     "recommended": true
@@ -865,7 +865,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-349-7923",
-    "website": "https://riseupforautism.com/locations/aurora-il/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp_aurora",
+    "website": "https://riseupforautism.com/locations/aurora-il/?utm_source=google&utm_medium=organic&utm_campaign=gbp_aurora",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -878,7 +878,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "872-877-0010",
-    "website": "https://www.actionbehavior.com/location/illinois/north-aurora-beverly%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/north-aurora-beverly?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 15,
     "recommended": true
@@ -891,7 +891,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-293-6523",
-    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-aurora%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-aurora?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 8,
     "recommended": true
@@ -930,7 +930,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-216-8212",
-    "website": "https://lifestance.com/provider/therapist/il/aurora/mistie-drews/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/aurora/mistie-drews/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -943,7 +943,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-216-8212",
-    "website": "https://lifestance.com/provider/therapist/il/aurora/ryan-muir/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/aurora/ryan-muir/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -969,7 +969,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-216-8212",
-    "website": "https://lifestance.com/provider/therapist/il/aurora/renyce-ward/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/aurora/renyce-ward/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -982,7 +982,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-216-8212",
-    "website": "https://lifestance.com/provider/therapist/il/geneva/laura-kenward/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/geneva/laura-kenward/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -1021,7 +1021,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-973-2554",
-    "website": "https://www.holisticbehavioralandtms.com/%3Futm_source%3Dgbp%26utm_medium%3Dwebsite_btn%26utm_campaign%3Dgas",
+    "website": "https://www.holisticbehavioralandtms.com/?utm_source=gbp&utm_medium=website_btn&utm_campaign=gas",
     "rating": 4.8,
     "reviews": 90,
     "recommended": true
@@ -1034,7 +1034,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-216-8212",
-    "website": "https://lifestance.com/location/aurora-il-2124-ogden-avenue/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/aurora-il-2124-ogden-avenue/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.8,
     "reviews": 40,
     "recommended": true
@@ -1047,7 +1047,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-523-8166",
-    "website": "https://thriveworks.com/aurora-therapy/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/aurora-therapy/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.8,
     "reviews": 57,
     "recommended": true
@@ -1138,7 +1138,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-898-5322",
-    "website": "http://www.waterfordcounselingservices.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGBP",
+    "website": "http://www.waterfordcounselingservices.com/?utm_source=google&utm_medium=organic&utm_campaign=GBP",
     "rating": 4.0,
     "reviews": 3,
     "recommended": true
@@ -1294,7 +1294,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "877-692-8686",
-    "website": "https://www.auntmarthas.org/location/aurora-community-health-center/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp-listing%26utm_content%3Daurora-chc",
+    "website": "https://www.auntmarthas.org/location/aurora-community-health-center/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=aurora-chc",
     "rating": 3.1,
     "reviews": 77,
     "recommended": true
@@ -1632,7 +1632,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "nan",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/bartlett-ascension-illinois-bartlett/Departments/rehabilitation%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/bartlett-ascension-illinois-bartlett/Departments/rehabilitation?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 3.7,
     "reviews": 6,
     "recommended": true
@@ -1658,7 +1658,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-981-3630",
-    "website": "https://healthcare.ascension.org/find-care/provider/1639833031-1/karina-powell%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/find-care/provider/1639833031-1/karina-powell?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -1892,7 +1892,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "618-877-4420",
-    "website": "http://www.chestnut.org/%3Futm_source%3Dextnet%26utm_medium%3Dyext",
+    "website": "http://www.chestnut.org/?utm_source=extnet&utm_medium=yext",
     "rating": 2.6,
     "reviews": 48,
     "recommended": false
@@ -2139,7 +2139,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-386-0845",
-    "website": "https://www.pccwellness.org/locations/pcc-south-family-health-center/%3Futm_source%3Dgoogle%26utm_campaign%3Dgoogle_business%26utm_content%3Dprofile_link",
+    "website": "https://www.pccwellness.org/locations/pcc-south-family-health-center/?utm_source=google&utm_campaign=google_business&utm_content=profile_link",
     "rating": 3.2,
     "reviews": 81,
     "recommended": true
@@ -2269,7 +2269,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/kendrique-coats/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/kendrique-coats/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -2295,7 +2295,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-706-3190",
-    "website": "https://lifestance.com/provider/psychologist/il/bloomington/seth-hatlelid/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychologist/il/bloomington/seth-hatlelid/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -2347,7 +2347,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-291-8326",
-    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-bloomington-normal-illinois%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-bloomington-normal-illinois?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 4,
     "recommended": true
@@ -2373,7 +2373,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/sophia-gawron/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/sophia-gawron/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -2386,7 +2386,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/jacob-register/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/jacob-register/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -2399,7 +2399,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/amy-mueller/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/amy-mueller/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -2412,7 +2412,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/kathleen-backus/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/kathleen-backus/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -2425,7 +2425,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/sona-chalian/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/sona-chalian/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 8,
     "recommended": true
@@ -2438,7 +2438,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/nicolas-gudinojr/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/nicolas-gudinojr/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -2490,7 +2490,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/victoria-fetter/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/victoria-fetter/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -2503,7 +2503,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/psychiatrist/il/peoria/andrew-heritch/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychiatrist/il/peoria/andrew-heritch/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -2516,7 +2516,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/sehar-reshamwalamalinowski/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/sehar-reshamwalamalinowski/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -2555,7 +2555,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-428-7890",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/denise-goff/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/denise-goff/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.9,
     "reviews": 7,
     "recommended": true
@@ -2568,7 +2568,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-948-6469",
-    "website": "https://ivyrehab.com/physical-therapy-location/bloomington-kids/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-business",
+    "website": "https://ivyrehab.com/physical-therapy-location/bloomington-kids/?utm_source=GMB&utm_medium=organic&utm_campaign=google-business",
     "rating": 4.8,
     "reviews": 70,
     "recommended": true
@@ -2581,7 +2581,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/therapist/il/bloomington/jaclyn-orton/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/bloomington/jaclyn-orton/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.7,
     "reviews": 7,
     "recommended": true
@@ -2607,7 +2607,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-706-3190",
-    "website": "https://lifestance.com/location/bloomington-il-2406-e-empire/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/bloomington-il-2406-e-empire/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.5,
     "reviews": 43,
     "recommended": true
@@ -2620,7 +2620,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/location/bloomington-il-808-s-eldorado-rd/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/bloomington-il-808-s-eldorado-rd/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.3,
     "reviews": 134,
     "recommended": true
@@ -2646,7 +2646,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-316-7480",
-    "website": "https://www.gatewayfoundation.org/locations/bloomington/%3Futm_source%3Dorganic%26utm_medium%3Dgoogle-bp%26utm_campaign%3Dlistings%26utm_content%3Dbloomington",
+    "website": "https://www.gatewayfoundation.org/locations/bloomington/?utm_source=organic&utm_medium=google-bp&utm_campaign=listings&utm_content=bloomington",
     "rating": 4.2,
     "reviews": 13,
     "recommended": true
@@ -2659,7 +2659,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-827-2962",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/bloomington/amy-short/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/bloomington/amy-short/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.2,
     "reviews": 16,
     "recommended": true
@@ -2711,7 +2711,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-663-0488",
-    "website": "https://totalspectrumcare.com/locations/bloomington%3Futm_source%3Dgmb%26utm_medium%3Dlocal%26utm_campaign%3Dbloomington",
+    "website": "https://totalspectrumcare.com/locations/bloomington?utm_source=gmb&utm_medium=local&utm_campaign=bloomington",
     "rating": 3.7,
     "reviews": 3,
     "recommended": true
@@ -2724,7 +2724,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-924-3786",
-    "website": "http://www.chestnut.org/%3Futm_source%3Dextnet%26utm_medium%3Dyext",
+    "website": "http://www.chestnut.org/?utm_source=extnet&utm_medium=yext",
     "rating": 3.1,
     "reviews": 36,
     "recommended": true
@@ -2893,7 +2893,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-428-7890",
-    "website": "https://lifestance.com/provider/psychologist/il/bourbonnais/heather-perez/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychologist/il/bourbonnais/heather-perez/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -3088,7 +3088,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-312-5901",
-    "website": "https://ptsolutions.com/find-a-clinic/il/bolingbrook/bolingbrook/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGMB-PT-Solutions-AMITA-Health-Bolingbrook%26utm_content%3Dlisting",
+    "website": "https://ptsolutions.com/find-a-clinic/il/bolingbrook/bolingbrook/?utm_source=google&utm_medium=organic&utm_campaign=GMB-PT-Solutions-AMITA-Health-Bolingbrook&utm_content=listing",
     "rating": 4.9,
     "reviews": 187,
     "recommended": true
@@ -3101,7 +3101,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-444-7374",
-    "website": "https://www.fyzical.com/bolingbrook-il%3Futm_source%3Dgoogle%26utm_medium%3Dgoogleplaces%26utm_campaign%3Dfyzicalbolingbrook%26utm_id%3DGMB",
+    "website": "https://www.fyzical.com/bolingbrook-il?utm_source=google&utm_medium=googleplaces&utm_campaign=fyzicalbolingbrook&utm_id=GMB",
     "rating": 4.9,
     "reviews": 91,
     "recommended": true
@@ -3114,7 +3114,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-755-5278",
-    "website": "https://geodehealth.com/locations/bolingbrook-il/%3Fy_source%3D1_MTAxNzc3NDY3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/bolingbrook-il/?y_source=1_MTAxNzc3NDY3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.8,
     "reviews": 104,
     "recommended": true
@@ -3387,7 +3387,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-423-6096",
-    "website": "https://www.sandstonecare.com/locations/buffalo-grove-mental-health/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic",
+    "website": "https://www.sandstonecare.com/locations/buffalo-grove-mental-health/?utm_source=GMBlisting&utm_medium=organic",
     "rating": 5.0,
     "reviews": 13,
     "recommended": true
@@ -3465,7 +3465,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-203-2747",
-    "website": "https://geodehealth.com/locations/psychiatry-in-buffalo-grove-il/%3Fy_source%3D1_MTAxNzc3NDY3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/psychiatry-in-buffalo-grove-il/?y_source=1_MTAxNzc3NDY3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.6,
     "reviews": 162,
     "recommended": true
@@ -3907,7 +3907,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-794-4531",
-    "website": "https://www.athletico.com/locations/carpentersville/%3Futm_source%3Dgoogle-carpentersville%26utm_medium%3Dweb%26utm_campaign%3Dgoogle-listings",
+    "website": "https://www.athletico.com/locations/carpentersville/?utm_source=google-carpentersville&utm_medium=web&utm_campaign=google-listings",
     "rating": 4.9,
     "reviews": 0,
     "recommended": true
@@ -3920,7 +3920,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "877-692-8686",
-    "website": "https://www.auntmarthas.org/location/carpentersville-community-health-center/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp-listing%26utm_content%3Dcarpentersville-chc",
+    "website": "https://www.auntmarthas.org/location/carpentersville-community-health-center/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=carpentersville-chc",
     "rating": 3.3,
     "reviews": 56,
     "recommended": true
@@ -4154,7 +4154,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-693-6072",
-    "website": "https://lifestance.com/provider/therapist/il/champaign/katherine-getowicz/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/champaign/katherine-getowicz/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -4297,7 +4297,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-282-0034",
-    "website": "https://thriveworks.com/champaign-counseling/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/champaign-counseling/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.9,
     "reviews": 49,
     "recommended": true
@@ -4310,7 +4310,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-298-7462",
-    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-champaign-urbana-illinois%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-champaign-urbana-illinois?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.8,
     "reviews": 17,
     "recommended": true
@@ -4323,7 +4323,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-693-6072",
-    "website": "https://lifestance.com/provider/therapist/il/champaign/neelma-zafar/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/champaign/neelma-zafar/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 6,
     "recommended": true
@@ -4336,7 +4336,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-693-6072",
-    "website": "https://lifestance.com/location/champaign-il-2506-galen-drive/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/champaign-il-2506-galen-drive/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.7,
     "reviews": 40,
     "recommended": true
@@ -4544,7 +4544,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-447-7499",
-    "website": "https://totalspectrumcare.com/locations/champaign%3Futm_source%3Dgmb%26utm_medium%3Dlocal%26utm_campaign%3Dchampaign",
+    "website": "https://totalspectrumcare.com/locations/champaign?utm_source=gmb&utm_medium=local&utm_campaign=champaign",
     "rating": 3.0,
     "reviews": 2,
     "recommended": true
@@ -4869,7 +4869,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-693-6072",
-    "website": "https://lifestance.com/provider/psychologist/il/champaign/kimberly-guest/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychologist/il/champaign/kimberly-guest/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -4934,7 +4934,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-693-6072",
-    "website": "https://lifestance.com/provider/psychologist/il/champaign/cheryl-carter/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychologist/il/champaign/cheryl-carter/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -4960,7 +4960,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-688-1747",
-    "website": "https://thriveworks.com/therapist/il/jenelle-thompsonkeene%3Futm_source%3DGMBlisting_PP%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/therapist/il/jenelle-thompsonkeene?utm_source=GMBlisting_PP&utm_medium=organic&field:8499441=GMB",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -5181,7 +5181,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-688-1747",
-    "website": "https://thriveworks.com/provider/il/jacqueline-bode%3Futm_source%3DGMBlisting_PP%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/provider/il/jacqueline-bode?utm_source=GMBlisting_PP&utm_medium=organic&field:8499441=GMB",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -5688,7 +5688,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-620-1420",
-    "website": "https://innervoicepc.com/%3Futm_source%3Dgbpchicago%26utm_medium%3Dorganic",
+    "website": "https://innervoicepc.com/?utm_source=gbpchicago&utm_medium=organic",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -5779,7 +5779,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-883-7060",
-    "website": "https://www.rcchicago.org/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.rcchicago.org/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -5961,7 +5961,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-900-9719",
-    "website": "https://www.thebestpsychiatristchicago.com/%3Futm_source%3Dgbp%26utm_medium%3Dwebsite_btn%26utm_campaign%3Dgas",
+    "website": "https://www.thebestpsychiatristchicago.com/?utm_source=gbp&utm_medium=website_btn&utm_campaign=gas",
     "rating": 4.9,
     "reviews": 117,
     "recommended": true
@@ -5987,7 +5987,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-454-0672",
-    "website": "https://thriveworks.com/chicago-therapy/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/chicago-therapy/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.9,
     "reviews": 50,
     "recommended": true
@@ -6000,7 +6000,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-834-7014",
-    "website": "https://chicagotherapy.org/%3Futm_source%3Dgoogle_business_profile%26utm_medium%3Dgbp_website_link",
+    "website": "https://chicagotherapy.org/?utm_source=google_business_profile&utm_medium=gbp_website_link",
     "rating": 4.9,
     "reviews": 15,
     "recommended": true
@@ -6052,7 +6052,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-999-7809",
-    "website": "https://www.modernmentalhealthchicago.com/%3Futm_source%3Dgmb_auth",
+    "website": "https://www.modernmentalhealthchicago.com/?utm_source=gmb_auth",
     "rating": 4.8,
     "reviews": 38,
     "recommended": true
@@ -6312,7 +6312,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-313-6125",
-    "website": "https://www.luxurypsychiatryclinic.com/%3Futm_source%3Dgbp%26utm_medium%3Dorganic%26utm_campaign%3Dwebsite",
+    "website": "https://www.luxurypsychiatryclinic.com/?utm_source=gbp&utm_medium=organic&utm_campaign=website",
     "rating": 4.4,
     "reviews": 133,
     "recommended": true
@@ -6377,7 +6377,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-819-7381",
-    "website": "https://www.sagetherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.sagetherapy.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.4,
     "reviews": 17,
     "recommended": true
@@ -6442,7 +6442,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-761-4755",
-    "website": "https://lifestance.com/location/chicago-il-500-n-michigan-ave/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/chicago-il-500-n-michigan-ave/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.3,
     "reviews": 59,
     "recommended": true
@@ -6468,7 +6468,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-229-0446",
-    "website": "https://www.positivesobrietyinstitute.com/%3Futm_source%3Dgbp%26utm_medium%3Dweb%26utm_campaign%3Dchicago",
+    "website": "https://www.positivesobrietyinstitute.com/?utm_source=gbp&utm_medium=web&utm_campaign=chicago",
     "rating": 4.3,
     "reviews": 57,
     "recommended": true
@@ -6559,7 +6559,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-588-6212",
-    "website": "https://www.gatewayfoundation.org/locations/chicago-river-north/%3Futm_source%3Dorganic%26utm_medium%3Dgoogle-bp%26utm_campaign%3Dlistings%26utm_content%3Dchicago-river-north",
+    "website": "https://www.gatewayfoundation.org/locations/chicago-river-north/?utm_source=organic&utm_medium=google-bp&utm_campaign=listings&utm_content=chicago-river-north",
     "rating": 4.2,
     "reviews": 18,
     "recommended": true
@@ -6598,7 +6598,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "773-977-4031",
-    "website": "https://www.montrosebehavioral.com/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dlisting%26utm_term%3Dbrand%26y_source%3D1_NDAxMTk4MjktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.montrosebehavioral.com/?utm_source=GMB&utm_medium=organic&utm_campaign=listing&utm_term=brand&y_source=1_NDAxMTk4MjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 4.1,
     "reviews": 13,
     "recommended": true
@@ -6637,7 +6637,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-605-1390",
-    "website": "https://greywoodhealthcenter.com/%3Futm_source%3DGoogle%26utm_medium%3DOrganic%26utm_campaign%3DGoogle%2BBusiness%2BProfile",
+    "website": "https://greywoodhealthcenter.com/?utm_source=Google&utm_medium=Organic&utm_campaign=Google+Business+Profile",
     "rating": 4.0,
     "reviews": 34,
     "recommended": true
@@ -6689,7 +6689,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-493-3700",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/chicago-ascension-illinois-addiction-services-chicago%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/chicago-ascension-illinois-addiction-services-chicago?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 4.0,
     "reviews": 1,
     "recommended": true
@@ -6728,7 +6728,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "872-215-2517",
-    "website": "https://peaceofmindlifeco.wixsite.com/website-18%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D3067793698490662732",
+    "website": "https://peaceofmindlifeco.wixsite.com/website-18?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3067793698490662732",
     "rating": 4.0,
     "reviews": 2,
     "recommended": true
@@ -6741,7 +6741,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-586-9223",
-    "website": "https://thousandbrancheswellness.com/locations/chicago-loop/%3Futm_source%3DGoogle%26utm_medium%3DYext",
+    "website": "https://thousandbrancheswellness.com/locations/chicago-loop/?utm_source=Google&utm_medium=Yext",
     "rating": 4.0,
     "reviews": 4,
     "recommended": true
@@ -6767,7 +6767,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-460-2546",
-    "website": "https://suncloudhealth.com/about/locations/chicago-il/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://suncloudhealth.com/about/locations/chicago-il/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.0,
     "reviews": 50,
     "recommended": true
@@ -6832,7 +6832,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-926-8200",
-    "website": "https://www.nm.org/locations/norman-and-ida-stone-institute-of-psychiatry-inpatient%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_ODIyOTkzMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/norman-and-ida-stone-institute-of-psychiatry-inpatient?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_ODIyOTkzMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 3.8,
     "reviews": 4,
     "recommended": true
@@ -6897,7 +6897,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "773-900-8781",
-    "website": "https://www.midwestwellnessca.com/locations/chicago.html%3Futm_source%3DGBP%26utm_medium%3Dorganic%26utm_campaign%3DGoogleBusinessProfile%26utm_content%3Dchicago",
+    "website": "https://www.midwestwellnessca.com/locations/chicago.html?utm_source=GBP&utm_medium=organic&utm_campaign=GoogleBusinessProfile&utm_content=chicago",
     "rating": 3.7,
     "reviews": 9,
     "recommended": true
@@ -7014,7 +7014,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-626-8604",
-    "website": "https://thrivingcenterofpsych.com/locations/illinois/chicago/%3Futm_source%3Dgoogle%26utm_medium%3Dgoogle%2Bbusiness%2Bprofile%26utm_campaign%3Dchicago%2Boffice",
+    "website": "https://thrivingcenterofpsych.com/locations/illinois/chicago/?utm_source=google&utm_medium=google+business+profile&utm_campaign=chicago+office",
     "rating": 3.4,
     "reviews": 5,
     "recommended": true
@@ -7170,7 +7170,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-540-9955",
-    "website": "https://www.pathlightbh.com/recovery-centers/chicago-il%3Futm_source%3Dlocal-listing%26utm_medium%3Dorganic",
+    "website": "https://www.pathlightbh.com/recovery-centers/chicago-il?utm_source=local-listing&utm_medium=organic",
     "rating": 3.0,
     "reviews": 33,
     "recommended": true
@@ -7222,7 +7222,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-563-6637",
-    "website": "https://www.rush.edu/locations/outpatient-psychiatry-westgate%3Futm_source%3Dlisting%26utm_medium%3Dorganic%26utm_campaign%3Dyext%26y_source%3D1_ODc5MzI5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.rush.edu/locations/outpatient-psychiatry-westgate?utm_source=listing&utm_medium=organic&utm_campaign=yext&y_source=1_ODc5MzI5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 3.0,
     "reviews": 10,
     "recommended": true
@@ -7287,7 +7287,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "773-794-4000",
-    "website": "http://www.dhs.state.il.us/page.aspx%3Fmodule%3D12%26item%3D27893%26officeid%3D239",
+    "website": "http://www.dhs.state.il.us/page.aspx?module=12&item=27893&officeid=239",
     "rating": 2.8,
     "reviews": 33,
     "recommended": false
@@ -7391,7 +7391,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-942-5375",
-    "website": "https://www.rush.edu/locations/outpatient-child-and-adolescent-psychiatry%3Futm_source%3Dlisting%26utm_medium%3Dorganic%26utm_campaign%3Dyext%26y_source%3D1_ODc5MzI5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.rush.edu/locations/outpatient-child-and-adolescent-psychiatry?utm_source=listing&utm_medium=organic&utm_campaign=yext&y_source=1_ODc5MzI5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 2.4,
     "reviews": 11,
     "recommended": false
@@ -7508,7 +7508,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-633-5890",
-    "website": "https://www.primehealthcare.com/locations/%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic%26utm_source%3Dlocal",
+    "website": "https://www.primehealthcare.com/locations/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
     "rating": 1.0,
     "reviews": 1,
     "recommended": false
@@ -7573,7 +7573,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-770-2317",
-    "website": "https://www.primehealthcare.com/locations/%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic%26utm_source%3Dlocal",
+    "website": "https://www.primehealthcare.com/locations/?utm_campaign=gmb&utm_medium=organic&utm_source=local",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -7599,7 +7599,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-285-2287",
-    "website": "https://maha-us.org/community-mental-health-clinic/%3Fdoing_wp_cron%3D1649259044.6056299209594726562500",
+    "website": "https://maha-us.org/community-mental-health-clinic/?doing_wp_cron=1649259044.6056299209594726562500",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -7937,7 +7937,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-208-4022",
-    "website": "https://headway.co/providers/selahattin-gokturk%3Futm_source%3Dpem%26utm_medium%3Ddirect_link%26utm_campaign%3D96407",
+    "website": "https://headway.co/providers/selahattin-gokturk?utm_source=pem&utm_medium=direct_link&utm_campaign=96407",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -8067,7 +8067,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-942-5932",
-    "website": "https://www.rush.edu/services/behavioral-sciences%3Futm_source%3Dlisting%26utm_medium%3Dorganic%26utm_campaign%3Dyext%26y_source%3D1_ODc5MzMzMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.rush.edu/services/behavioral-sciences?utm_source=listing&utm_medium=organic&utm_campaign=yext&y_source=1_ODc5MzMzMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -8353,7 +8353,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-781-2747",
-    "website": "https://arenacounseling.net/%3Futm_source%3Dgoogle_business_profile%26utm_medium%3Dgbp_website_link%26utm_campaign%3Dgoogle_business_profile",
+    "website": "https://arenacounseling.net/?utm_source=google_business_profile&utm_medium=gbp_website_link&utm_campaign=google_business_profile",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -8457,7 +8457,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-284-0347",
-    "website": "https://byyoursideac.com/autism-therapy-locations/crystal-lake-illinois/%3Futm_source%3DGBP%26utm_medium%3Dorganic",
+    "website": "https://byyoursideac.com/autism-therapy-locations/crystal-lake-illinois/?utm_source=GBP&utm_medium=organic",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -8470,7 +8470,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-548-8782",
-    "website": "https://www.actionbehavior.com/location/illinois/crystal-lake-commerce%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/crystal-lake-commerce?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 4,
     "recommended": true
@@ -8561,7 +8561,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-900-4554",
-    "website": "https://cftsap.com/%3Futm_source%3Dgoogle_business_profile%26utm_medium%3Dgbp_website_link",
+    "website": "https://cftsap.com/?utm_source=google_business_profile&utm_medium=gbp_website_link",
     "rating": 4.8,
     "reviews": 20,
     "recommended": true
@@ -8574,7 +8574,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-287-0008",
-    "website": "https://clinics.caravelautism.com/caravel-autism-health-9e39ac073046%3Fy_source%3D1_MzE0NzEwOTktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://clinics.caravelautism.com/caravel-autism-health-9e39ac073046?y_source=1_MzE0NzEwOTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 4.8,
     "reviews": 16,
     "recommended": true
@@ -8613,7 +8613,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-566-7735",
-    "website": "https://www.arcadia-counseling.com/%3Futm_source%3DGMB%26utm_medium%3Dweb-click%26utm_campaign%3Dgoogle_my_business",
+    "website": "https://www.arcadia-counseling.com/?utm_source=GMB&utm_medium=web-click&utm_campaign=google_my_business",
     "rating": 4.7,
     "reviews": 15,
     "recommended": true
@@ -8782,7 +8782,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-344-9443",
-    "website": "https://cftsap.com/%3Futm_source%3Dgoogle_business_profile%26utm_medium%3Dgbp_website_link%26utm_campaign%3Dgoogle_business_profile",
+    "website": "https://cftsap.com/?utm_source=google_business_profile&utm_medium=gbp_website_link&utm_campaign=google_business_profile",
     "rating": 4.0,
     "reviews": 7,
     "recommended": true
@@ -9016,7 +9016,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-273-8990",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/crystal-lake-ascension-alexian-brothers-behavioral-health-crystal-lake%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/crystal-lake-ascension-alexian-brothers-behavioral-health-crystal-lake?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 2.1,
     "reviews": 9,
     "recommended": false
@@ -9094,7 +9094,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-334-5018",
-    "website": "https://www.nm.org/locations/behavioral-health-services-crystal-lake%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_OTg5MDMzOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/behavioral-health-services-crystal-lake?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_OTg5MDMzOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -9159,7 +9159,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-999-3627",
-    "website": "https://www.northernillinoisrecovery.com/programs/teen-iop/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "https://www.northernillinoisrecovery.com/programs/teen-iop/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -9237,7 +9237,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "773-312-3612",
-    "website": "http://www.innovativecounselingpartners.com/%3Futm_source%3Dgooglemybusiness%26utm_medium%3Dorganic",
+    "website": "http://www.innovativecounselingpartners.com/?utm_source=googlemybusiness&utm_medium=organic",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -9367,7 +9367,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-362-6500",
-    "website": "https://www.dhs.state.il.us/page.aspx%3Fmodule%3D12%26officetype%3D%26county%3DMacon",
+    "website": "https://www.dhs.state.il.us/page.aspx?module=12&officetype=&county=Macon",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -9419,7 +9419,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-520-1047",
-    "website": "https://lifestance.com/provider/therapist/il/decatur/jonathon-keck/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/decatur/jonathon-keck/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -9432,7 +9432,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-520-1047",
-    "website": "https://lifestance.com/provider/therapist/il/decatur/michelle-minton/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/decatur/michelle-minton/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -9445,7 +9445,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-520-1047",
-    "website": "https://lifestance.com/provider/therapist/il/decatur/jessica-hentrich/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/decatur/jessica-hentrich/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -9458,7 +9458,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-864-1264",
-    "website": "https://ivyrehab.com/physical-therapy-location/decatur-il/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-business",
+    "website": "https://ivyrehab.com/physical-therapy-location/decatur-il/?utm_source=GMB&utm_medium=organic&utm_campaign=google-business",
     "rating": 5.0,
     "reviews": 0,
     "recommended": true
@@ -9484,7 +9484,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-520-1047",
-    "website": "https://lifestance.com/provider/therapist/il/decatur/andrea-burns/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/decatur/andrea-burns/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.9,
     "reviews": 8,
     "recommended": true
@@ -9510,7 +9510,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-520-1047",
-    "website": "https://lifestance.com/provider/ann-crumpler-lcsw/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/ann-crumpler-lcsw/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 11,
     "recommended": true
@@ -9523,7 +9523,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-520-1047",
-    "website": "https://lifestance.com/location/decatur-il-102-w-kenwood-ave/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/decatur-il-102-w-kenwood-ave/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.6,
     "reviews": 88,
     "recommended": true
@@ -9575,7 +9575,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-876-2646",
-    "website": "https://www.memorial.health/%3Fy_source%3D1_MTU1NjkwMjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.memorial.health/?y_source=1_MTU1NjkwMjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 4.0,
     "reviews": 0,
     "recommended": true
@@ -9978,7 +9978,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-282-9666",
-    "website": "https://www.aaronmarshcounseling.com/%3Futm_source%3Dgoogle_my_business%26utm_medium%3Dlisting%26utm_campaign%3Dgoogle_my_business%26utm_id%3Dgoogle_my_business",
+    "website": "https://www.aaronmarshcounseling.com/?utm_source=google_my_business&utm_medium=listing&utm_campaign=google_my_business&utm_id=google_my_business",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -10134,7 +10134,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-756-4875",
-    "website": "https://www.nm.org/locations/behavioral-health-services-ben-gordon-dekalb%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_ODIyOTgwMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/behavioral-health-services-ben-gordon-dekalb?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_ODIyOTgwMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 2.4,
     "reviews": 49,
     "recommended": false
@@ -10147,7 +10147,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-756-8501",
-    "website": "https://www.nm.org/locations/behavioral-health-services-ben-gordon-health-first-street%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_ODIyOTgwNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/behavioral-health-services-ben-gordon-health-first-street?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_ODIyOTgwNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 1.7,
     "reviews": 6,
     "recommended": false
@@ -10316,7 +10316,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-881-3990",
-    "website": "https://www.symetriarecovery.com/locations/illinois/des-plaines/%3Futm_source%3DGoogle%26utm_medium%3DGMB-Des-Plaines",
+    "website": "https://www.symetriarecovery.com/locations/illinois/des-plaines/?utm_source=Google&utm_medium=GMB-Des-Plaines",
     "rating": 5.0,
     "reviews": 64,
     "recommended": true
@@ -10472,7 +10472,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-298-3150",
-    "website": "https://www.achn.net/locations/location-pages/access-genesis-center-for-health-and-empowerment/%3Futm_source%3Dgoogle%26utm_medium%3Dwebsite%26utm_id%3Dwebsite%2Blink",
+    "website": "https://www.achn.net/locations/location-pages/access-genesis-center-for-health-and-empowerment/?utm_source=google&utm_medium=website&utm_id=website+link",
     "rating": 2.8,
     "reviews": 154,
     "recommended": false
@@ -10810,7 +10810,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-206-0272",
-    "website": "http://www.aldergrovecounseling.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D5297009831493052963",
+    "website": "http://www.aldergrovecounseling.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5297009831493052963",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -10940,7 +10940,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-526-7169",
-    "website": "https://www.gatewayfoundation.org/locations/downers-grove/%3Futm_source%3Dorganic%26utm_medium%3Dgoogle-bp%26utm_campaign%3Dlistings%26utm_content%3Ddowners-grove",
+    "website": "https://www.gatewayfoundation.org/locations/downers-grove/?utm_source=organic&utm_medium=google-bp&utm_campaign=listings&utm_content=downers-grove",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -10992,7 +10992,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-713-5894",
-    "website": "https://www.ascendcounselingil.com/%3Futm_medium%3Dorganic%26utm_source%3Dgbp%26utm_campaign%3Dwebsite",
+    "website": "https://www.ascendcounselingil.com/?utm_medium=organic&utm_source=gbp&utm_campaign=website",
     "rating": 4.7,
     "reviews": 12,
     "recommended": true
@@ -11044,7 +11044,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-521-3095",
-    "website": "https://stridecenters.com/locations/downers-grove-il/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp%26utm_content%3Ddowners-grove",
+    "website": "https://stridecenters.com/locations/downers-grove-il/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=downers-grove",
     "rating": 4.5,
     "reviews": 4,
     "recommended": true
@@ -11499,7 +11499,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-435-5632",
-    "website": "https://clinics.caravelautism.com/caravel-autism-health-ea767c8fb71b%3Fy_source%3D1_MzE0NzExMDctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://clinics.caravelautism.com/caravel-autism-health-ea767c8fb71b?y_source=1_MzE0NzExMDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 5.0,
     "reviews": 4,
     "recommended": true
@@ -11629,7 +11629,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-582-3292",
-    "website": "https://www.baugh-behavioral.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D1712398945508743372",
+    "website": "https://www.baugh-behavioral.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1712398945508743372",
     "rating": 4.5,
     "reviews": 19,
     "recommended": true
@@ -11642,7 +11642,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-281-5394",
-    "website": "http://footprintstorecovery.com/addiction-treatment-locations/chicago-illinois/%3FopenFurtherEVSA%3D55",
+    "website": "http://footprintstorecovery.com/addiction-treatment-locations/chicago-illinois/?openFurtherEVSA=55",
     "rating": 4.5,
     "reviews": 345,
     "recommended": true
@@ -11668,7 +11668,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-427-6887",
-    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-elgin%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-elgin?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.4,
     "reviews": 15,
     "recommended": true
@@ -11720,7 +11720,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-548-8417",
-    "website": "https://www.actionbehavior.com/location/illinois/elgin%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/elgin?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.2,
     "reviews": 10,
     "recommended": true
@@ -11824,7 +11824,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-742-1040",
-    "website": "https://www.dhs.state.il.us/page.aspx%3Fitem%3D85298",
+    "website": "https://www.dhs.state.il.us/page.aspx?item=85298",
     "rating": 2.0,
     "reviews": 6,
     "recommended": false
@@ -12019,7 +12019,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "855-383-2224",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/elk-grove-village-ascension-illinois-foglia-family-foundation-residential-treatment-center%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/elk-grove-village-ascension-illinois-foglia-family-foundation-residential-treatment-center?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 2.8,
     "reviews": 35,
     "recommended": false
@@ -12071,7 +12071,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-755-5274",
-    "website": "https://geodehealth.com/locations/elmhurst-il/%3Fy_source%3D1_MTAxNzc3NDY2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/elmhurst-il/?y_source=1_MTAxNzc3NDY2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.6,
     "reviews": 101,
     "recommended": true
@@ -12084,7 +12084,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-884-9021",
-    "website": "https://lifestance.com/location/elmhurst-il-180-w-park-avenue-st/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/elmhurst-il-180-w-park-avenue-st/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.6,
     "reviews": 53,
     "recommended": true
@@ -12253,7 +12253,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/evanston/jonathan-mcintosh/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/evanston/jonathan-mcintosh/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -12292,7 +12292,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/evanston/steven-schreiner/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/evanston/steven-schreiner/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -12305,7 +12305,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/evanston/veronica-pena/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/evanston/veronica-pena/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -12344,7 +12344,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/evanston/anders-benson/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/evanston/anders-benson/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -12383,7 +12383,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-529-4482",
-    "website": "https://thriveworks.com/evanston-counseling/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/evanston-counseling/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.8,
     "reviews": 24,
     "recommended": true
@@ -12409,7 +12409,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/location/evanston-il-1007-church-street/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/evanston-il-1007-church-street/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.7,
     "reviews": 38,
     "recommended": true
@@ -12461,7 +12461,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/psychiatrist/il/evanston/ashok-nagella/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychiatrist/il/evanston/ashok-nagella/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.5,
     "reviews": 18,
     "recommended": true
@@ -12630,7 +12630,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "866-364-2300",
-    "website": "https://synchronybh.com/%3Futm_source%3DGMB%26utm_medium%3DGMB%26utm_campaign%3DGMB-profile",
+    "website": "https://synchronybh.com/?utm_source=GMB&utm_medium=GMB&utm_campaign=GMB-profile",
     "rating": 3.0,
     "reviews": 2,
     "recommended": true
@@ -12643,7 +12643,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-368-0060",
-    "website": "https://www.kpcounseling.com/%3Futm_source%3Dyext%26utm_medium%3Dyext-g",
+    "website": "https://www.kpcounseling.com/?utm_source=yext&utm_medium=yext-g",
     "rating": 3.0,
     "reviews": 2,
     "recommended": true
@@ -12682,7 +12682,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/evanston/layla-byrnes/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/evanston/layla-byrnes/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 3.0,
     "reviews": 1,
     "recommended": true
@@ -12721,7 +12721,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-425-6400",
-    "website": "http://www.northshore.org/apps/findadoctor/doctor.aspx%3Fpid%3D7926",
+    "website": "http://www.northshore.org/apps/findadoctor/doctor.aspx?pid=7926",
     "rating": 2.6,
     "reviews": 5,
     "recommended": false
@@ -12773,7 +12773,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/psychiatrist/il/evanston/chrisantha-anandappa/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychiatrist/il/evanston/chrisantha-anandappa/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 2.0,
     "reviews": 1,
     "recommended": false
@@ -12981,7 +12981,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapy-clinician/il/evanston/cierra-swait/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapy-clinician/il/evanston/cierra-swait/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13007,7 +13007,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/evanston/gabrielle-diaz/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/evanston/gabrielle-diaz/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13085,7 +13085,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/chicago/julia-navarrete/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/chicago/julia-navarrete/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13163,7 +13163,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-380-3993",
-    "website": "https://www.pathlightbh.com/recovery-centers/chicago/evanston-il/%3Futm_campaign%3Dwebsite-link%26utm_medium%3Dorganic%26utm_source%3Dlocal-listing",
+    "website": "https://www.pathlightbh.com/recovery-centers/chicago/evanston-il/?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13436,7 +13436,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-440-5760",
-    "website": "https://lifestance.com/provider/therapist/il/chicago/krista-thomas/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/chicago/krista-thomas/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13644,7 +13644,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-344-9444",
-    "website": "https://www.osfhealthcare.org/locations/osf-medical-group-behavioral-mental-health-galesburg-120338%3Futm_campaign%3Dgobu-123456%26utm_source%3Dgoogle%26utm_medium%3Dreferral%26utm_content%3Dloc%26linksource%3Dgbl-google-loc",
+    "website": "https://www.osfhealthcare.org/locations/osf-medical-group-behavioral-mental-health-galesburg-120338?utm_campaign=gobu-123456&utm_source=google&utm_medium=referral&utm_content=loc&linksource=gbl-google-loc",
     "rating": 3.7,
     "reviews": 3,
     "recommended": true
@@ -13774,7 +13774,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-232-0091",
-    "website": "https://geodehealth.com/locations/psychiatry-in-glenview-il/%3Fy_source%3D1_MTA4MjYwNDk3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/psychiatry-in-glenview-il/?y_source=1_MTA4MjYwNDk3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 5.0,
     "reviews": 10,
     "recommended": true
@@ -13839,7 +13839,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-548-8554",
-    "website": "https://www.actionbehavior.com/location/illinois/north-glenview%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/north-glenview?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -14255,7 +14255,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-338-7400",
-    "website": "https://www.dhs.state.il.us/page.aspx%3Fmodule%3D12%26officetype%3D10%26county%3DCook",
+    "website": "https://www.dhs.state.il.us/page.aspx?module=12&officetype=10&county=Cook",
     "rating": 1.9,
     "reviews": 92,
     "recommended": false
@@ -14385,7 +14385,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8090",
-    "website": "https://healthcare.ascension.org/doctors/1891997870/salahuddin-syed-hoffman-estates-il%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/doctors/1891997870/salahuddin-syed-hoffman-estates-il?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -14398,7 +14398,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8090",
-    "website": "https://healthcare.ascension.org/find-care/provider/1386677334-1/gregory-teas%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/find-care/provider/1386677334-1/gregory-teas?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -14411,7 +14411,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8090",
-    "website": "https://healthcare.ascension.org/doctors/1659396752/gia-grimmitt-hoffman-estates-il%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/doctors/1659396752/gia-grimmitt-hoffman-estates-il?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -14567,7 +14567,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-267-9477",
-    "website": "https://thriveworks.com/hoffman-estates-counseling/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/hoffman-estates-counseling/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.8,
     "reviews": 77,
     "recommended": true
@@ -14632,7 +14632,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "855-383-2224",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius-medical-center/Departments/behavioral-health%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius-medical-center/Departments/behavioral-health?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 4.4,
     "reviews": 148,
     "recommended": true
@@ -14710,7 +14710,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8090",
-    "website": "https://healthcare.ascension.org/find-care/provider/1710144837/shubhrajan-wadyal%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/find-care/provider/1710144837/shubhrajan-wadyal?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": 3.7,
     "reviews": 24,
     "recommended": true
@@ -14736,7 +14736,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-299-4222",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius/departments/developmental-pediatrics%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius/departments/developmental-pediatrics?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 3.3,
     "reviews": 7,
     "recommended": true
@@ -14762,7 +14762,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8090",
-    "website": "https://healthcare.ascension.org/find-care/provider/1588779151/michael-brilliant%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/find-care/provider/1588779151/michael-brilliant?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": 3.2,
     "reviews": 5,
     "recommended": true
@@ -14775,7 +14775,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "855-383-2224",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/elk-grove-village-ascension-illinois-behavioral-health%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/elk-grove-village-ascension-illinois-behavioral-health?utm_campaign=gmb&utm_medium=organic&utm_source=local",
     "rating": 3.0,
     "reviews": 2,
     "recommended": true
@@ -14814,7 +14814,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8090",
-    "website": "https://healthcare.ascension.org/find-care/provider/1437414695/syed-hussain%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/find-care/provider/1437414695/syed-hussain?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": 2.8,
     "reviews": 12,
     "recommended": false
@@ -14827,7 +14827,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "855-383-2224",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-alexian-brothers-behavioral-health-hospital%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-alexian-brothers-behavioral-health-hospital?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 2.3,
     "reviews": 378,
     "recommended": false
@@ -14879,7 +14879,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8536",
-    "website": "https://healthcare.ascension.org/find-care/provider/1972051894/kaitlyn-eichinger-murphy%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/find-care/provider/1972051894/kaitlyn-eichinger-murphy?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": 1.0,
     "reviews": 1,
     "recommended": false
@@ -14905,7 +14905,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-230-3599",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius-medical-center/Departments/psychiatric-research%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius-medical-center/Departments/psychiatric-research?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -14931,7 +14931,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-755-8536",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius-medical-center/Departments/developmental-disorders%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/hoffman-estates-ascension-saint-alexius-medical-center/Departments/developmental-disorders?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -14970,7 +14970,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-334-5018",
-    "website": "https://www.nm.org/locations/behavioral-health-services-huntley%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_OTg5MDM0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/behavioral-health-services-huntley?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_OTg5MDM0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 1.0,
     "reviews": 1,
     "recommended": false
@@ -15048,7 +15048,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-446-1975",
-    "website": "https://geodehealth.com/locations/psychiatry-in-joliet-il/%3Fy_source%3D1_MjAwMDYzMjIwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/psychiatry-in-joliet-il/?y_source=1_MjAwMDYzMjIwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 5.0,
     "reviews": 47,
     "recommended": true
@@ -15100,7 +15100,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-242-3868",
-    "website": "https://www.banyantreatmentcenter.com/consultation-centers/joliet/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic",
+    "website": "https://www.banyantreatmentcenter.com/consultation-centers/joliet/?utm_source=GMBlisting&utm_medium=organic",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -15126,7 +15126,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-291-8831",
-    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-in-joliet-il-aba-therapy-for-children%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-in-joliet-il-aba-therapy-for-children?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 8,
     "recommended": true
@@ -15139,7 +15139,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-971-3603",
-    "website": "https://www.actionbehavior.com/location/illinois/joliet-essington%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/joliet-essington?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -15178,7 +15178,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-970-5100",
-    "website": "https://ivyrehab.com/physical-therapy-location/joliet-il/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-business",
+    "website": "https://ivyrehab.com/physical-therapy-location/joliet-il/?utm_source=GMB&utm_medium=organic&utm_campaign=google-business",
     "rating": 5.0,
     "reviews": 0,
     "recommended": true
@@ -15204,7 +15204,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-685-4665",
-    "website": "https://www.riseandthrivehealthcare.com/%3Futm_source%3Dgmb_auth",
+    "website": "https://www.riseandthrivehealthcare.com/?utm_source=gmb_auth",
     "rating": 4.8,
     "reviews": 69,
     "recommended": true
@@ -15256,7 +15256,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-243-5677",
-    "website": "https://thriveworks.com/joliet-counseling/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/joliet-counseling/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.5,
     "reviews": 78,
     "recommended": true
@@ -15464,7 +15464,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "877-692-8686",
-    "website": "https://www.auntmarthas.org/location/east-joliet-community-health-center/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp-listing%26utm_content%3Deast-joliet-chc",
+    "website": "https://www.auntmarthas.org/location/east-joliet-community-health-center/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=east-joliet-chc",
     "rating": 3.1,
     "reviews": 119,
     "recommended": true
@@ -15763,7 +15763,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-869-7956",
-    "website": "https://www.covingtonwellnesscenter.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D11901918700997448844",
+    "website": "https://www.covingtonwellnesscenter.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11901918700997448844",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -15776,7 +15776,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-209-2429",
-    "website": "https://thriveworks.com/therapist/il/erin-wold%3Futm_source%3DGMBlisting_PP%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/therapist/il/erin-wold?utm_source=GMBlisting_PP&utm_medium=organic&field:8499441=GMB",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -15815,7 +15815,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-800-5024",
-    "website": "https://fostercounseling.org/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp_lith%26utm_content%3Dwebsite",
+    "website": "https://fostercounseling.org/?utm_source=google&utm_medium=organic&utm_campaign=gbp_lith&utm_content=website",
     "rating": 5.0,
     "reviews": 16,
     "recommended": true
@@ -15841,7 +15841,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-348-7375",
-    "website": "https://lifestance.com/provider/therapist/il/lake-in-the-hills/reanna-yarveicy/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/lake-in-the-hills/reanna-yarveicy/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -15854,7 +15854,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-637-1562",
-    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-in-lake-in-the-hills-il-aba-therapy-for-children%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-in-lake-in-the-hills-il-aba-therapy-for-children?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.8,
     "reviews": 22,
     "recommended": true
@@ -15867,7 +15867,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-416-8006",
-    "website": "https://melodylivinglith.com/assisted-living/%3Futm_source%3Dlocal%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://melodylivinglith.com/assisted-living/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.7,
     "reviews": 13,
     "recommended": true
@@ -15880,7 +15880,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-442-0425",
-    "website": "https://geodehealth.com/locations/algonquin-il/%3Fy_source%3D1_MTAxNzc3NDY4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/algonquin-il/?y_source=1_MTAxNzc3NDY4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.6,
     "reviews": 160,
     "recommended": true
@@ -15893,7 +15893,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-344-9443",
-    "website": "https://cftsap.com/%3Futm_source%3Dgoogle_business_profile%26utm_medium%3Dgbp_website_link%26utm_campaign%3Dgoogle_business_profile",
+    "website": "https://cftsap.com/?utm_source=google_business_profile&utm_medium=gbp_website_link&utm_campaign=google_business_profile",
     "rating": 4.5,
     "reviews": 37,
     "recommended": true
@@ -15906,7 +15906,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-348-7375",
-    "website": "https://lifestance.com/location/lake-in-the-hills-il-1301-pyott-rd/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/lake-in-the-hills-il-1301-pyott-rd/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.4,
     "reviews": 19,
     "recommended": true
@@ -15958,7 +15958,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-348-7375",
-    "website": "https://lifestance.com/provider/therapist/il/lake-in-the-hills/melissa-downey/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/lake-in-the-hills/melissa-downey/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 1.0,
     "reviews": 1,
     "recommended": false
@@ -15984,7 +15984,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-348-7375",
-    "website": "https://lifestance.com/provider/therapist/il/lake-in-the-hills/simona-stanila/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/lake-in-the-hills/simona-stanila/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -16127,7 +16127,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-316-7443",
-    "website": "https://lifestance.com/location/lockport-il-16221-w-159th-st/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/lockport-il-16221-w-159th-st/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.8,
     "reviews": 30,
     "recommended": true
@@ -16257,7 +16257,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "331-224-0033",
-    "website": "https://www.montenido.com/locations/illinois-chicago-day-treatment%3Futm_source%3Dgmb_local%26utm_medium%3Dorganic%26utm_campaign%3Dchicago-day",
+    "website": "https://www.montenido.com/locations/illinois-chicago-day-treatment?utm_source=gmb_local&utm_medium=organic&utm_campaign=chicago-day",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -16348,7 +16348,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "331-256-5255",
-    "website": "https://www.actionbehavior.com/location/illinois/lombard%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/lombard?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.9,
     "reviews": 38,
     "recommended": true
@@ -16530,7 +16530,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-206-9252",
-    "website": "https://totalspectrumcare.com/locations/chicago/lombard%3Futm_source%3Dgmb%26utm_medium%3Dlocal%26utm_campaign%3Dlombard",
+    "website": "https://totalspectrumcare.com/locations/chicago/lombard?utm_source=gmb&utm_medium=local&utm_campaign=lombard",
     "rating": 3.5,
     "reviews": 8,
     "recommended": true
@@ -16998,7 +16998,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-681-0073",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/melrose-park-ascension-illinois-center-for-mental-health%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/melrose-park-ascension-illinois-center-for-mental-health?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 2.7,
     "reviews": 15,
     "recommended": false
@@ -17258,7 +17258,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-581-3600",
-    "website": "https://www.encompasshealth.com/locations/quad-cities-rehab%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "https://www.encompasshealth.com/locations/quad-cities-rehab?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": 4.3,
     "reviews": 83,
     "recommended": true
@@ -17388,7 +17388,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-779-3000",
-    "website": "https://www.unitypoint.org/providers/John-C-Ciaccio-1168678%3Futm_source%3Dgmb%26utm_medium%3Dweb%26utm_campaign%3Dbrandify",
+    "website": "https://www.unitypoint.org/providers/John-C-Ciaccio-1168678?utm_source=gmb&utm_medium=web&utm_campaign=brandify",
     "rating": 2.8,
     "reviews": 6,
     "recommended": false
@@ -17778,7 +17778,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-763-6625",
-    "website": "https://www.actionbehavior.com/location/illinois/naperville%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/naperville?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 24,
     "recommended": true
@@ -17856,7 +17856,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0949",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/naperville/olalekan-fasogbon/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/naperville/olalekan-fasogbon/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -17869,7 +17869,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0165",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/naperville/hildred-amegashie/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/naperville/hildred-amegashie/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -17999,7 +17999,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0165",
-    "website": "https://lifestance.com/provider/psychiatrist/il/naperville/craig-kestenberg/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychiatrist/il/naperville/craig-kestenberg/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 8,
     "recommended": true
@@ -18051,7 +18051,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0949",
-    "website": "https://lifestance.com/provider/therapist/il/naperville/threasa-kluever/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/naperville/threasa-kluever/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -18090,7 +18090,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0165",
-    "website": "https://lifestance.com/provider/therapist/il/naperville/alexis-rodriguez/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/naperville/alexis-rodriguez/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -18116,7 +18116,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0134",
-    "website": "https://lifestance.com/provider/therapist/il/naperville/kristen-melchiori/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/naperville/kristen-melchiori/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -18129,7 +18129,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0949",
-    "website": "https://lifestance.com/provider/therapist/il/naperville/karissa-fleming/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/naperville/karissa-fleming/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -18207,7 +18207,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0134",
-    "website": "https://lifestance.com/provider/psychiatrist/il/naperville/courtney-wiseman/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychiatrist/il/naperville/courtney-wiseman/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 41,
     "recommended": true
@@ -18246,7 +18246,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0134",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/naperville/arturo-ventura/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/naperville/arturo-ventura/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 22,
     "recommended": true
@@ -18298,7 +18298,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-281-2496",
-    "website": "https://www.counselingworks.com/%3Futm_source%3DGoogle%26utm_medium%3DGMB%26utm_campaign%3DGMB",
+    "website": "https://www.counselingworks.com/?utm_source=Google&utm_medium=GMB&utm_campaign=GMB",
     "rating": 4.7,
     "reviews": 24,
     "recommended": true
@@ -18363,7 +18363,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0134",
-    "website": "https://lifestance.com/location/naperville-il-900-e-diehl-road/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/naperville-il-900-e-diehl-road/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.4,
     "reviews": 113,
     "recommended": true
@@ -18402,7 +18402,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0949",
-    "website": "https://lifestance.com/location/naperville-il-55-s-main-st/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/naperville-il-55-s-main-st/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.3,
     "reviews": 26,
     "recommended": true
@@ -18428,7 +18428,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "331-457-2020",
-    "website": "https://growwellnessgroup.com/%3Futm_campaign%3Dgmb",
+    "website": "https://growwellnessgroup.com/?utm_campaign=gmb",
     "rating": 4.3,
     "reviews": 71,
     "recommended": true
@@ -18441,7 +18441,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0165",
-    "website": "https://lifestance.com/location/naperville-il-2948-artesian-road/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/naperville-il-2948-artesian-road/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.2,
     "reviews": 205,
     "recommended": true
@@ -18454,7 +18454,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-407-1896",
-    "website": "https://suncloudhealth.com/about/locations/naperville-il/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://suncloudhealth.com/about/locations/naperville-il/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.2,
     "reviews": 46,
     "recommended": true
@@ -18506,7 +18506,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-716-3731",
-    "website": "https://www.montenido.com/locations/clementine-chicago-naperville%3Futm_source%3Dgmb_local%26utm_medium%3Dorganic%26utm_campaign%3Dnaperville-residential",
+    "website": "https://www.montenido.com/locations/clementine-chicago-naperville?utm_source=gmb_local&utm_medium=organic&utm_campaign=naperville-residential",
     "rating": 4.1,
     "reviews": 26,
     "recommended": true
@@ -18883,7 +18883,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-328-0949",
-    "website": "https://lifestance.com/provider/psychologist/il/naperville/mary-bell/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychologist/il/naperville/mary-bell/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -19182,7 +19182,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-807-5077",
-    "website": "https://www.thementalwellnesscenter.com/%3Futm_source%3Dgoogle%26utm_medium%3Dgbp%26utm_campaign%3Dgbp-Listing",
+    "website": "https://www.thementalwellnesscenter.com/?utm_source=google&utm_medium=gbp&utm_campaign=gbp-Listing",
     "rating": 4.4,
     "reviews": 13,
     "recommended": true
@@ -19195,7 +19195,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-485-5024",
-    "website": "https://thriveworks.com/normal-counseling/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/normal-counseling/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.2,
     "reviews": 17,
     "recommended": true
@@ -19260,7 +19260,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-205-7863",
-    "website": "https://brightsideclinic.com/locations/north-aurora-addiction-treatment-center/%3Futm_source%3Dgmb%26utm_medium%3Dyext",
+    "website": "https://brightsideclinic.com/locations/north-aurora-addiction-treatment-center/?utm_source=gmb&utm_medium=yext",
     "rating": 5.0,
     "reviews": 23,
     "recommended": true
@@ -19273,7 +19273,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-570-0050",
-    "website": "https://www.oakheartcenter.com/north-aurora-il---oakheart-center-for-counseling.html%3Fy_source%3D1_MTE1NTg0NjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.oakheartcenter.com/north-aurora-il---oakheart-center-for-counseling.html?y_source=1_MTE1NTg0NjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 4.8,
     "reviews": 44,
     "recommended": true
@@ -19286,7 +19286,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-506-6615",
-    "website": "https://geodehealth.com/locations/aurora-il/%3Fy_source%3D1_MTAxNzc3NDY3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/aurora-il/?y_source=1_MTAxNzc3NDY3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.7,
     "reviews": 108,
     "recommended": true
@@ -19325,7 +19325,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-467-2836",
-    "website": "https://lifestance.com/provider/therapist/il/northbrook/rahshonda-kirkwood/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/northbrook/rahshonda-kirkwood/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -19377,7 +19377,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-467-2836",
-    "website": "https://lifestance.com/provider/therapist/il/northbrook/angela-meyer/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/northbrook/angela-meyer/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -19390,7 +19390,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-540-9955",
-    "website": "https://www.eatingrecoverycenter.com/recovery-centers/chicago/northbrook%3Futm_campaign%3Dwebsite-link%26utm_medium%3Dorganic%26utm_source%3Dlocal-listing",
+    "website": "https://www.eatingrecoverycenter.com/recovery-centers/chicago/northbrook?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -19468,7 +19468,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-467-2836",
-    "website": "https://lifestance.com/location/northbrook-il-4201-lake-cook-rd/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/northbrook-il-4201-lake-cook-rd/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 3.4,
     "reviews": 10,
     "recommended": true
@@ -19507,7 +19507,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-428-7890",
-    "website": "https://lifestance.com/provider/psychiatrist/il/highland-park/joshua-nathan/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/provider/psychiatrist/il/highland-park/joshua-nathan/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -19533,7 +19533,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-467-2836",
-    "website": "https://lifestance.com/provider/therapist/il/northbrook/danielle-anderson/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/northbrook/danielle-anderson/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -19767,7 +19767,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-651-5182",
-    "website": "https://geodehealth.com/%3Fy_source%3D1_MTAxNzc3NDY3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/?y_source=1_MTAxNzc3NDY3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 1.8,
     "reviews": 5,
     "recommended": false
@@ -20352,7 +20352,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-416-6475",
-    "website": "https://lifestance.com/location/oak-park-il-1010/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/oak-park-il-1010/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.4,
     "reviews": 69,
     "recommended": true
@@ -20404,7 +20404,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-232-3227",
-    "website": "https://stellamentalhealth.com/locations/illinois-oakpark%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_oakpark",
+    "website": "https://stellamentalhealth.com/locations/illinois-oakpark?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_oakpark",
     "rating": 4.1,
     "reviews": 37,
     "recommended": true
@@ -20417,7 +20417,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "773-312-3612",
-    "website": "https://innovativecounselingpartners.com/%3Futm_source%3Dgooglemybusiness%26utm_medium%3Dorganic",
+    "website": "https://innovativecounselingpartners.com/?utm_source=googlemybusiness&utm_medium=organic",
     "rating": 4.1,
     "reviews": 13,
     "recommended": true
@@ -20521,7 +20521,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-386-5080",
-    "website": "https://oakparktherapists.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "https://oakparktherapists.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": 1.0,
     "reviews": 2,
     "recommended": false
@@ -20690,7 +20690,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-428-7890",
-    "website": "https://lifestance.com/provider/therapist/il/wheaton/nora-ochoa/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/provider/therapist/il/wheaton/nora-ochoa/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -20794,7 +20794,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-428-7890",
-    "website": "https://lifestance.com/provider/therapy-clinician/il/oak-park/lorena-bravo-molina/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapy-clinician/il/oak-park/lorena-bravo-molina/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -20911,7 +20911,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-613-9800",
-    "website": "https://www.suburbanbhs.com/%3Futm_source%3Dgmb_auth",
+    "website": "https://www.suburbanbhs.com/?utm_source=gmb_auth",
     "rating": 4.8,
     "reviews": 177,
     "recommended": true
@@ -21015,7 +21015,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/orland-park/alexandra-baxter/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/orland-park/alexandra-baxter/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 20,
     "recommended": true
@@ -21028,7 +21028,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-869-0451",
-    "website": "https://www.bestoptionbehavioral.com/%3Futm_source%3Dgmb_auth",
+    "website": "https://www.bestoptionbehavioral.com/?utm_source=gmb_auth",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -21093,7 +21093,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/orland-park/bayo-agbolade/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/orland-park/bayo-agbolade/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -21106,7 +21106,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-458-3513",
-    "website": "https://www.actionbehavior.com/location/illinois/orland-park%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/orland-park?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 27,
     "recommended": true
@@ -21132,7 +21132,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/therapist/il/orland-park/abby-miller/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/orland-park/abby-miller/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -21171,7 +21171,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/therapist/il/orland-park/lisa-raubolt/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/orland-park/lisa-raubolt/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 12,
     "recommended": true
@@ -21197,7 +21197,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/therapist/il/orland-park/anastasia-zubek/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/orland-park/anastasia-zubek/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -21223,7 +21223,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/therapist/il/orland-park/meghan-ruich/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/orland-park/meghan-ruich/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -21262,7 +21262,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-923-7878",
-    "website": "https://www.nm.org/doctors/1710914890/Adnan-Arif-MD%3Futm_source%3Dyext%26utm_medium%3Dother%2Bphysician%26utm_campaign%3Donline%2Blistings%26y_source%3D1_NjMzNjc4NjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.nm.org/doctors/1710914890/Adnan-Arif-MD?utm_source=yext&utm_medium=other+physician&utm_campaign=online+listings&y_source=1_NjMzNjc4NjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -21379,7 +21379,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/orland-park/tasheia-williams/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/orland-park/tasheia-williams/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 14,
     "recommended": true
@@ -21405,7 +21405,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-799-8384",
-    "website": "http://www.premierpsychiatry.net/%3Futm_source%3Dgmb_auth",
+    "website": "http://www.premierpsychiatry.net/?utm_source=gmb_auth",
     "rating": 4.7,
     "reviews": 64,
     "recommended": true
@@ -21431,7 +21431,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-787-8840",
-    "website": "https://stridecenters.com/locations/orland-park-il/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp%26utm_content%3Dorland-park",
+    "website": "https://stridecenters.com/locations/orland-park-il/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=orland-park",
     "rating": 4.7,
     "reviews": 7,
     "recommended": true
@@ -21444,7 +21444,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/provider/therapist/il/orland-park/david-giles/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/orland-park/david-giles/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.7,
     "reviews": 7,
     "recommended": true
@@ -21496,7 +21496,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-505-5205",
-    "website": "https://lifestance.com/location/orland-park-il-15303-s-94th-ave/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/orland-park-il-15303-s-94th-ave/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.3,
     "reviews": 114,
     "recommended": true
@@ -21574,7 +21574,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-205-3058",
-    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-orland-park%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://theplaceforchildrenwithautism.com/autism-center-locations/autism-center-for-children-orland-park?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.0,
     "reviews": 0,
     "recommended": true
@@ -21600,7 +21600,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-232-3302",
-    "website": "http://www.thethrivingyoupllc.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D10090359273766747752",
+    "website": "http://www.thethrivingyoupllc.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10090359273766747752",
     "rating": 4.0,
     "reviews": 4,
     "recommended": true
@@ -21860,7 +21860,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-607-0387",
-    "website": "https://hopemarkhealth.com/%3Fgmbutm_source%3Dgoogle",
+    "website": "https://hopemarkhealth.com/?gmbutm_source=google",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -22120,7 +22120,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-923-7878",
-    "website": "https://www.nm.org/doctors/1588761142/Mona-Lal-MD%3Futm_source%3Dyext%26utm_medium%3Dother%2Bphysician%26utm_campaign%3Donline%2Blistings%26y_source%3D1_NDkyODk2NDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.nm.org/doctors/1588761142/Mona-Lal-MD?utm_source=yext&utm_medium=other+physician&utm_campaign=online+listings&y_source=1_NDkyODk2NDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -22406,7 +22406,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-907-9227",
-    "website": "https://expressyourselftherapy.com/%3Futm_source%3Dgmb_auth",
+    "website": "https://expressyourselftherapy.com/?utm_source=gmb_auth",
     "rating": 5.0,
     "reviews": 0,
     "recommended": true
@@ -22471,7 +22471,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "855-462-0100",
-    "website": "https://www.elderwerks.org/%3Futm_source%3DLocal%26utm_medium%3DOrganic%26utm_campaign%3DGMB%26utm_id%3DGoogle",
+    "website": "https://www.elderwerks.org/?utm_source=Local&utm_medium=Organic&utm_campaign=GMB&utm_id=Google",
     "rating": 4.9,
     "reviews": 108,
     "recommended": true
@@ -23186,7 +23186,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-923-7878",
-    "website": "https://www.nm.org/locations/behavioral-health-palos-heights%3Futm_source%3Dyext%26utm_medium%3Dgmb%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_MjYyNzMwODgtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.nm.org/locations/behavioral-health-palos-heights?utm_source=yext&utm_medium=gmb+location&utm_campaign=online+listings&y_source=1_MjYyNzMwODgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 1.8,
     "reviews": 10,
     "recommended": false
@@ -23277,7 +23277,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/park-ridge/jacalyn-saracco/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/park-ridge/jacalyn-saracco/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 12,
     "recommended": true
@@ -23329,7 +23329,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/park-ridge/maryann-villalon/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/park-ridge/maryann-villalon/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -23355,7 +23355,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/therapist/il/park-ridge/nora-khani/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/park-ridge/nora-khani/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -23394,7 +23394,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-428-7890",
-    "website": "https://lifestance.com/provider/amanda-lukas-lcpc/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/amanda-lukas-lcpc/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -23407,7 +23407,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/therapist/il/park-ridge/natasha-mahmood/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/park-ridge/natasha-mahmood/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -23550,7 +23550,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/therapist/il/park-ridge/elizabeth-hutchinson/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/park-ridge/elizabeth-hutchinson/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.9,
     "reviews": 7,
     "recommended": true
@@ -23563,7 +23563,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-273-5770",
-    "website": "https://ptsolutions.com/find-a-clinic/il/park-ridge/park-ridge/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGMB-PT-Solutions-Park-Ridge%26utm_content%3Dlisting",
+    "website": "https://ptsolutions.com/find-a-clinic/il/park-ridge/park-ridge/?utm_source=google&utm_medium=organic&utm_campaign=GMB-PT-Solutions-Park-Ridge&utm_content=listing",
     "rating": 4.9,
     "reviews": 118,
     "recommended": true
@@ -23576,7 +23576,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/park-ridge/noel-tapia/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/park-ridge/noel-tapia/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 22,
     "recommended": true
@@ -23628,7 +23628,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "847-766-0952",
-    "website": "https://geodehealth.com/locations/park-ridge-il/%3Fy_source%3D1_MTAxNzc3NDY3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/park-ridge-il/?y_source=1_MTAxNzc3NDY3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.4,
     "reviews": 153,
     "recommended": true
@@ -23641,7 +23641,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/location/park-ridge-il-250-s-northwest-highway/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/park-ridge-il-250-s-northwest-highway/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.4,
     "reviews": 69,
     "recommended": true
@@ -23771,7 +23771,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/psychologist/il/park-ridge/karyn-cihak/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychologist/il/park-ridge/karyn-cihak/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 3.0,
     "reviews": 2,
     "recommended": true
@@ -23888,7 +23888,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "888-428-7890",
-    "website": "https://lifestance.com/provider/therapist/il/chicago/grace-omalley/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/provider/therapist/il/chicago/grace-omalley/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -23901,7 +23901,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-985-5824",
-    "website": "https://lifestance.com/provider/therapist/il/park-ridge/daniel-brandys/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/park-ridge/daniel-brandys/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -23914,7 +23914,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "855-770-5741",
-    "website": "https://www.mindeasetherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D10377341285624987148",
+    "website": "https://www.mindeasetherapy.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10377341285624987148",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -24044,7 +24044,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-834-1780",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/peoria/tara-livingston/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/peoria/tara-livingston/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 26,
     "recommended": true
@@ -24057,7 +24057,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-834-1780",
-    "website": "https://lifestance.com/location/peoria-il-5901-n-prospect-rd/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/peoria-il-5901-n-prospect-rd/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.6,
     "reviews": 153,
     "recommended": true
@@ -24122,7 +24122,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-308-2030",
-    "website": "https://www.osfhealthcare.org/mental-health/services/trauma/%3Futm_campaign%3Dgobu%26utm_source%3Dgoogle%26utm_medium%3Dreferral%26utm_content%3Dloc",
+    "website": "https://www.osfhealthcare.org/mental-health/services/trauma/?utm_campaign=gobu&utm_source=google&utm_medium=referral&utm_content=loc",
     "rating": 3.7,
     "reviews": 3,
     "recommended": true
@@ -24226,7 +24226,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-683-7373",
-    "website": "https://www.osfhealthcare.org/locations/osf-medical-group---psychiatry-%26-psychology-120477%3Futm_campaign%3Dgobu-123456%26utm_source%3Dgoogle%26utm_medium%3Dreferral%26utm_content%3Dloc%26linksource%3Dgbl-google-loc",
+    "website": "https://www.osfhealthcare.org/locations/osf-medical-group---psychiatry-%26-psychology-120477?utm_campaign=gobu-123456&utm_source=google&utm_medium=referral&utm_content=loc&linksource=gbl-google-loc",
     "rating": 2.8,
     "reviews": 17,
     "recommended": false
@@ -24252,7 +24252,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "309-624-9522",
-    "website": "https://www.osfhealthcare.org/locations/osf-saint-francis---behavioral-%26-mental-health-120440%3Futm_campaign%3Dgobu-123456%26utm_source%3Dgoogle%26utm_medium%3Dreferral%26utm_content%3Dloc%26linksource%3Dgbl-google-loc",
+    "website": "https://www.osfhealthcare.org/locations/osf-saint-francis---behavioral-%26-mental-health-120440?utm_campaign=gobu-123456&utm_source=google&utm_medium=referral&utm_content=loc&linksource=gbl-google-loc",
     "rating": 2.6,
     "reviews": 25,
     "recommended": false
@@ -24356,7 +24356,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-557-6057",
-    "website": "https://woundedhealerscounselingservice.com/%3Futm_campaign%3Dgmb",
+    "website": "https://woundedhealerscounselingservice.com/?utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -24434,7 +24434,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/plainfield/erin-williams/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/plainfield/erin-williams/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 18,
     "recommended": true
@@ -24460,7 +24460,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/therapist/il/plainfield/shelby-phillips/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/plainfield/shelby-phillips/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 10,
     "recommended": true
@@ -24512,7 +24512,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/therapist/il/plainfield/blake-mathews/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/plainfield/blake-mathews/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 11,
     "recommended": true
@@ -24551,7 +24551,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/therapist/il/plainfield/erin-staley/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/plainfield/erin-staley/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -24590,7 +24590,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/therapist/il/plainfield/elizabeth-fannin/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/plainfield/elizabeth-fannin/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -24603,7 +24603,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/psychiatry-clinician/il/plainfield/connie-shyu/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/psychiatry-clinician/il/plainfield/connie-shyu/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.9,
     "reviews": 44,
     "recommended": true
@@ -24616,7 +24616,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/therapist/il/plainfield/jennifer-kepler/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/plainfield/jennifer-kepler/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.9,
     "reviews": 8,
     "recommended": true
@@ -24629,7 +24629,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/plainfield/joycelyn-almacen/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/plainfield/joycelyn-almacen/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.8,
     "reviews": 17,
     "recommended": true
@@ -24642,7 +24642,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/location/plainfield-il-15025-s-des-plaines-street/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/plainfield-il-15025-s-des-plaines-street/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.7,
     "reviews": 99,
     "recommended": true
@@ -24655,7 +24655,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/plainfield/amanda-wessel/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/plainfield/amanda-wessel/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.7,
     "reviews": 32,
     "recommended": true
@@ -24681,7 +24681,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/therapist/il/plainfield/donna-swanson/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/plainfield/donna-swanson/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.7,
     "reviews": 15,
     "recommended": true
@@ -24993,7 +24993,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-955-7808",
-    "website": "https://lifestance.com/provider/therapist/il/plainfield/adanna-ozuzu/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/therapist/il/plainfield/adanna-ozuzu/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -25032,7 +25032,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-202-9649",
-    "website": "https://www.psychologytoday.com/us/therapists/lynn-buck-plainfield-il/706117%3Fpreview%3D1%26return_to%3Dhttps://member.psychologytoday.com/us/home%26_ga%3D2.157193019.1410603110.1704219857-538432671.1693924655%26_gl%3D1*1mkrq6g*_ga*NTM4NDMyNjcxLjE2OTM5MjQ2NTU.*_ga_5EMHF6S1M6*MTcwNDIxOTg1Ny40OC4xLjE3MDQyMTk4NjIuNTUuMC4w",
+    "website": "https://www.psychologytoday.com/us/therapists/lynn-buck-plainfield-il/706117?preview=1&return_to=https://member.psychologytoday.com/us/home&_ga=2.157193019.1410603110.1704219857-538432671.1693924655&_gl=1*1mkrq6g*_ga*NTM4NDMyNjcxLjE2OTM5MjQ2NTU.*_ga_5EMHF6S1M6*MTcwNDIxOTg1Ny40OC4xLjE3MDQyMTk4NjIuNTUuMC4w",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -25110,7 +25110,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-708-0560",
-    "website": "https://headway.co/providers/christina-cosentino%3Futm_source%3Dpem%26utm_medium%3Ddirect_link%26utm_campaign%3D114100",
+    "website": "https://headway.co/providers/christina-cosentino?utm_source=pem&utm_medium=direct_link&utm_campaign=114100",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -25318,7 +25318,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-224-4453",
-    "website": "https://www.blessinghealth.org/treatments/outpatient-behavioral-health-services%3Futm_source%3Dextnet%26utm_medium%3Dyext",
+    "website": "https://www.blessinghealth.org/treatments/outpatient-behavioral-health-services?utm_source=extnet&utm_medium=yext",
     "rating": 3.0,
     "reviews": 19,
     "recommended": true
@@ -25695,7 +25695,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-401-4999",
-    "website": "https://clinics.caravelautism.com/caravel-autism-health-c1fed6dc9ae2%3Fy_source%3D1_MzE0NzExMzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://clinics.caravelautism.com/caravel-autism-health-c1fed6dc9ae2?y_source=1_MzE0NzExMzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 5.0,
     "reviews": 10,
     "recommended": true
@@ -25721,7 +25721,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-516-5406",
-    "website": "https://clinics.caravelautism.com/caravel-autism-health-31a7abba78c1%3Fy_source%3D1_NDkyMjI3NzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://clinics.caravelautism.com/caravel-autism-health-31a7abba78c1?y_source=1_NDkyMjI3NzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -25773,7 +25773,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-200-8277",
-    "website": "https://geodehealth.com/locations/rockford-il/%3Fy_source%3D1_MTAxNzc3NDY3Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/rockford-il/?y_source=1_MTAxNzc3NDY3Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.5,
     "reviews": 512,
     "recommended": true
@@ -26072,7 +26072,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-368-0060",
-    "website": "https://www.kpcounseling.com/%3Futm_source%3Dyext%26utm_medium%3Dyext-g",
+    "website": "https://www.kpcounseling.com/?utm_source=yext&utm_medium=yext-g",
     "rating": 2.8,
     "reviews": 30,
     "recommended": false
@@ -26124,7 +26124,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-368-0060",
-    "website": "https://www.kpcounseling.com/%3Futm_source%3Dyext%26utm_medium%3Dyext-g",
+    "website": "https://www.kpcounseling.com/?utm_source=yext&utm_medium=yext-g",
     "rating": 2.6,
     "reviews": 5,
     "recommended": false
@@ -26137,7 +26137,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "877-692-8686",
-    "website": "https://www.auntmarthas.org/location/rockford-community-health-center/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp-listing%26utm_content%3Drockford-chc",
+    "website": "https://www.auntmarthas.org/location/rockford-community-health-center/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=rockford-chc",
     "rating": 2.1,
     "reviews": 0,
     "recommended": false
@@ -26423,7 +26423,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "312-971-2889",
-    "website": "https://www.actionbehavior.com/location/illinois/romeoville-windham-pkwy%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/romeoville-windham-pkwy?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -26527,7 +26527,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-262-9975",
-    "website": "https://www.thevillagecu.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D6211322195815918816",
+    "website": "https://www.thevillagecu.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6211322195815918816",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -26748,7 +26748,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-347-9549",
-    "website": "http://www.psychologicalcounselingcenter.com/psychology-schaumburg-il/%3Futm_source%3DGoogleMaps%26utm_medium%3DGoogleMaps%26utm_campaign%3DSchaumburg",
+    "website": "http://www.psychologicalcounselingcenter.com/psychology-schaumburg-il/?utm_source=GoogleMaps&utm_medium=GoogleMaps&utm_campaign=Schaumburg",
     "rating": 4.6,
     "reviews": 10,
     "recommended": true
@@ -26787,7 +26787,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-473-8129",
-    "website": "https://lifestance.com/location/schaumburg-il-1699-e-woodfield-rd/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/schaumburg-il-1699-e-woodfield-rd/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.2,
     "reviews": 17,
     "recommended": true
@@ -26865,7 +26865,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "866-389-2727",
-    "website": "https://www.cvs.com/minuteclinic/clinic-locator/il/schaumburg/7143.html%3FWT.mc_id%3DLS_mc_google_carenav_7143",
+    "website": "https://www.cvs.com/minuteclinic/clinic-locator/il/schaumburg/7143.html?WT.mc_id=LS_mc_google_carenav_7143",
     "rating": 3.4,
     "reviews": 41,
     "recommended": true
@@ -27034,7 +27034,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-970-1022",
-    "website": "https://skywaybehavioralhealth.com/%3Futm_source%3D2060%2Bdigital%26utm_medium%3Dgbp%26utm_campaign%3DGBP",
+    "website": "https://skywaybehavioralhealth.com/?utm_source=2060+digital&utm_medium=gbp&utm_campaign=GBP",
     "rating": 4.2,
     "reviews": 18,
     "recommended": true
@@ -27450,7 +27450,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-523-4534",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/springfield/chandra-pierson-rye/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/springfield/chandra-pierson-rye/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 5.0,
     "reviews": 25,
     "recommended": true
@@ -27489,7 +27489,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-523-4534",
-    "website": "https://lifestance.com/location/springfield-il-3008-happy-landing-drive/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/springfield-il-3008-happy-landing-drive/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.7,
     "reviews": 130,
     "recommended": true
@@ -27502,7 +27502,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-523-4534",
-    "website": "https://lifestance.com/provider/nurse-practitioner/il/springfield/geneva-sanders/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dproviders",
+    "website": "https://lifestance.com/provider/nurse-practitioner/il/springfield/geneva-sanders/?utm_source=gmb&utm_medium=organic&utm_campaign=providers",
     "rating": 4.6,
     "reviews": 11,
     "recommended": true
@@ -27515,7 +27515,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-405-4540",
-    "website": "https://www.gatewayfoundation.org/locations/springfield/%3Futm_source%3Dorganic%26utm_medium%3Dgoogle-bp%26utm_campaign%3Dlistings%26utm_content%3Dspringfield",
+    "website": "https://www.gatewayfoundation.org/locations/springfield/?utm_source=organic&utm_medium=google-bp&utm_campaign=listings&utm_content=springfield",
     "rating": 4.5,
     "reviews": 218,
     "recommended": true
@@ -27528,7 +27528,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-788-4065",
-    "website": "https://www.memorial.health/%3Fy_source%3D1_MTU0MzQ4ODMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.memorial.health/?y_source=1_MTU0MzQ4ODMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 4.2,
     "reviews": 5,
     "recommended": true
@@ -27645,7 +27645,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-525-1064",
-    "website": "https://www.memorial.health/%3Fy_source%3D1_MTU0MzQ4ODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.memorial.health/?y_source=1_MTU0MzQ4ODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 2.3,
     "reviews": 44,
     "recommended": false
@@ -27762,7 +27762,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-933-4000",
-    "website": "https://www.nm.org/locations/behavioral-health-services-st-charles%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_ODIyOTgwMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/behavioral-health-services-st-charles?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_ODIyOTgwMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 3.7,
     "reviews": 6,
     "recommended": true
@@ -27892,7 +27892,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "773-559-5657",
-    "website": "https://www.resiliencewarriorsllc.org/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D6425148234821950567",
+    "website": "https://www.resiliencewarriorsllc.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6425148234821950567",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -28126,7 +28126,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "779-201-6440",
-    "website": "https://www.oakheartcenter.com/sycamore-il---oakheart-center-for-counseling.html%3Fy_source%3D1_MTUwMjE2MjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.oakheartcenter.com/sycamore-il---oakheart-center-for-counseling.html?y_source=1_MTUwMjE2MjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 4.9,
     "reviews": 50,
     "recommended": true
@@ -28191,7 +28191,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "815-748-8334",
-    "website": "https://www.nm.org/locations/sycamore-behavioral-health%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_ODIyOTgwMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/sycamore-behavioral-health?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_ODIyOTgwMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 2.9,
     "reviews": 11,
     "recommended": false
@@ -28321,7 +28321,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-357-9919",
-    "website": "https://www.actionbehavior.com/location/illinois/tinley-park%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.actionbehavior.com/location/illinois/tinley-park?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -28490,7 +28490,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "224-205-7863",
-    "website": "https://brightsideclinic.com/locations/tinley-park-addiction-treatment-center/%3Futm_source%3Dgmb%26utm_medium%3Dyext",
+    "website": "https://brightsideclinic.com/locations/tinley-park-addiction-treatment-center/?utm_source=gmb&utm_medium=yext",
     "rating": 4.5,
     "reviews": 0,
     "recommended": true
@@ -28516,7 +28516,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-580-0440",
-    "website": "https://byyoursideac.com/autism-therapy-locations/tinley-park-illinois/%3Futm_source%3DGBP%26utm_medium%3Dorganic",
+    "website": "https://byyoursideac.com/autism-therapy-locations/tinley-park-illinois/?utm_source=GBP&utm_medium=organic",
     "rating": 4.0,
     "reviews": 17,
     "recommended": true
@@ -28737,7 +28737,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-300-3400",
-    "website": "https://riseupforautism.com/locations/tinley-il/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dtinley_park",
+    "website": "https://riseupforautism.com/locations/tinley-il/?utm_source=google&utm_medium=organic&utm_campaign=tinley_park",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -28906,7 +28906,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-337-4310",
-    "website": "https://www.osfhealthcare.org/locations/osf-behavioral-mental-health-urbana-120183%3Futm_campaign%3Dgobu-123456%26utm_source%3Dgoogle%26utm_medium%3Dreferral%26utm_content%3Dloc%26linksource%3Dgbl-google-loc",
+    "website": "https://www.osfhealthcare.org/locations/osf-behavioral-mental-health-urbana-120183?utm_campaign=gobu-123456&utm_source=google&utm_medium=referral&utm_content=loc&linksource=gbl-google-loc",
     "rating": 2.4,
     "reviews": 13,
     "recommended": false
@@ -28932,7 +28932,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-337-4310",
-    "website": "https://www.osfhealthcare.org/providers/maghav-sharma-4859203%3Futm_campaign%3Dgobu-123456%26utm_source%3Dgoogle%26utm_medium%3Dreferral%26utm_content%3Dpro%26linksource%3Dgbl-google-pro",
+    "website": "https://www.osfhealthcare.org/providers/maghav-sharma-4859203?utm_campaign=gobu-123456&utm_source=google&utm_medium=referral&utm_content=pro&linksource=gbl-google-pro",
     "rating": 1.0,
     "reviews": 1,
     "recommended": false
@@ -28997,7 +28997,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "217-337-2430",
-    "website": "https://healthcare.ascension.org/find-care/provider/1477572733-1/feiteng-su%3Futm_campaign%3Dgmb-website%26utm_medium%3Dorganic%26utm_source%3Dgoogle",
+    "website": "https://healthcare.ascension.org/find-care/provider/1477572733-1/feiteng-su?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -29660,7 +29660,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "315-216-0105",
-    "website": "https://growtherapy.com/provider/m5rgbs08028z/x%3Futm_source%3Dgmb%26utm_medium%3Dbooking-link",
+    "website": "https://growtherapy.com/provider/m5rgbs08028z/x?utm_source=gmb&utm_medium=booking-link",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -29751,7 +29751,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "708-786-2046",
-    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/westchester-ascension-illinois-behavioral-health-westchester%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic-search%26utm_content%3Dlocation-listing%26utm_source%3Dlocal",
+    "website": "https://healthcare.ascension.org/locations/illinois/ilchi/westchester-ascension-illinois-behavioral-health-westchester?utm_campaign=gmb&utm_medium=organic-search&utm_content=location-listing&utm_source=local",
     "rating": 4.8,
     "reviews": 4,
     "recommended": true
@@ -29764,7 +29764,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-755-5265",
-    "website": "https://geodehealth.com/locations/westmont-il/%3Fy_source%3D1_MTAxNzc3NDY2Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://geodehealth.com/locations/westmont-il/?y_source=1_MTAxNzc3NDY2Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 4.8,
     "reviews": 178,
     "recommended": true
@@ -29777,7 +29777,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "866-542-2865",
-    "website": "https://stellamentalhealth.com/locations/illinois-westmont/%3Futm_campaign%3Dgmb%26utm_medium%3Dorganic%26utm_source%3Dgmb",
+    "website": "https://stellamentalhealth.com/locations/illinois-westmont/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb",
     "rating": 4.4,
     "reviews": 98,
     "recommended": true
@@ -29816,7 +29816,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-496-5368",
-    "website": "https://www.midwestwellnessca.com/locations/westmont.html%3Futm_source%3DGBP%26utm_medium%3Dorganic%26utm_campaign%3DGoogleBusinessProfile%26utm_content%3Dwestmont",
+    "website": "https://www.midwestwellnessca.com/locations/westmont.html?utm_source=GBP&utm_medium=organic&utm_campaign=GoogleBusinessProfile&utm_content=westmont",
     "rating": 3.0,
     "reviews": 6,
     "recommended": true
@@ -29881,7 +29881,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "nan",
-    "website": "https://www.lrclinical.com/%3Futm_source%3Dgoogle%26utm_medium%3Dgmb%26utm_campaign%3Dgmb",
+    "website": "https://www.lrclinical.com/?utm_source=google&utm_medium=gmb&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 27,
     "recommended": true
@@ -29998,7 +29998,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-884-9073",
-    "website": "https://lifestance.com/location/wheaton-il-55-e-loop-road/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocations",
+    "website": "https://lifestance.com/location/wheaton-il-55-e-loop-road/?utm_source=gmb&utm_medium=organic&utm_campaign=locations",
     "rating": 4.6,
     "reviews": 82,
     "recommended": true
@@ -30037,7 +30037,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-933-4000",
-    "website": "https://www.nm.org/locations/behavioral-health-services-wheaton/%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_MTk4OTQwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.nm.org/locations/behavioral-health-services-wheaton/?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_MTk4OTQwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "rating": 3.4,
     "reviews": 5,
     "recommended": true
@@ -30102,7 +30102,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "nan",
-    "website": "https://wheatonbehavioralhealth.com/%3Futm_campaign%3Dgmb",
+    "website": "https://wheatonbehavioralhealth.com/?utm_campaign=gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -30297,7 +30297,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "630-933-4000",
-    "website": "https://www.nm.org/locations/winfield-behavioral-health%3Futm_source%3Dyext%26utm_medium%3Dother%2Blocation%26utm_campaign%3Donline%2Blistings%26y_source%3D1_ODIyOTgwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+    "website": "https://www.nm.org/locations/winfield-behavioral-health?utm_source=yext&utm_medium=other+location&utm_campaign=online+listings&y_source=1_ODIyOTgwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
     "rating": 3.0,
     "reviews": 47,
     "recommended": true
@@ -30310,7 +30310,7 @@
     "state": "Illinois",
     "state_code": "IL",
     "phone": "331-276-6492",
-    "website": "https://thriveworks.com/woodridge-counseling/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/woodridge-counseling/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.8,
     "reviews": 71,
     "recommended": true

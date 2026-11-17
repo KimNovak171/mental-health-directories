@@ -8,7 +8,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-948-3878",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1015555%26serviceAtFacilityID%3D1038569",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1015555&serviceAtFacilityID=1038569",
     "rating": 2.7,
     "reviews": 21,
     "recommended": false
@@ -64,7 +64,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-737-2006",
-    "website": "https://www.beaumontwellnesscentre.com/%3Futm_source%3DGBP%26utm_medium%3Dorganic",
+    "website": "https://www.beaumontwellnesscentre.com/?utm_source=GBP&utm_medium=organic",
     "rating": 4.9,
     "reviews": 0,
     "recommended": true
@@ -120,7 +120,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-793-6655",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D3746%26serviceAtFacilityID%3D1120197",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=3746&serviceAtFacilityID=1120197",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -218,7 +218,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-367-5000",
-    "website": "https://www.albertahealthservices.ca/findhealth/service.aspx%3Fid%3D1060378",
+    "website": "https://www.albertahealthservices.ca/findhealth/service.aspx?id=1060378",
     "rating": 3.5,
     "reviews": 43,
     "recommended": true
@@ -246,7 +246,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-943-4596",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1009052%26serviceAtFacilityID%3D1114615",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1009052&serviceAtFacilityID=1114615",
     "rating": 2.5,
     "reviews": 2,
     "recommended": false
@@ -260,7 +260,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-944-2288",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1006580%26serviceAtFacilityID%3D1104802",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1006580&serviceAtFacilityID=1104802",
     "rating": 2.0,
     "reviews": 21,
     "recommended": false
@@ -274,7 +274,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-679-1241",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D7648%26serviceAtFacilityID%3D1089202%23contentStart",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=7648&serviceAtFacilityID=1089202#contentStart",
     "rating": 3.6,
     "reviews": 14,
     "recommended": true
@@ -386,7 +386,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-365-5401",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1015555%26serviceAtFacilityID%3D1103928",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1015555&serviceAtFacilityID=1103928",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -456,7 +456,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-851-6100",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D427%26serviceAtFacilityID%3D1053865",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=427&serviceAtFacilityID=1053865",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -638,7 +638,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-542-3140",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1082429%26serviceAtFacilityID%3D1129562",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1082429&serviceAtFacilityID=1129562",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -960,7 +960,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "587-355-2014",
-    "website": "http://tamarackpsychology.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D7198999850958369535",
+    "website": "http://tamarackpsychology.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7198999850958369535",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -1044,7 +1044,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "587-741-2364",
-    "website": "https://vccounselling.com/edmonton-counselling-therapy/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGMB_Edmonton%2BClinic",
+    "website": "https://vccounselling.com/edmonton-counselling-therapy/?utm_source=google&utm_medium=organic&utm_campaign=GMB_Edmonton+Clinic",
     "rating": 5.0,
     "reviews": 8,
     "recommended": true
@@ -1128,7 +1128,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "587-860-1880",
-    "website": "https://www.neuromedclinic.com/%3Futm_source%3Dgoogle%26utm_medium%3Dgmb%26utm_campaign%3Dgoogle_business_profile",
+    "website": "https://www.neuromedclinic.com/?utm_source=google&utm_medium=gmb&utm_campaign=google_business_profile",
     "rating": 4.8,
     "reviews": 162,
     "recommended": true
@@ -1296,7 +1296,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "587-635-2428",
-    "website": "https://www.insightpsychological.ca/contact/edmonton-central/%3Futm_source%3Dgoogle%26utm_medium%3Dgmb%26utm_campaign%3Dwebsite_link-centraledm",
+    "website": "https://www.insightpsychological.ca/contact/edmonton-central/?utm_source=google&utm_medium=gmb&utm_campaign=website_link-centraledm",
     "rating": 4.6,
     "reviews": 11,
     "recommended": true
@@ -1366,7 +1366,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "587-400-7063",
-    "website": "https://www.sunshinecoasthealthcentre.ca/edmonton/%3Futm_source%3DGoogle%26utm_medium%3DSearch%26utm_campaign%3Dlocal_edmonton%26utm_id%3DSCHC",
+    "website": "https://www.sunshinecoasthealthcentre.ca/edmonton/?utm_source=Google&utm_medium=Search&utm_campaign=local_edmonton&utm_id=SCHC",
     "rating": 4.5,
     "reviews": 24,
     "recommended": true
@@ -1380,7 +1380,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-342-5900",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1071286%26serviceAtFacilityID%3D1132502",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1071286&serviceAtFacilityID=1132502",
     "rating": 4.4,
     "reviews": 34,
     "recommended": true
@@ -1464,7 +1464,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-217-4665",
-    "website": "https://www.summitcs.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dgbp%26utm_campaign%3Dwebsite_link_edmonton",
+    "website": "https://www.summitcs.ca/?utm_source=google&utm_medium=gbp&utm_campaign=website_link_edmonton",
     "rating": 4.3,
     "reviews": 17,
     "recommended": true
@@ -1506,7 +1506,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-427-2736",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1004756",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1004756",
     "rating": 4.1,
     "reviews": 19,
     "recommended": true
@@ -1548,7 +1548,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-342-6400",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1084151%26serviceAtFacilityID%3D1133301",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1084151&serviceAtFacilityID=1133301",
     "rating": 4.0,
     "reviews": 20,
     "recommended": true
@@ -1562,7 +1562,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-735-4512",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D4838%26serviceAtFacilityID%3D1045311",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=4838&serviceAtFacilityID=1045311",
     "rating": 4.0,
     "reviews": 34,
     "recommended": true
@@ -1604,7 +1604,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-422-9069",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1060523%26serviceAtFacilityID%3D1093944",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1060523&serviceAtFacilityID=1093944",
     "rating": 3.9,
     "reviews": 50,
     "recommended": true
@@ -1646,7 +1646,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-342-5555",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D6337",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=6337",
     "rating": 3.8,
     "reviews": 88,
     "recommended": true
@@ -1744,7 +1744,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-427-2736",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1004756",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1004756",
     "rating": 3.6,
     "reviews": 8,
     "recommended": true
@@ -1772,7 +1772,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1006508",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1006508",
     "rating": 3.4,
     "reviews": 32,
     "recommended": true
@@ -1856,7 +1856,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-455-2273",
-    "website": "https://www.telus.com/en/health/care-centres/locations/edmonton%3Futm_source%3Dgoogle%26utm_medium%3Dlocal%26utm_campaign%3Dgoogle-local",
+    "website": "https://www.telus.com/en/health/care-centres/locations/edmonton?utm_source=google&utm_medium=local&utm_campaign=google-local",
     "rating": 3.0,
     "reviews": 17,
     "recommended": true
@@ -1940,7 +1940,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-424-2424",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1077952%26serviceAtFacilityID%3D1122569",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1077952&serviceAtFacilityID=1122569",
     "rating": 2.4,
     "reviews": 141,
     "recommended": false
@@ -2052,7 +2052,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-735-2792",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1083924%26serviceAtFacilityID%3D1132891",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1083924&serviceAtFacilityID=1132891",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -2850,7 +2850,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-342-2388",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1071423%26serviceAtFacilityID%3D1134164",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1071423&serviceAtFacilityID=1134164",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -3214,7 +3214,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-532-9381",
-    "website": "https://www.cfsgp.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D7874678888962283900",
+    "website": "https://www.cfsgp.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7874678888962283900",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -3424,7 +3424,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-512-8462",
-    "website": "https://interactivecounselling.ca/grande-prairie-counselling-services/%3Futm_source%3Dgoogle-my-business%26utm_medium%3Dorganic%26utm_campaign%3DGP%2520GMB",
+    "website": "https://interactivecounselling.ca/grande-prairie-counselling-services/?utm_source=google-my-business&utm_medium=organic&utm_campaign=GP%20GMB",
     "rating": 4.7,
     "reviews": 35,
     "recommended": true
@@ -3452,7 +3452,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-532-5520",
-    "website": "http://www.northwestwellnesscentre.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "http://www.northwestwellnesscentre.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": 4.5,
     "reviews": 119,
     "recommended": true
@@ -3522,7 +3522,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-538-5210",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1004308",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1004308",
     "rating": 3.7,
     "reviews": 23,
     "recommended": true
@@ -3578,7 +3578,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-833-4323",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1026203%26serviceAtFacilityID%3D1047873",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1026203&serviceAtFacilityID=1047873",
     "rating": 2.6,
     "reviews": 14,
     "recommended": false
@@ -3592,7 +3592,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-538-5162",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1026203%26serviceAtFacilityID%3D1130308",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1026203&serviceAtFacilityID=1130308",
     "rating": 2.5,
     "reviews": 11,
     "recommended": false
@@ -3662,7 +3662,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://www.indigenouscounsellingcentre.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D12709466632442412587",
+    "website": "https://www.indigenouscounsellingcentre.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12709466632442412587",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -3746,7 +3746,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-876-8955",
-    "website": "https://cscounsellingservice.janeapp.com/%3Ffbclid%3DIwAR38bb7YKdQECz-Hn5ycjGv1j6Poq-wFVd3rE4HLLhpObUyMoUwMySZcvI0%23staff_member/1",
+    "website": "https://cscounsellingservice.janeapp.com/?fbclid=IwAR38bb7YKdQECz-Hn5ycjGv1j6Poq-wFVd3rE4HLLhpObUyMoUwMySZcvI0#staff_member/1",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -4264,7 +4264,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-986-2660",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1058460",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1058460",
     "rating": 3.3,
     "reviews": 23,
     "recommended": true
@@ -4292,7 +4292,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D4811%26serviceAtFacilityID%3D4235",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=4811&serviceAtFacilityID=4235",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -4348,7 +4348,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://linktr.ee/sharp.society%3Futm_source%3Dlinktree_profile_share%26ltsid%3Dc768d959-1ebe-4375-95f5-6629cba6af24",
+    "website": "https://linktr.ee/sharp.society?utm_source=linktree_profile_share&ltsid=c768d959-1ebe-4375-95f5-6629cba6af24",
     "rating": 5.0,
     "reviews": 13,
     "recommended": true
@@ -4824,7 +4824,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-380-2272",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3FserviceAtFacilityId%3D1120856",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?serviceAtFacilityId=1120856",
     "rating": 2.0,
     "reviews": 21,
     "recommended": false
@@ -5496,7 +5496,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-502-8617",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D3934%26serviceAtFacilityID%3D1128382",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=3934&serviceAtFacilityID=1128382",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -5580,7 +5580,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-529-3500",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1040102%26serviceAtFacilityID%3D1063952",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1040102&serviceAtFacilityID=1063952",
     "rating": 4.1,
     "reviews": 10,
     "recommended": true
@@ -5622,7 +5622,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-529-9021",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3FserviceAtFacilityId%3D1110507",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?serviceAtFacilityId=1110507",
     "rating": 3.9,
     "reviews": 12,
     "recommended": true
@@ -5650,7 +5650,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-995-2712",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1064160%26serviceAtFacilityID%3D1099650",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1064160&serviceAtFacilityID=1099650",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -5664,7 +5664,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-967-9117",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D5376%26serviceAtFacilityID%3D1007048",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=5376&serviceAtFacilityID=1007048",
     "rating": 1.7,
     "reviews": 3,
     "recommended": false
@@ -5678,7 +5678,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-624-6151",
-    "website": "https://informalberta.ca/public/location/locProfileStyled.do%3FlocationQueryId%3D1002070",
+    "website": "https://informalberta.ca/public/location/locProfileStyled.do?locationQueryId=1002070",
     "rating": 4.3,
     "reviews": 3,
     "recommended": true
@@ -5692,7 +5692,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-627-1121",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D3746%26serviceAtFacilityID%3D1120309",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=3746&serviceAtFacilityID=1120309",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -5720,7 +5720,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-783-7600",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1000242",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1000242",
     "rating": 3.0,
     "reviews": 71,
     "recommended": true
@@ -6098,7 +6098,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-467-4609",
-    "website": "https://corewellnessandchiropractic.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dgbp%26utm_campaign%3Dprofile",
+    "website": "https://corewellnessandchiropractic.ca/?utm_source=google&utm_medium=gbp&utm_campaign=profile",
     "rating": 4.9,
     "reviews": 631,
     "recommended": true
@@ -6112,7 +6112,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-467-8020",
-    "website": "https://www.getrefreshednow.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-listing",
+    "website": "https://www.getrefreshednow.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
     "rating": 4.9,
     "reviews": 466,
     "recommended": true
@@ -6294,7 +6294,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-904-4419",
-    "website": "https://www.psychologyinthepark.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dgbp%26utm_campaign%3Dwebsite_link",
+    "website": "https://www.psychologyinthepark.ca/?utm_source=google&utm_medium=gbp&utm_campaign=website_link",
     "rating": 4.6,
     "reviews": 10,
     "recommended": true
@@ -6336,7 +6336,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-449-1196",
-    "website": "https://sojo.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dgbp%26utm_campaign%3Dwebsite_link",
+    "website": "https://sojo.ca/?utm_source=google&utm_medium=gbp&utm_campaign=website_link",
     "rating": 4.5,
     "reviews": 48,
     "recommended": true
@@ -6434,7 +6434,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "587-673-0800",
-    "website": "https://www.insightpsychological.ca/contact/sherwood-park/%3Futm_source%3Dgoogle%26utm_medium%3Dgmb%26utm_campaign%3Dwebsite_link-sherwoodpark",
+    "website": "https://www.insightpsychological.ca/contact/sherwood-park/?utm_source=google&utm_medium=gmb&utm_campaign=website_link-sherwoodpark",
     "rating": 4.0,
     "reviews": 4,
     "recommended": true
@@ -6644,7 +6644,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "587-340-3418",
-    "website": "https://www.slatecounselling.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D12322723568042066653",
+    "website": "https://www.slatecounselling.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12322723568042066653",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -7050,7 +7050,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-964-7927",
-    "website": "https://www.viewfindercounselling.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D4734441061267888850",
+    "website": "https://www.viewfindercounselling.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4734441061267888850",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -7064,7 +7064,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-849-7127",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1034001",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1034001",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -7134,7 +7134,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-342-1344",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D4811%26serviceAtFacilityID%3D1040455",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=4811&serviceAtFacilityID=1040455",
     "rating": 2.5,
     "reviews": 28,
     "recommended": false
@@ -7400,7 +7400,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "403-361-7277",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1004516",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1004516",
     "rating": 2.9,
     "reviews": 9,
     "recommended": false
@@ -7596,7 +7596,7 @@
     "province_code": "AB",
     "country": "Canada",
     "phone": "780-361-1245",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1082429%26serviceAtFacilityID%3D1129587",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1082429&serviceAtFacilityID=1129587",
     "rating": 4.0,
     "reviews": 4,
     "recommended": true

@@ -134,7 +134,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-427-2007",
-    "website": "https://ccbt.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "https://ccbt.ca/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -330,7 +330,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "289-660-0530",
-    "website": "https://ucmas.ca/location-detail/mental-math-ajax/%3Futm_source%3DGBP%26utm_medium%3DGBP-UCMASAjax",
+    "website": "https://ucmas.ca/location-detail/mental-math-ajax/?utm_source=GBP&utm_medium=GBP-UCMASAjax",
     "rating": 4.8,
     "reviews": 0,
     "recommended": true
@@ -358,7 +358,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-239-0262",
-    "website": "https://www.cogirseniorliving.ca/retirement-home-ajax-ontario/westney-gardens%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_content%3Dgmb-website",
+    "website": "https://www.cogirseniorliving.ca/retirement-home-ajax-ontario/westney-gardens?utm_source=gmb&utm_medium=organic&utm_content=gmb-website",
     "rating": 4.8,
     "reviews": 48,
     "recommended": true
@@ -834,7 +834,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D491%26name%3DDanSileshi",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=491&name=DanSileshi",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -904,7 +904,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-841-3977",
-    "website": "http://www.cmha-yr.on.ca/%3Futm_source%3Dgmblisting%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "http://www.cmha-yr.on.ca/?utm_source=gmblisting&utm_medium=organic&utm_campaign=gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -1240,7 +1240,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-241-3391",
-    "website": "https://www.freedomaddiction.ca/%3Futm_source%3DGMBAurora%26utm_medium%3Dorganic",
+    "website": "https://www.freedomaddiction.ca/?utm_source=GMBAurora&utm_medium=organic",
     "rating": 3.9,
     "reviews": 45,
     "recommended": true
@@ -1310,7 +1310,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-841-3977",
-    "website": "https://cmha-yr.on.ca/locations/aurora/%3Futm_source%3Dgmblisting%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://cmha-yr.on.ca/locations/aurora/?utm_source=gmblisting&utm_medium=organic&utm_campaign=gmb",
     "rating": 2.9,
     "reviews": 14,
     "recommended": false
@@ -1492,7 +1492,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D4",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=4",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -1562,7 +1562,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D508%26name%3DSamanthaMcGrath",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=508&name=SamanthaMcGrath",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -2318,7 +2318,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-719-7333",
-    "website": "https://roadtorecovery.clinic/locations/barrie-central/%3Futm_source%3Dgoogle%26utm_medium%3Dbusiness_profile%26utm_campaign%3Dbarrie_c",
+    "website": "https://roadtorecovery.clinic/locations/barrie-central/?utm_source=google&utm_medium=business_profile&utm_campaign=barrie_c",
     "rating": 4.5,
     "reviews": 21,
     "recommended": true
@@ -2682,7 +2682,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "613-966-5725",
-    "website": "http://www.southeasthealthline.ca/displayservice.aspx%3Fid%3D145718",
+    "website": "http://www.southeasthealthline.ca/displayservice.aspx?id=145718",
     "rating": 4.6,
     "reviews": 16,
     "recommended": true
@@ -2808,7 +2808,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "613-969-7862",
-    "website": "https://canatc.ca/company/locations/belleville/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dbelleville",
+    "website": "https://canatc.ca/company/locations/belleville/?utm_source=gmb&utm_medium=organic&utm_campaign=belleville",
     "rating": 3.9,
     "reviews": 33,
     "recommended": true
@@ -3186,7 +3186,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-396-8901",
-    "website": "https://www.sanafamily.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D15868625040213558658",
+    "website": "https://www.sanafamily.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15868625040213558658",
     "rating": 5.0,
     "reviews": 23,
     "recommended": true
@@ -3228,7 +3228,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "289-216-6624",
-    "website": "https://www.chasingresilience.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGBP",
+    "website": "https://www.chasingresilience.ca/?utm_source=google&utm_medium=organic&utm_campaign=GBP",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -3424,7 +3424,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "289-276-1415",
-    "website": "https://www.livewellclinic.ca/clinics/bowmanville%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3DQiigo",
+    "website": "https://www.livewellclinic.ca/clinics/bowmanville?utm_source=gmb&utm_medium=organic&utm_campaign=Qiigo",
     "rating": 5.0,
     "reviews": 0,
     "recommended": true
@@ -3662,7 +3662,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-914-5640",
-    "website": "https://www.durhamdbt.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D16299968665440167284",
+    "website": "https://www.durhamdbt.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16299968665440167284",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -4180,7 +4180,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-751-0728",
-    "website": "http://www.pathwaystohope.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D12739839981334704443",
+    "website": "http://www.pathwaystohope.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12739839981334704443",
     "rating": 4.9,
     "reviews": 22,
     "recommended": true
@@ -4768,7 +4768,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-637-4000",
-    "website": "https://www.pillarsofwellness.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic-local%26utm_campaign%3Dgmb",
+    "website": "https://www.pillarsofwellness.ca/?utm_source=google&utm_medium=organic-local&utm_campaign=gmb",
     "rating": 4.9,
     "reviews": 456,
     "recommended": true
@@ -4824,7 +4824,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-681-7359",
-    "website": "https://pmptherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp_main",
+    "website": "https://pmptherapy.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_main",
     "rating": 4.6,
     "reviews": 19,
     "recommended": true
@@ -5230,7 +5230,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-806-7015",
-    "website": "https://www.coselat.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D15313321136233983801",
+    "website": "https://www.coselat.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15313321136233983801",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -5258,7 +5258,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "833-482-5558",
-    "website": "https://possibilitiesclinic.com/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3Dburlington",
+    "website": "https://possibilitiesclinic.com/?utm_source=GMB&utm_medium=organic&utm_campaign=local&utm_content=burlington",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -5748,7 +5748,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-223-6666",
-    "website": "https://healthone.ca/north-york/medical-walk-in-ny/%3Futm_source%3Dgooglelocal%26utm_medium%3Dwebsite%26utm_campaign%3Dmedical_walkin%26utm_id%3Dnorth-york",
+    "website": "https://healthone.ca/north-york/medical-walk-in-ny/?utm_source=googlelocal&utm_medium=website&utm_campaign=medical_walkin&utm_id=north-york",
     "rating": 4.2,
     "reviews": 1425,
     "recommended": true
@@ -5832,7 +5832,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-931-6272",
-    "website": "https://www.drmelissalieberman.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D18278758896114905486",
+    "website": "https://www.drmelissalieberman.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=18278758896114905486",
     "rating": 1.0,
     "reviews": 1,
     "recommended": false
@@ -6154,7 +6154,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "548-489-1009",
-    "website": "https://www.heliosphysiotherapy.ca/%3Futm_source%3DGBP%26utm_medium%3Dorganic",
+    "website": "https://www.heliosphysiotherapy.ca/?utm_source=GBP&utm_medium=organic",
     "rating": 5.0,
     "reviews": 0,
     "recommended": true
@@ -6266,7 +6266,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "226-749-4685",
-    "website": "https://www.edcommodate.com/%3Futm_source%3Dgoogle-business-profile%26utm_medium%3Dcambridge",
+    "website": "https://www.edcommodate.com/?utm_source=google-business-profile&utm_medium=cambridge",
     "rating": 4.9,
     "reviews": 45,
     "recommended": true
@@ -6504,7 +6504,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "226-894-4112",
-    "website": "http://www.relationshipmatterstherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D3589284308854206258",
+    "website": "http://www.relationshipmatterstherapy.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3589284308854206258",
     "rating": 4.1,
     "reviews": 22,
     "recommended": true
@@ -7092,7 +7092,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D49",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=49",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -7274,7 +7274,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-458-8181",
-    "website": "https://www.simcoerehab.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3DCookstownON",
+    "website": "https://www.simcoerehab.ca/?utm_source=google&utm_medium=organic&utm_campaign=local&utm_content=CookstownON",
     "rating": 4.5,
     "reviews": 98,
     "recommended": true
@@ -8394,7 +8394,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-482-9563",
-    "website": "https://www.integrativemindspsychotherapy.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D7880865762867895695",
+    "website": "https://www.integrativemindspsychotherapy.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7880865762867895695",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -8842,7 +8842,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-670-2000",
-    "website": "https://www.headwayclinic.ca/%3Futm_source%3DGBMListing%26utm_medium%3DOrganic",
+    "website": "https://www.headwayclinic.ca/?utm_source=GBMListing&utm_medium=Organic",
     "rating": 4.0,
     "reviews": 30,
     "recommended": true
@@ -8996,7 +8996,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "226-895-0364",
-    "website": "https://wellbeingscounselling.ca/guelph-counselling-clinic/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-guelph",
+    "website": "https://wellbeingscounselling.ca/guelph-counselling-clinic/?utm_source=google&utm_medium=organic&utm_campaign=gmb-guelph",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -9430,7 +9430,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "365-550-0111",
-    "website": "https://canatc.ca/company/locations/guelph/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dguelph",
+    "website": "https://canatc.ca/company/locations/guelph/?utm_source=gmb&utm_medium=organic&utm_campaign=guelph",
     "rating": 4.6,
     "reviews": 9,
     "recommended": true
@@ -9976,7 +9976,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-949-9878",
-    "website": "https://www.georgetowncouplestherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D9351696633022890255",
+    "website": "https://www.georgetowncouplestherapy.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9351696633022890255",
     "rating": 4.9,
     "reviews": 29,
     "recommended": true
@@ -10886,7 +10886,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-490-2522",
-    "website": "https://wellbeingscounselling.ca/psychotherapy/clinic-locations/hamilton-ontario/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-hamilton",
+    "website": "https://wellbeingscounselling.ca/psychotherapy/clinic-locations/hamilton-ontario/?utm_source=google&utm_medium=organic&utm_campaign=gmb-hamilton",
     "rating": 1.0,
     "reviews": 2,
     "recommended": false
@@ -11194,7 +11194,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "844-942-2940",
-    "website": "https://vitalityrehab.ca/%3Futm_source%3Dgmb%26utm_medium%3Dorganic",
+    "website": "https://vitalityrehab.ca/?utm_source=gmb&utm_medium=organic",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -11446,7 +11446,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-476-3737",
-    "website": "https://canatc.ca/company/locations/keswick/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dkeswick",
+    "website": "https://canatc.ca/company/locations/keswick/?utm_source=gmb&utm_medium=organic&utm_campaign=keswick",
     "rating": 4.6,
     "reviews": 8,
     "recommended": true
@@ -11572,7 +11572,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "613-539-5707",
-    "website": "http://cataraquiclinic.com/%3Futm_source%3DGBP",
+    "website": "http://cataraquiclinic.com/?utm_source=GBP",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -11642,7 +11642,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "613-777-8531",
-    "website": "http://www.sarahghorsford.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D5905602082426047488",
+    "website": "http://www.sarahghorsford.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5905602082426047488",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -12608,7 +12608,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "613-893-1215",
-    "website": "https://www.peer2community.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D6383066332677895942",
+    "website": "https://www.peer2community.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6383066332677895942",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13028,7 +13028,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D293",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=293",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -13224,7 +13224,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-745-4321",
-    "website": "https://www.hyatt.com/jdv-by-hyatt/en-US/yyzjd-the-walper-hotel%3Fsrc%3Dcorp_lclb_google_seo_yyzjd%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlmr",
+    "website": "https://www.hyatt.com/jdv-by-hyatt/en-US/yyzjd-the-walper-hotel?src=corp_lclb_google_seo_yyzjd&utm_source=google&utm_medium=organic&utm_campaign=lmr",
     "rating": 4.4,
     "reviews": 1393,
     "recommended": true
@@ -13602,7 +13602,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-490-2522",
-    "website": "https://wellbeingscounselling.ca/psychotherapy/clinic-locations/kitchener-ontario/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-kitchener",
+    "website": "https://wellbeingscounselling.ca/psychotherapy/clinic-locations/kitchener-ontario/?utm_source=google&utm_medium=organic&utm_campaign=gmb-kitchener",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13714,7 +13714,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-688-0251",
-    "website": "https://www.theheartofthework.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D13745842178075010885",
+    "website": "https://www.theheartofthework.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13745842178075010885",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13896,7 +13896,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "548-800-5114",
-    "website": "https://thenilecentre.ueniweb.com/%3Futm_campaign%3Dgmb",
+    "website": "https://thenilecentre.ueniweb.com/?utm_campaign=gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13980,7 +13980,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-502-0459",
-    "website": "https://www.drcoraleelane.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D18234453529428973397",
+    "website": "https://www.drcoraleelane.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=18234453529428973397",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13994,7 +13994,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D442",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=442",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -14050,7 +14050,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-852-6008",
-    "website": "http://www.anchoridgecounselling.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D17889940299677987005",
+    "website": "http://www.anchoridgecounselling.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=17889940299677987005",
     "rating": 4.8,
     "reviews": 43,
     "recommended": true
@@ -14260,7 +14260,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-841-3977",
-    "website": "https://cmha-yr.on.ca/%3Futm_source%3Dgmblisting%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://cmha-yr.on.ca/?utm_source=gmblisting&utm_medium=organic&utm_campaign=gmb",
     "rating": 2.7,
     "reviews": 6,
     "recommended": false
@@ -14372,7 +14372,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-636-5311",
-    "website": "https://www.jenniferlynnewalker.com/%3Futm_source%3Dorganic%26utm_medium%3Dgmb",
+    "website": "https://www.jenniferlynnewalker.com/?utm_source=organic&utm_medium=gmb",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -14820,7 +14820,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-805-2822",
-    "website": "https://www.embracingwaves.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D17503229345651592810",
+    "website": "https://www.embracingwaves.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=17503229345651592810",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -14834,7 +14834,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-805-2822",
-    "website": "https://www.embracingwaves.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D11787855193458620976",
+    "website": "https://www.embracingwaves.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11787855193458620976",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -15366,7 +15366,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-568-7633",
-    "website": "https://pathwayscounsellingcentre.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "https://pathwayscounsellingcentre.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": 4.4,
     "reviews": 19,
     "recommended": true
@@ -15394,7 +15394,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-963-8482",
-    "website": "https://vitapsychologycentre.ca/%3Futm_source%3Dgmb_listing%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_vita_psychology",
+    "website": "https://vitapsychologycentre.ca/?utm_source=gmb_listing&utm_medium=organic&utm_campaign=gmb_website_vita_psychology",
     "rating": 4.2,
     "reviews": 5,
     "recommended": true
@@ -15590,7 +15590,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-360-5604",
-    "website": "https://intrepidhealthgroup.com/clinics/walk-in-clinic-and-family-doctors-mississauga/%3Futm_source%3DGMB%26utm_medium%3Dorganic",
+    "website": "https://intrepidhealthgroup.com/clinics/walk-in-clinic-and-family-doctors-mississauga/?utm_source=GMB&utm_medium=organic",
     "rating": 3.4,
     "reviews": 0,
     "recommended": true
@@ -15618,7 +15618,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-490-2522",
-    "website": "https://wellbeingscounselling.ca/mississauga-counselling-clinic/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-mississauga",
+    "website": "https://wellbeingscounselling.ca/mississauga-counselling-clinic/?utm_source=google&utm_medium=organic&utm_campaign=gmb-mississauga",
     "rating": 3.0,
     "reviews": 1,
     "recommended": true
@@ -15884,7 +15884,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-689-5838",
-    "website": "https://couplescounsellingcentre.com/mississauga-therapists/%3Futm_source%3Dgoogle%26utm_medium%3Dg_maps%26utm_campaign%3Dg_maps_mississauga",
+    "website": "https://couplescounsellingcentre.com/mississauga-therapists/?utm_source=google&utm_medium=g_maps&utm_campaign=g_maps_mississauga",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -16136,7 +16136,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "289-451-3838",
-    "website": "https://www.revivephysioandwellness.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D14001166457799945837",
+    "website": "https://www.revivephysioandwellness.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14001166457799945837",
     "rating": 5.0,
     "reviews": 109,
     "recommended": true
@@ -16332,7 +16332,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-368-6015",
-    "website": "https://roadtorecovery.clinic/locations/newmarket/%3Futm_source%3Dgoogle%26utm_medium%3Dbusiness_profile%26utm_campaign%3Dnewmarket",
+    "website": "https://roadtorecovery.clinic/locations/newmarket/?utm_source=google&utm_medium=business_profile&utm_campaign=newmarket",
     "rating": 5.0,
     "reviews": 6,
     "recommended": true
@@ -16710,7 +16710,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-841-3977",
-    "website": "http://www.cmha-yr.on.ca/%3Futm_source%3Dgmblisting%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "http://www.cmha-yr.on.ca/?utm_source=gmblisting&utm_medium=organic&utm_campaign=gmb",
     "rating": 3.8,
     "reviews": 6,
     "recommended": true
@@ -16962,7 +16962,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-841-3977",
-    "website": "http://cmha-yr.on.ca/%3Futm_source%3Dgmblisting%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "http://cmha-yr.on.ca/?utm_source=gmblisting&utm_medium=organic&utm_campaign=gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -17032,7 +17032,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-694-3317",
-    "website": "https://www.coreconnectionspsychology.com/%3Futm_source%3Dgmb_listing%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_core_connections",
+    "website": "https://www.coreconnectionspsychology.com/?utm_source=gmb_listing&utm_medium=organic&utm_campaign=gmb_website_core_connections",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -17998,7 +17998,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-995-2914",
-    "website": "https://fhtt.as.me/northbay%3Ffield:17229010%3Dgooglelisting",
+    "website": "https://fhtt.as.me/northbay?field:17229010=googlelisting",
     "rating": 2.7,
     "reviews": 61,
     "recommended": false
@@ -18222,7 +18222,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "613-809-1770",
-    "website": "https://renewneurotherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGMB-NBay",
+    "website": "https://renewneurotherapy.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB-NBay",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -18264,7 +18264,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-699-2366",
-    "website": "https://www.beinghumanconsulting.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D10607346153114075305",
+    "website": "https://www.beinghumanconsulting.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10607346153114075305",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -18810,7 +18810,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-244-5210",
-    "website": "https://register.cpso.on.ca/physician-info/%3Fcpsonum%3D63977",
+    "website": "https://register.cpso.on.ca/physician-info/?cpsonum=63977",
     "rating": 4.2,
     "reviews": 99,
     "recommended": true
@@ -18852,7 +18852,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-480-6100",
-    "website": "http://sunnybrook.ca/content/%3Fpage%3Dveterans_dementia_care_dorothy_macham_home",
+    "website": "http://sunnybrook.ca/content/?page=veterans_dementia_care_dorothy_macham_home",
     "rating": 4.0,
     "reviews": 1,
     "recommended": true
@@ -19020,7 +19020,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-226-6995",
-    "website": "https://www.cbi.ca/web/home-health-toronto-sheppard%3Futm_source%3DGoogle%26utm_medium%3Dlpm%26utm_campaign%3DCBIWeCare",
+    "website": "https://www.cbi.ca/web/home-health-toronto-sheppard?utm_source=Google&utm_medium=lpm&utm_campaign=CBIWeCare",
     "rating": 2.0,
     "reviews": 31,
     "recommended": false
@@ -19090,7 +19090,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D487%26name%3DKevin%2520Zeilig",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=487&name=Kevin%20Zeilig",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -19580,7 +19580,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "226-259-9955",
-    "website": "https://www.headwatershypnotherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D1167571040419969061",
+    "website": "https://www.headwatershypnotherapy.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1167571040419969061",
     "rating": 4.9,
     "reviews": 8,
     "recommended": true
@@ -20280,7 +20280,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "866-982-3441",
-    "website": "https://www.therelationshipagency.com/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-website",
+    "website": "https://www.therelationshipagency.com/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb-website",
     "rating": 4.6,
     "reviews": 9,
     "recommended": true
@@ -20378,7 +20378,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-433-4339",
-    "website": "https://lhfoundation.ca/%3Futm_medium%3Dorganic%26utm_source%3Dgmb%26utm_campaign%3Dwebsite",
+    "website": "https://lhfoundation.ca/?utm_medium=organic&utm_source=gmb&utm_campaign=website",
     "rating": 3.9,
     "reviews": 431,
     "recommended": true
@@ -20644,7 +20644,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-391-6279",
-    "website": "https://cameron-counselling-consulting.ueniweb.com/%3Futm_campaign%3Dgmb",
+    "website": "https://cameron-counselling-consulting.ueniweb.com/?utm_campaign=gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -20924,7 +20924,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-768-8703",
-    "website": "https://www.northstarptbo.ca/%3Futm_source%3DGMB%26utm_medium%3DOrganic",
+    "website": "https://www.northstarptbo.ca/?utm_source=GMB&utm_medium=Organic",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -21064,7 +21064,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-710-2253",
-    "website": "https://ehnguardians.ca/ehn-guardians-gateway/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_gw_local_listings",
+    "website": "https://ehnguardians.ca/ehn-guardians-gateway/?utm_source=google&utm_medium=organic&utm_campaign=gmb_gw_local_listings",
     "rating": 4.0,
     "reviews": 28,
     "recommended": true
@@ -22058,7 +22058,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-237-8439",
-    "website": "https://www.kinatex.com/en/clinics/richmond-hill/%3Futm_source%3Dlocal%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.kinatex.com/en/clinics/richmond-hill/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 331,
     "recommended": true
@@ -22142,7 +22142,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-918-0419",
-    "website": "https://www.chiro-med.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3DRichmondHill",
+    "website": "https://www.chiro-med.ca/?utm_source=google&utm_medium=organic&utm_campaign=local&utm_content=RichmondHill",
     "rating": 4.8,
     "reviews": 160,
     "recommended": true
@@ -22436,7 +22436,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-491-1466",
-    "website": "https://youthhubs.ca/ywho-sites%3Ffield_geofield_proximity%255Bvalue%255D%3D20%26field_geofield_proximity%255Bsource_configuration%255D%255Borigin_address%255D%3DSarnia",
+    "website": "https://youthhubs.ca/ywho-sites?field_geofield_proximity%5Bvalue%5D=20&field_geofield_proximity%5Bsource_configuration%5D%5Borigin_address%5D=Sarnia",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -22926,7 +22926,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "780-566-2003",
-    "website": "https://www.cammachealth.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D4305641602773232690",
+    "website": "https://www.cammachealth.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4305641602773232690",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -23248,7 +23248,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "289-207-7972",
-    "website": "https://www.freeportrecovery.ca/%3Futm_campaign%3Dgmb",
+    "website": "https://www.freeportrecovery.ca/?utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 55,
     "recommended": true
@@ -23360,7 +23360,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-381-3333",
-    "website": "https://momentumabaservices.com/cities-we-serve/st-catharines/%3Futm_source%3Dgoogle_local%26utm_medium%3Dorganic%26utm_campaign%3Dgmb%26utm_content%3Dst_catharines",
+    "website": "https://momentumabaservices.com/cities-we-serve/st-catharines/?utm_source=google_local&utm_medium=organic&utm_campaign=gmb&utm_content=st_catharines",
     "rating": 5.0,
     "reviews": 4,
     "recommended": true
@@ -23934,7 +23934,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "289-210-7439",
-    "website": "https://www.counsellingwithsarah.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D12445040303521696603",
+    "website": "https://www.counsellingwithsarah.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12445040303521696603",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -24592,7 +24592,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-262-0718",
-    "website": "https://www.ce-counselling.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D4944497863664022250",
+    "website": "https://www.ce-counselling.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4944497863664022250",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -24956,7 +24956,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "705-360-3132",
-    "website": "https://www.patchampagne.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D81447249332108385",
+    "website": "https://www.patchampagne.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=81447249332108385",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -25068,7 +25068,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "289-809-1593",
-    "website": "https://artofmobility.com/toronto/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3DGMBwebsite",
+    "website": "https://artofmobility.com/toronto/?utm_source=GMB&utm_medium=organic&utm_campaign=GMBwebsite",
     "rating": 5.0,
     "reviews": 119,
     "recommended": true
@@ -25124,7 +25124,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-792-8020",
-    "website": "http://www.evolvechiropractic.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D857389408057706864",
+    "website": "http://www.evolvechiropractic.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=857389408057706864",
     "rating": 5.0,
     "reviews": 106,
     "recommended": true
@@ -25166,7 +25166,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-952-1913",
-    "website": "https://www.ossingtonchiro.ca/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3DGMBwebsite",
+    "website": "https://www.ossingtonchiro.ca/?utm_source=GMB&utm_medium=organic&utm_campaign=GMBwebsite",
     "rating": 5.0,
     "reviews": 602,
     "recommended": true
@@ -25348,7 +25348,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-793-8172",
-    "website": "http://www.thehelphub.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D2673904195399919793",
+    "website": "http://www.thehelphub.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2673904195399919793",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -25558,7 +25558,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-490-2522",
-    "website": "https://wellbeingscounselling.ca/toronto/downtown-toronto/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-downtowntoronto",
+    "website": "https://wellbeingscounselling.ca/toronto/downtown-toronto/?utm_source=google&utm_medium=organic&utm_campaign=gmb-downtowntoronto",
     "rating": 5.0,
     "reviews": 13,
     "recommended": true
@@ -25656,7 +25656,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-371-5103",
-    "website": "http://www.ehncanada.com/%3Futm_campaign%3Dgmb_ehn-canada_local_listings%26utm_source%3Dgoogle%26utm_medium%3Dorganic",
+    "website": "http://www.ehncanada.com/?utm_campaign=gmb_ehn-canada_local_listings&utm_source=google&utm_medium=organic",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -25894,7 +25894,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-296-8441",
-    "website": "https://counsellingtorontoteens.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Ddanforth",
+    "website": "https://counsellingtorontoteens.com/?utm_source=gmb&utm_medium=organic&utm_campaign=danforth",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -26048,7 +26048,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "437-800-2205",
-    "website": "https://www.sunshinecoasthealthcentre.ca/toronto/%3Futm_source%3DGoogle%26utm_medium%3DSearch%26utm_campaign%3Dlocal_toronto%26utm_id%3DSCHC",
+    "website": "https://www.sunshinecoasthealthcentre.ca/toronto/?utm_source=Google&utm_medium=Search&utm_campaign=local_toronto&utm_id=SCHC",
     "rating": 5.0,
     "reviews": 10,
     "recommended": true
@@ -26244,7 +26244,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://psycheandsoma.ca/%3Futm_source%3Dgooglemaps",
+    "website": "https://psycheandsoma.ca/?utm_source=googlemaps",
     "rating": 5.0,
     "reviews": 21,
     "recommended": true
@@ -26468,7 +26468,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-955-8605",
-    "website": "https://www.voyagecouplestherapy.com/%3Futm_source%3Dgmb_listing%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_voyage_couples_therapy",
+    "website": "https://www.voyagecouplestherapy.com/?utm_source=gmb_listing&utm_medium=organic&utm_campaign=gmb_website_voyage_couples_therapy",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -26538,7 +26538,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-644-8894",
-    "website": "https://ventepainrelief.com/%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn-4z4YALMRKJ0DGJppJduGWIXEPSH3s_GxLnfdWj2ENnsXJmWEW9IZTwxp9E_aem_CmAq0YbFPpMfqYaF4d52Dw",
+    "website": "https://ventepainrelief.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn-4z4YALMRKJ0DGJppJduGWIXEPSH3s_GxLnfdWj2ENnsXJmWEW9IZTwxp9E_aem_CmAq0YbFPpMfqYaF4d52Dw",
     "rating": 5.0,
     "reviews": 39,
     "recommended": true
@@ -26902,7 +26902,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-559-0149",
-    "website": "https://www.canadiantherapy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D11555909354483924252",
+    "website": "https://www.canadiantherapy.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11555909354483924252",
     "rating": 4.9,
     "reviews": 29,
     "recommended": true
@@ -26930,7 +26930,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-760-9424",
-    "website": "https://innatewellness.ca/%3Futm_source%3Dgbp%26utm_medium%3Dorganic%26utm_campaign%3Dgbp%2520profile",
+    "website": "https://innatewellness.ca/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp%20profile",
     "rating": 4.9,
     "reviews": 89,
     "recommended": true
@@ -27014,7 +27014,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-420-1250",
-    "website": "https://www.prepclinic.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp-website-link%26utm_content%3Dtoronto-bloor-st",
+    "website": "https://www.prepclinic.ca/?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link&utm_content=toronto-bloor-st",
     "rating": 4.9,
     "reviews": 339,
     "recommended": true
@@ -27196,7 +27196,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-880-7246",
-    "website": "https://www.yorkvillesportsmed.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.yorkvillesportsmed.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.9,
     "reviews": 730,
     "recommended": true
@@ -27252,7 +27252,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-489-8150",
-    "website": "https://torontopainreliefclinic.com/%3Futm_source%3Dorganic%2Bgoogle%26utm_medium%3Dgoogle%2Bbusiness%2Bprofile%26utm_campaign%3Dgbp-website-home-page",
+    "website": "https://torontopainreliefclinic.com/?utm_source=organic+google&utm_medium=google+business+profile&utm_campaign=gbp-website-home-page",
     "rating": 4.8,
     "reviews": 102,
     "recommended": true
@@ -27294,7 +27294,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "437-296-0759",
-    "website": "https://www.massageaddict.ca/toronto-bloorwestvillage%3Futm_source%3Dgoogle_business_profile%26utm_medium%3Dorganic",
+    "website": "https://www.massageaddict.ca/toronto-bloorwestvillage?utm_source=google_business_profile&utm_medium=organic",
     "rating": 4.8,
     "reviews": 135,
     "recommended": true
@@ -27336,7 +27336,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-565-4504",
-    "website": "https://counsellingtorontoteens.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Drunnymede",
+    "website": "https://counsellingtorontoteens.com/?utm_source=gmb&utm_medium=organic&utm_campaign=runnymede",
     "rating": 4.8,
     "reviews": 18,
     "recommended": true
@@ -27378,7 +27378,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-549-5089",
-    "website": "https://www.susanblackburn.com/%3Futm_source%3DLocal%26utm_medium%3DOrganic%26utm_campaign%3DGoogle%2520My%2520Business%26utm_content%3Dgmb",
+    "website": "https://www.susanblackburn.com/?utm_source=Local&utm_medium=Organic&utm_campaign=Google%20My%20Business&utm_content=gmb",
     "rating": 4.8,
     "reviews": 17,
     "recommended": true
@@ -27420,7 +27420,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-613-5633",
-    "website": "https://healthone.ca/toronto/wellness-clinic-to/%3Futm_source%3Dtoronto%26utm_medium%3Dgooglelocal%26utm_campaign%3Dwellness",
+    "website": "https://healthone.ca/toronto/wellness-clinic-to/?utm_source=toronto&utm_medium=googlelocal&utm_campaign=wellness",
     "rating": 4.8,
     "reviews": 120,
     "recommended": true
@@ -27490,7 +27490,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-484-8622",
-    "website": "https://beachestherapy.ca/midtown-toronto/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3DMidtownToronto",
+    "website": "https://beachestherapy.ca/midtown-toronto/?utm_source=google&utm_medium=organic&utm_campaign=local&utm_content=MidtownToronto",
     "rating": 4.8,
     "reviews": 18,
     "recommended": true
@@ -27644,7 +27644,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-241-5438",
-    "website": "https://pathwell.ca/%3Futm_source%3DGMB%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-website",
+    "website": "https://pathwell.ca/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb-website",
     "rating": 4.7,
     "reviews": 26,
     "recommended": true
@@ -27784,7 +27784,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-655-4194",
-    "website": "http://www.behaviourmatters.ca/%3Futm_source%3DGBP%26utm_medium%3Dogranic%26utm_campaign%3Dgbp",
+    "website": "http://www.behaviourmatters.ca/?utm_source=GBP&utm_medium=ogranic&utm_campaign=gbp",
     "rating": 4.7,
     "reviews": 102,
     "recommended": true
@@ -27952,7 +27952,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-538-3839",
-    "website": "https://canatc.ca/company/locations/queen-street-treatment-clinic/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dqueen_street_treatment_clinic",
+    "website": "https://canatc.ca/company/locations/queen-street-treatment-clinic/?utm_source=gmb&utm_medium=organic&utm_campaign=queen_street_treatment_clinic",
     "rating": 4.6,
     "reviews": 20,
     "recommended": true
@@ -28078,7 +28078,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-925-6004",
-    "website": "https://healthone.ca/the-well/rehab-tw/%3Futm_source%3Dgoogle%26utm_medium%3Dlocal%26utm_campaign%3Dthewell",
+    "website": "https://healthone.ca/the-well/rehab-tw/?utm_source=google&utm_medium=local&utm_campaign=thewell",
     "rating": 4.6,
     "reviews": 55,
     "recommended": true
@@ -28190,7 +28190,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-490-2522",
-    "website": "https://wellbeingscounselling.ca/toronto/yonge-and-eglinton/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-midtowntoronto",
+    "website": "https://wellbeingscounselling.ca/toronto/yonge-and-eglinton/?utm_source=google&utm_medium=organic&utm_campaign=gmb-midtowntoronto",
     "rating": 4.5,
     "reviews": 16,
     "recommended": true
@@ -28246,7 +28246,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-588-7546",
-    "website": "https://thecohenclinic.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp-google%26utm_content%3DQM",
+    "website": "https://thecohenclinic.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-google&utm_content=QM",
     "rating": 4.5,
     "reviews": 23,
     "recommended": true
@@ -28610,7 +28610,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-925-6007",
-    "website": "https://healthone.ca/the-well/mental-health-therapy-tw/%3Futm_source%3Dgoogle%26utm_medium%3Dlocallisting%26utm_campaign%3Dthewell",
+    "website": "https://healthone.ca/the-well/mental-health-therapy-tw/?utm_source=google&utm_medium=locallisting&utm_campaign=thewell",
     "rating": 4.3,
     "reviews": 6,
     "recommended": true
@@ -28750,7 +28750,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "866-349-3869",
-    "website": "https://www.edgewoodhealthnetwork.com/locations/bellwood/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_bw_local_listings",
+    "website": "https://www.edgewoodhealthnetwork.com/locations/bellwood/?utm_source=google&utm_medium=organic&utm_campaign=gmb_bw_local_listings",
     "rating": 4.2,
     "reviews": 231,
     "recommended": true
@@ -29002,7 +29002,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-663-5433",
-    "website": "https://healthone.ca/toronto/medical-walk-in-to/%3Futm_source%3Dtoronto%26utm_medium%3Dgooglelocal%26utm_campaign%3Dmedical_walkin",
+    "website": "https://healthone.ca/toronto/medical-walk-in-to/?utm_source=toronto&utm_medium=googlelocal&utm_campaign=medical_walkin",
     "rating": 4.1,
     "reviews": 475,
     "recommended": true
@@ -29324,7 +29324,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-925-6066",
-    "website": "https://healthone.ca/the-well/medical-tw/%3Futm_source%3Dgoogle%26utm_medium%3Dlocalbusiness%26utm_campaign%3Dthewell",
+    "website": "https://healthone.ca/the-well/medical-tw/?utm_source=google&utm_medium=localbusiness&utm_campaign=thewell",
     "rating": 3.9,
     "reviews": 185,
     "recommended": true
@@ -30220,7 +30220,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-849-4776",
-    "website": "https://www.advancehealth.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.advancehealth.ca/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 3.0,
     "reviews": 55,
     "recommended": true
@@ -30640,7 +30640,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-480-6100",
-    "website": "http://sunnybrook.ca/content/%3Fpage%3Dbsp-sunpact",
+    "website": "http://sunnybrook.ca/content/?page=bsp-sunpact",
     "rating": 2.3,
     "reviews": 3,
     "recommended": false
@@ -31004,7 +31004,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "365-324-3265",
-    "website": "https://linktr.ee/dryamam%3Futm_source%3Dlinktree_profile_share%26ltsid%3D7e9676f2-b7f5-4350-9832-225dba6605f2",
+    "website": "https://linktr.ee/dryamam?utm_source=linktree_profile_share&ltsid=7e9676f2-b7f5-4350-9832-225dba6605f2",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -31312,7 +31312,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-570-8757",
-    "website": "http://lifecounsellors.net/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+    "website": "http://lifecounsellors.net/?utm_source=gmb&utm_medium=referral",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -31676,7 +31676,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "437-447-5200",
-    "website": "https://www.alulacounselling.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D10545288742069381218",
+    "website": "https://www.alulacounselling.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10545288742069381218",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -31760,7 +31760,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-480-4693",
-    "website": "http://sunnybrook.ca/team/member.asp%3Fm%3D562%26page%3Dpsychiatry-team",
+    "website": "http://sunnybrook.ca/team/member.asp?m=562&page=psychiatry-team",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -31942,7 +31942,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "416-745-4745",
-    "website": "https://nkstherapy.com//%3Futm_source%3DGMB%26utm_medium%3DMap%26utm_campaign%3DToronto",
+    "website": "https://nkstherapy.com//?utm_source=GMB&utm_medium=Map&utm_campaign=Toronto",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -32040,7 +32040,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D443",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=443",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -32068,7 +32068,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D198%26name%3DSandraMiller",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=198&name=SandraMiller",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -32264,7 +32264,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://carpe-1.ueniweb.com/%3Futm_campaign%3Dgmb",
+    "website": "https://carpe-1.ueniweb.com/?utm_campaign=gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -32320,7 +32320,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "888-245-5516",
-    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm%3Fid%3D111%26name%3DCatherineCoyle",
+    "website": "http://www.daltonassociates.ca/search/displayProfile.cfm?id=111&name=CatherineCoyle",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -32460,7 +32460,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "647-955-6534",
-    "website": "https://cfhh.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://cfhh.ca/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.9,
     "reviews": 97,
     "recommended": true
@@ -32558,7 +32558,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-841-3977",
-    "website": "http://cmha-yr.on.ca/%3Futm_source%3Dgmblisting%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "http://cmha-yr.on.ca/?utm_source=gmblisting&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.2,
     "reviews": 5,
     "recommended": true
@@ -32614,7 +32614,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-930-7887",
-    "website": "https://innertrailheads.com/%3Futm_source%3Dgmb_listing%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_inner_trailheads",
+    "website": "https://innertrailheads.com/?utm_source=gmb_listing&utm_medium=organic&utm_campaign=gmb_website_inner_trailheads",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -32726,7 +32726,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "226-646-0266",
-    "website": "http://monarchcounselling.ca/%3Futm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_campaign%3Dgmb",
+    "website": "http://monarchcounselling.ca/?utm_medium=organic&utm_source=google&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -32964,7 +32964,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-745-4141",
-    "website": "https://www.anchoridgecounselling.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D9861927332805741125",
+    "website": "https://www.anchoridgecounselling.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9861927332805741125",
     "rating": 4.6,
     "reviews": 57,
     "recommended": true
@@ -34126,7 +34126,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "905-666-6240",
-    "website": "https://www.durham.ca/en/living-here/counselling.aspx%3F_mid_%3D24458",
+    "website": "https://www.durham.ca/en/living-here/counselling.aspx?_mid_=24458",
     "rating": 2.5,
     "reviews": 6,
     "recommended": false
@@ -34252,7 +34252,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://www.psychologytoday.com/ca/therapists/your-healing-centre-windsor-on/727843%3Fpreview%3D1%26return_to%3Dhttps%253A%252F%252Fmember.psychologytoday.com%252Fca%252Fhome%26_ga%3D2.157259067.1894688073.1605063497-546202982.1588887221",
+    "website": "https://www.psychologytoday.com/ca/therapists/your-healing-centre-windsor-on/727843?preview=1&return_to=https%3A%2F%2Fmember.psychologytoday.com%2Fca%2Fhome&_ga=2.157259067.1894688073.1605063497-546202982.1588887221",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -34462,7 +34462,7 @@
     "province_code": "ON",
     "country": "Canada",
     "phone": "519-253-1519",
-    "website": "https://www.limarzicounselling.ca/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic",
+    "website": "https://www.limarzicounselling.ca/?utm_source=GMBlisting&utm_medium=organic",
     "rating": 4.5,
     "reviews": 41,
     "recommended": true

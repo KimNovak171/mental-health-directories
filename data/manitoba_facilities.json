@@ -260,7 +260,7 @@
     "province_code": "MB",
     "country": "Canada",
     "phone": "204-642-5116",
-    "website": "http://www.ierha.ca/default.aspx%3Fcid%3D6343",
+    "website": "http://www.ierha.ca/default.aspx?cid=6343",
     "rating": 3.1,
     "reviews": 34,
     "recommended": true
@@ -414,7 +414,7 @@
     "province_code": "MB",
     "country": "Canada",
     "phone": "204-384-6440",
-    "website": "https://www.carinasagercounselling.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D1364661351713635697",
+    "website": "https://www.carinasagercounselling.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1364661351713635697",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -498,7 +498,7 @@
     "province_code": "MB",
     "country": "Canada",
     "phone": "204-444-2004",
-    "website": "https://www.ierha.ca/default.aspx%3Fcid%3D6358",
+    "website": "https://www.ierha.ca/default.aspx?cid=6358",
     "rating": 4.5,
     "reviews": 12,
     "recommended": true
@@ -540,7 +540,7 @@
     "province_code": "MB",
     "country": "Canada",
     "phone": "204-444-2227",
-    "website": "https://www.ierha.ca/default.aspx%3Fcid%3D6378%26lang%3D1",
+    "website": "https://www.ierha.ca/default.aspx?cid=6378&lang=1",
     "rating": 4.1,
     "reviews": 0,
     "recommended": true
@@ -1016,7 +1016,7 @@
     "province_code": "MB",
     "country": "Canada",
     "phone": "204-467-5514",
-    "website": "https://www.ierha.ca/default.aspx%3Fcid%3D6347%26lang%3D1",
+    "website": "https://www.ierha.ca/default.aspx?cid=6347&lang=1",
     "rating": 2.9,
     "reviews": 19,
     "recommended": false
@@ -1156,7 +1156,7 @@
     "province_code": "MB",
     "country": "Canada",
     "phone": "204-282-7588",
-    "website": "https://www.clearlivingconnection.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic",
+    "website": "https://www.clearlivingconnection.com/?utm_source=gmb&utm_medium=organic",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true

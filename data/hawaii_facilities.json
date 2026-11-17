@@ -215,7 +215,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-207-4377",
-    "website": "https://www.acesaba.com/location-aiea%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle_business_profile",
+    "website": "https://www.acesaba.com/location-aiea?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile",
     "rating": 3.7,
     "reviews": 17,
     "recommended": true
@@ -1060,7 +1060,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-437-1364",
-    "website": "https://www.thrivepsychiatryhawaii.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D11999024254486307861",
+    "website": "https://www.thrivepsychiatryhawaii.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11999024254486307861",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -1190,7 +1190,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-777-9460",
-    "website": "https://ohanapsych.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "https://ohanapsych.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": 4.7,
     "reviews": 571,
     "recommended": true
@@ -1892,7 +1892,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-201-8130",
-    "website": "https://thriveworks.com/kailua-counseling/%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic%26field:8499441%3DGMB",
+    "website": "https://thriveworks.com/kailua-counseling/?utm_source=GMBlisting&utm_medium=organic&field:8499441=GMB",
     "rating": 4.0,
     "reviews": 8,
     "recommended": true
@@ -2061,7 +2061,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-698-9964",
-    "website": "https://honuhousehawaii.com/%2520%3Futm_campaign%3DGMB%2520%26utm_medium%3DGMB%2520%26utm_source%3DGMB%2520%26utm_content%3DGMB%2520%26utm_id%3DGMB",
+    "website": "https://honuhousehawaii.com/%2520?utm_campaign=GMB%20&utm_medium=GMB%20&utm_source=GMB%20&utm_content=GMB%20&utm_id=GMB",
     "rating": 5.0,
     "reviews": 27,
     "recommended": true
@@ -2087,7 +2087,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-201-2343",
-    "website": "https://hawaiiwellnessclinic.com/%3Futm_source%3Domg-gbp%26utm_medium%3Dwebclick",
+    "website": "https://hawaiiwellnessclinic.com/?utm_source=omg-gbp&utm_medium=webclick",
     "rating": 5.0,
     "reviews": 4,
     "recommended": true
@@ -2100,7 +2100,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-731-1680",
-    "website": "https://theohanahawaii.com/%3Futm_campaign%3Dgmb",
+    "website": "https://theohanahawaii.com/?utm_campaign=gmb",
     "rating": 4.9,
     "reviews": 54,
     "recommended": true
@@ -2139,7 +2139,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-319-4869",
-    "website": "https://hawaiianrecovery.com/%3Futm_source%3Dgbp%26utm_medium%3Dorganic",
+    "website": "https://hawaiianrecovery.com/?utm_source=gbp&utm_medium=organic",
     "rating": 4.6,
     "reviews": 48,
     "recommended": true
@@ -2737,7 +2737,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-206-9371",
-    "website": "https://mindfullivinggroup.org/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Drightnow_seo",
+    "website": "https://mindfullivinggroup.org/?utm_source=google&utm_medium=organic&utm_campaign=rightnow_seo",
     "rating": 3.6,
     "reviews": 38,
     "recommended": true
@@ -2828,7 +2828,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-354-0910",
-    "website": "http://www.teampbs.com/aba_therapy.aspx%3FRegion%3DHI%26RegionName%3DHawaii",
+    "website": "http://www.teampbs.com/aba_therapy.aspx?Region=HI&RegionName=Hawaii",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -2997,7 +2997,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "877-317-8260",
-    "website": "https://mauirecovery.com/%3Futm_source%3Dgmb%26utm_medium%3Dgoogle%26utm_campaign%3Dorganic",
+    "website": "https://mauirecovery.com/?utm_source=gmb&utm_medium=google&utm_campaign=organic",
     "rating": 4.5,
     "reviews": 65,
     "recommended": true
@@ -3361,7 +3361,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-206-9371",
-    "website": "https://mindfullivinggroup.org/makawao%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Drightnow_communications_seo%26utm_content%3Dmakawao",
+    "website": "https://mindfullivinggroup.org/makawao?utm_source=google&utm_medium=organic&utm_campaign=rightnow_communications_seo&utm_content=makawao",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -3439,7 +3439,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "504-534-5636",
-    "website": "https://www.ashleycomegys.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic",
+    "website": "https://www.ashleycomegys.com/?utm_source=google&utm_medium=organic",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -3517,7 +3517,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-206-9371",
-    "website": "https://mindfullivinggroup.org/oahu%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Drightnow_communications_seo%26utm_content%3DOahu",
+    "website": "https://mindfullivinggroup.org/oahu?utm_source=google&utm_medium=organic&utm_campaign=rightnow_communications_seo&utm_content=Oahu",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -4297,7 +4297,7 @@
     "state": "Hawaii",
     "state_code": "HI",
     "phone": "808-736-3339",
-    "website": "https://manarecoverycenter.com/%3Futm_source%3Dorganic%26utm_medium%3Dgoogle%26utm_campaign%3Dgbp",
+    "website": "https://manarecoverycenter.com/?utm_source=organic&utm_medium=google&utm_campaign=gbp",
     "rating": 4.8,
     "reviews": 22,
     "recommended": true

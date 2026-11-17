@@ -302,7 +302,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-553-4008",
-    "website": "https://www.mouvementessere.com/clinique-de-blainville/%3Futm_campaign%3Dgbp",
+    "website": "https://www.mouvementessere.com/clinique-de-blainville/?utm_campaign=gbp",
     "rating": 5.0,
     "reviews": 91,
     "recommended": true
@@ -414,7 +414,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-951-6111",
-    "website": "https://www.physioactif.com/clinique/physioactif-blainville-sud-et-rosemere/%3Futm_source%3Dgoogle_my_business",
+    "website": "https://www.physioactif.com/clinique/physioactif-blainville-sud-et-rosemere/?utm_source=google_my_business",
     "rating": 4.9,
     "reviews": 258,
     "recommended": true
@@ -666,7 +666,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-655-2077",
-    "website": "http://www.actionneuroptimum.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D4984011841554171205",
+    "website": "http://www.actionneuroptimum.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4984011841554171205",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -764,7 +764,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-360-4416",
-    "website": "https://privamed.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-boucherville",
+    "website": "https://privamed.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-boucherville",
     "rating": 4.7,
     "reviews": 0,
     "recommended": true
@@ -1058,7 +1058,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-686-8333",
-    "website": "https://www.cerc-neuropsy.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic",
+    "website": "https://www.cerc-neuropsy.com/?utm_source=gmb&utm_medium=organic",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -1170,7 +1170,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-360-4416",
-    "website": "https://privamed.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-brossard",
+    "website": "https://privamed.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-brossard",
     "rating": 4.7,
     "reviews": 0,
     "recommended": true
@@ -1660,7 +1660,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "418-540-4590",
-    "website": "http://soins-holistiques-felicite.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D18266335740244933745",
+    "website": "http://soins-holistiques-felicite.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=18266335740244933745",
     "rating": 5.0,
     "reviews": 20,
     "recommended": true
@@ -2444,7 +2444,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-900-3368",
-    "website": "https://www.ddentaloffice.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic",
+    "website": "https://www.ddentaloffice.com/?utm_source=gmb&utm_medium=organic",
     "rating": 4.7,
     "reviews": 252,
     "recommended": true
@@ -3256,7 +3256,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "819-200-2448",
-    "website": "https://www.fymab.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D7296893967701398954",
+    "website": "https://www.fymab.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7296893967701398954",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -4684,7 +4684,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://www.facebook.com/share/1BSpN9dCdD/%3Fmibextid%3DwwXIfr",
+    "website": "https://www.facebook.com/share/1BSpN9dCdD/?mibextid=wwXIfr",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -5426,7 +5426,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-686-8333",
-    "website": "https://www.cerc-neuropsy.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic",
+    "website": "https://www.cerc-neuropsy.com/?utm_source=gmb&utm_medium=organic",
     "rating": 4.3,
     "reviews": 32,
     "recommended": true
@@ -5622,7 +5622,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-662-3665",
-    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/%3Fnofiche%3D1346%26ch_nom%3DCentre%2Bde%2Bservices%2Bambulatoires%2Ben%2Bsant%25C3%25A9%2Bmentale%2BRen%25C3%25A9-Laennec%26bt_rechNom%3D%26ch_choixReg%3D%26ch_rayon%3D0%26ch_code%3D",
+    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/?nofiche=1346&ch_nom=Centre+de+services+ambulatoires+en+sant%C3%A9+mentale+Ren%C3%A9-Laennec&bt_rechNom=&ch_choixReg=&ch_rayon=0&ch_code=",
     "rating": 3.7,
     "reviews": 10,
     "recommended": true
@@ -5706,7 +5706,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-418-3353",
-    "website": "https://www.thetherapygroup.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGBP",
+    "website": "https://www.thetherapygroup.ca/?utm_source=google&utm_medium=organic&utm_campaign=GBP",
     "rating": 3.0,
     "reviews": 2,
     "recommended": true
@@ -6224,7 +6224,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-961-4991",
-    "website": "http://cliniquenaturotherapie.com/%3Futm_medium%3Dreferral%26utm_source%3Dgmb%26utm_campaign%3Dlnk-gmb",
+    "website": "http://cliniquenaturotherapie.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -6378,7 +6378,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "418-805-2248",
-    "website": "http://nicolegagnepsychologue.com/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+    "website": "http://nicolegagnepsychologue.com/?utm_source=gmb&utm_medium=referral",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -6728,7 +6728,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-998-8727",
-    "website": "https://www.chtl.ca/%3Futm_source%3DGMB-listing%26utm_medium%3DOrganic",
+    "website": "https://www.chtl.ca/?utm_source=GMB-listing&utm_medium=Organic",
     "rating": 5.0,
     "reviews": 35,
     "recommended": true
@@ -6882,7 +6882,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-651-3113",
-    "website": "https://www.msss.gouv.qc.ca/repertoires/dependances/fiche_public.php%3Fnofiche%3D255",
+    "website": "https://www.msss.gouv.qc.ca/repertoires/dependances/fiche_public.php?nofiche=255",
     "rating": 4.9,
     "reviews": 14,
     "recommended": true
@@ -7946,7 +7946,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-419-1547",
-    "website": "http://www.mcharvey.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "http://www.mcharvey.ca/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 15,
     "recommended": true
@@ -8730,7 +8730,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-905-5108",
-    "website": "https://www.blakepsychology.com/locations/montreal-bonaventure-metro/%3Futm_source%3DGMB%26utm_medium%3Dlisting%26utm_campaign%3DGMB%2Blink%26utm_content%3DGMB%2BBonaventure%2BMetro",
+    "website": "https://www.blakepsychology.com/locations/montreal-bonaventure-metro/?utm_source=GMB&utm_medium=listing&utm_campaign=GMB+link&utm_content=GMB+Bonaventure+Metro",
     "rating": 4.7,
     "reviews": 10,
     "recommended": true
@@ -8968,7 +8968,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-360-6444",
-    "website": "https://www.blakepsychology.com/fr/emplacements/blake-psychology-montreal-metro-mont-royal/%3Futm_source%3DGMB%26utm_medium%3Dlisting%26utm_campaign%3DGMB%2Blink%26utm_content%3DGMB%2Bmetro-mont-royal",
+    "website": "https://www.blakepsychology.com/fr/emplacements/blake-psychology-montreal-metro-mont-royal/?utm_source=GMB&utm_medium=listing&utm_campaign=GMB+link&utm_content=GMB+metro-mont-royal",
     "rating": 4.0,
     "reviews": 4,
     "recommended": true
@@ -9108,7 +9108,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-739-5646",
-    "website": "https://www.telus.com/health/care-centres/locations/montreal%3Futm_source%3Dgoogle%26utm_medium%3Dlocal%26utm_campaign%3Dgoogle-local",
+    "website": "https://www.telus.com/health/care-centres/locations/montreal?utm_source=google&utm_medium=local&utm_campaign=google-local",
     "rating": 3.0,
     "reviews": 80,
     "recommended": true
@@ -9822,7 +9822,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-319-1681",
-    "website": "https://www.blakepsychology.com/locations/blake-psychology-pointe-claire-centre-brunswick/%3Futm_source%3DGMB%26utm_medium%3Dlisting%26utm_campaign%3DGMB%2Blink%26utm_content%3DGMB%2BBrunswick",
+    "website": "https://www.blakepsychology.com/locations/blake-psychology-pointe-claire-centre-brunswick/?utm_source=GMB&utm_medium=listing&utm_campaign=GMB+link&utm_content=GMB+Brunswick",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -9962,7 +9962,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-319-1744",
-    "website": "https://www.blakepsychology.com/locations/pointe-claire-west-island/%3Futm_source%3DGMB%26utm_medium%3Dlisting%26utm_campaign%3DGMB%2Blink%26utm_content%3DGMB%2BWest-Island",
+    "website": "https://www.blakepsychology.com/locations/pointe-claire-west-island/?utm_source=GMB&utm_medium=listing&utm_campaign=GMB+link&utm_content=GMB+West-Island",
     "rating": 4.8,
     "reviews": 53,
     "recommended": true
@@ -10872,7 +10872,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "418-650-0092",
-    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/%3Fnofiche%3D1171662",
+    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/?nofiche=1171662",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -11250,7 +11250,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-657-0071",
-    "website": "https://www.msss.gouv.qc.ca/repertoires/dependances/fiche_public.php%3Fnofiche%3D291",
+    "website": "https://www.msss.gouv.qc.ca/repertoires/dependances/fiche_public.php?nofiche=291",
     "rating": 4.8,
     "reviews": 4,
     "recommended": true
@@ -11418,7 +11418,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-704-1328",
-    "website": "http://www.cliniquejavance.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D14521216231520218495",
+    "website": "http://www.cliniquejavance.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14521216231520218495",
     "rating": 3.0,
     "reviews": 2,
     "recommended": true
@@ -11670,7 +11670,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "418-730-3511",
-    "website": "https://www.facebook.com/profile.php%3Fid%3D100093860320953",
+    "website": "https://www.facebook.com/profile.php?id=100093860320953",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -12692,7 +12692,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "819-527-5584",
-    "website": "https://www.kcsexologue.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D16192284331181735016",
+    "website": "https://www.kcsexologue.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16192284331181735016",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -13084,7 +13084,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-730-1331",
-    "website": "https://www.teschezvous.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D12472228682977048322",
+    "website": "https://www.teschezvous.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12472228682977048322",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
@@ -13210,7 +13210,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-473-1720",
-    "website": "http://sante.gouv.qc.ca/repertoire-ressources/recherche/ressource/%3Fnofiche%3D32832%26ch_type%5B6%5D%3D1301%26bt_rechType%3D%26ch_choixReg%3D15",
+    "website": "http://sante.gouv.qc.ca/repertoire-ressources/recherche/ressource/?nofiche=32832&ch_type[6]=1301&bt_rechType=&ch_choixReg=15",
     "rating": 4.4,
     "reviews": 11,
     "recommended": true
@@ -13238,7 +13238,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-491-1233",
-    "website": "http://sante.gouv.qc.ca/repertoire-ressources/clsc/ressource/%3Fnofiche%3D1205%26ch_type%255B1%255D%3D1201%26bt_rechType%3D%26ch_choixReg%3D15",
+    "website": "http://sante.gouv.qc.ca/repertoire-ressources/clsc/ressource/?nofiche=1205&ch_type%5B1%5D=1201&bt_rechType=&ch_choixReg=15",
     "rating": 4.1,
     "reviews": 58,
     "recommended": true
@@ -13686,7 +13686,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-376-1457",
-    "website": "https://www.cliniqueespacetemps.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D12258504234144420260",
+    "website": "https://www.cliniqueespacetemps.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12258504234144420260",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -14204,7 +14204,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "438-228-6697",
-    "website": "https://www.facebook.com/profile.php%3Fid%3D61554743880930%26mibextid%3DLQQJ4d",
+    "website": "https://www.facebook.com/profile.php?id=61554743880930&mibextid=LQQJ4d",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -14750,7 +14750,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-432-2777",
-    "website": "http://sante.gouv.qc.ca/repertoire-ressources/recherche/ressource/%3Fnofiche%3D371648%26ch_type%5B6%5D%3D1301%26bt_rechType%3D%26ch_choixReg%3D15",
+    "website": "http://sante.gouv.qc.ca/repertoire-ressources/recherche/ressource/?nofiche=371648&ch_type[6]=1301&bt_rechType=&ch_choixReg=15",
     "rating": 2.1,
     "reviews": 10,
     "recommended": false
@@ -15352,7 +15352,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "438-825-1227",
-    "website": "https://www.monicaabdelsayed.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D4745662959677461793",
+    "website": "https://www.monicaabdelsayed.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4745662959677461793",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -15562,7 +15562,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "819-565-8869",
-    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/%3Fnofiche%3D1008036%26ch_type%3D%26bt_rechType%3D%26theme%3Dautres-ressources%26ch_choixReg%3D%26ch_rayon%3D0%26ch_code%3D%26page%3D528",
+    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/?nofiche=1008036&ch_type=&bt_rechType=&theme=autres-ressources&ch_choixReg=&ch_rayon=0&ch_code=&page=528",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -16038,7 +16038,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "819-565-1441",
-    "website": "https://www.sante.gouv.qc.ca/repertoire-ressources/ressource/%3Fnofiche%3D32598",
+    "website": "https://www.sante.gouv.qc.ca/repertoire-ressources/ressource/?nofiche=32598",
     "rating": 4.0,
     "reviews": 4,
     "recommended": true
@@ -16766,7 +16766,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-743-1201",
-    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/%3Fnofiche%3D1293%26ch_nom%3Dcentre%2Bjeunesse%26bt_rechNom%3D%26ch_choixReg%3D%26ch_rayon%3D0%26ch_code%3D%26page%3D7",
+    "website": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/?nofiche=1293&ch_nom=centre+jeunesse&bt_rechNom=&ch_choixReg=&ch_rayon=0&ch_code=&page=7",
     "rating": 4.0,
     "reviews": 23,
     "recommended": true
@@ -17102,7 +17102,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "581-459-3665",
-    "website": "https://www.psylio.com/ca/professionals/ariane-lavoie%3Flg%3Dfr",
+    "website": "https://www.psylio.com/ca/professionals/ariane-lavoie?lg=fr",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -17270,7 +17270,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-326-1664",
-    "website": "http://www.lelaurierpsy.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D13362909122650757558",
+    "website": "http://www.lelaurierpsy.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13362909122650757558",
     "rating": 5.0,
     "reviews": 0,
     "recommended": true
@@ -17410,7 +17410,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "514-707-5330",
-    "website": "https://www.gorendezvous.com/Espacevs%3Fmibextid%3DZxz2cZ",
+    "website": "https://www.gorendezvous.com/Espacevs?mibextid=Zxz2cZ",
     "rating": 5.0,
     "reviews": 34,
     "recommended": true
@@ -17508,7 +17508,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "450-961-0008",
-    "website": "https://www.dettes.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DmyBusiness%26utm_term%3DBureau-Terrebonne%26utm_content%3DTerrebonne",
+    "website": "https://www.dettes.ca/?utm_source=google&utm_medium=organic&utm_campaign=myBusiness&utm_term=Bureau-Terrebonne&utm_content=Terrebonne",
     "rating": 5.0,
     "reviews": 245,
     "recommended": true
@@ -18656,7 +18656,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "819-668-8718",
-    "website": "https://www.louisphilippegermaintherapie.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D13796039857927419701",
+    "website": "https://www.louisphilippegermaintherapie.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13796039857927419701",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -18810,7 +18810,7 @@
     "province_code": "QC",
     "country": "Canada",
     "phone": "873-664-6964",
-    "website": "https://www.tsisabellefortin.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D10142832300505313572",
+    "website": "https://www.tsisabellefortin.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10142832300505313572",
     "rating": null,
     "reviews": 0,
     "recommended": false

@@ -8,7 +8,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-776-4003",
-    "website": "https://www.thrivewellbc.com/%3Futm_source%3Dgoogle%26utm_medium%3DGMB%26utm_campaign%3DAbbotsford",
+    "website": "https://www.thrivewellbc.com/?utm_source=google&utm_medium=GMB&utm_campaign=Abbotsford",
     "rating": 5.0,
     "reviews": 23,
     "recommended": true
@@ -400,7 +400,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-239-1724",
-    "website": "https://wellbeingscounselling.ca/abbotsford-bc/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-abbotsford",
+    "website": "https://wellbeingscounselling.ca/abbotsford-bc/?utm_source=google&utm_medium=organic&utm_campaign=gmb-abbotsford",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -498,7 +498,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-449-8549",
-    "website": "http://www.lifewiseclinic.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D6604980298089656305",
+    "website": "http://www.lifewiseclinic.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6604980298089656305",
     "rating": 4.9,
     "reviews": 42,
     "recommended": true
@@ -862,7 +862,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-914-3059",
-    "website": "https://www.mhrpni.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D5227553145106975590",
+    "website": "https://www.mhrpni.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5227553145106975590",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -988,7 +988,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-785-0677",
-    "website": "https://www.solidgroundwellness.ca/%3Futm_source%3DGMB%26utm_medium%3Dorganic",
+    "website": "https://www.solidgroundwellness.ca/?utm_source=GMB&utm_medium=organic",
     "rating": 5.0,
     "reviews": 8,
     "recommended": true
@@ -1128,7 +1128,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-615-5070",
-    "website": "https://www.adhdco.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D4981420009823930872",
+    "website": "https://www.adhdco.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4981420009823930872",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -1212,7 +1212,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-799-3080",
-    "website": "https://www.rebalancerehab.ca/%3Futm_source%3DGMB_listing%26utm_medium%3Dorganic",
+    "website": "https://www.rebalancerehab.ca/?utm_source=GMB_listing&utm_medium=organic",
     "rating": 5.0,
     "reviews": 169,
     "recommended": true
@@ -1338,7 +1338,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-705-4000",
-    "website": "https://www.thrivewellbc.com/%3Futm_source%3Dgoogle%26utm_medium%3DGMB%26utm_campaign%3DChilliwack",
+    "website": "https://www.thrivewellbc.com/?utm_source=google&utm_medium=GMB&utm_campaign=Chilliwack",
     "rating": 4.7,
     "reviews": 54,
     "recommended": true
@@ -2724,7 +2724,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-554-5590",
-    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx%3Ftype%3DLocation%26loc%3DSouth%2520Hills%2520Tertiary%2520Psychiatric%2520Rehabilitation%2520Centre%26svc%3DTertiary%2520Psychiatric%2520Services%26ploc%3DN/A",
+    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx?type=Location&loc=South%20Hills%20Tertiary%20Psychiatric%20Rehabilitation%20Centre&svc=Tertiary%20Psychiatric%20Services&ploc=N/A",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -2752,7 +2752,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-376-7855",
-    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx%3Ftype%3DLocation%26loc%3DKing%2520Street%2520Centre%26svc%3D%26ploc%3D",
+    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx?type=Location&loc=King%20Street%20Centre&svc=&ploc=",
     "rating": 3.7,
     "reviews": 3,
     "recommended": true
@@ -2892,7 +2892,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "236-302-3750",
-    "website": "https://wellbeingscounselling.ca/kelowna-counselling-clinic/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-kelowna",
+    "website": "https://wellbeingscounselling.ca/kelowna-counselling-clinic/?utm_source=google&utm_medium=organic&utm_campaign=gmb-kelowna",
     "rating": 5.0,
     "reviews": 9,
     "recommended": true
@@ -2920,7 +2920,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-765-0606",
-    "website": "https://crossroadscollective.ca/counselling-in-kelowna/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://crossroadscollective.ca/counselling-in-kelowna/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 5.0,
     "reviews": 13,
     "recommended": true
@@ -3032,7 +3032,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "236-420-1155",
-    "website": "https://www.wacs.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp",
+    "website": "https://www.wacs.ca/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
     "rating": 4.7,
     "reviews": 12,
     "recommended": true
@@ -3270,7 +3270,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-862-4478",
-    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx%3Ftype%3DLocation%26loc%3DKelowna%2520General%2520Hospital%26svc%3D%26ploc",
+    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx?type=Location&loc=Kelowna%20General%20Hospital&svc=&ploc",
     "rating": 2.8,
     "reviews": 11,
     "recommended": false
@@ -3606,7 +3606,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-532-5340",
-    "website": "http://www.crossroadscollective.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "http://www.crossroadscollective.ca/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.4,
     "reviews": 120,
     "recommended": true
@@ -3956,7 +3956,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-371-4145",
-    "website": "https://www.shorelinecounselling.ca/%3Futm_source%3DGMB%26utm_medium%3Dorganic",
+    "website": "https://www.shorelinecounselling.ca/?utm_source=GMB&utm_medium=organic",
     "rating": 4.7,
     "reviews": 15,
     "recommended": true
@@ -4796,7 +4796,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "866-512-8359",
-    "website": "https://www.edgewoodhealthnetwork.com/locations/edgewood/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_ew_local_listings",
+    "website": "https://www.edgewoodhealthnetwork.com/locations/edgewood/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ew_local_listings",
     "rating": 4.1,
     "reviews": 204,
     "recommended": true
@@ -4978,7 +4978,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "825-425-4601",
-    "website": "https://ehnguardians.ca/ehn-guardians-nanaimo/%3Futm_campaign%3Dgmb_guardians_nanaimo_local_listings%26utm_source%3Dgoogle%26utm_medium%3Dorganic",
+    "website": "https://ehnguardians.ca/ehn-guardians-nanaimo/?utm_campaign=gmb_guardians_nanaimo_local_listings&utm_source=google&utm_medium=organic",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -5342,7 +5342,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://www.vch.ca/en/search%3Fq%3Dhope%2Bcentre",
+    "website": "https://www.vch.ca/en/search?q=hope+centre",
     "rating": 2.6,
     "reviews": 23,
     "recommended": false
@@ -5454,7 +5454,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "236-700-6707",
-    "website": "https://www.interactivecounselling.ca/penticton-counselling/%3Futm_source%3Dgoogle-business-profile%26utm_medium%3Dorganic",
+    "website": "https://www.interactivecounselling.ca/penticton-counselling/?utm_source=google-business-profile&utm_medium=organic",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -5608,7 +5608,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-831-1330",
-    "website": "https://www.urwellness.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D8165467184883634959",
+    "website": "https://www.urwellness.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8165467184883634959",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -5636,7 +5636,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-492-0866",
-    "website": "https://mnpdebt.ca/en/offices/penticton%3Futm_source%3Dgoogle%26utm_medium%3Dorganic_lpm%26utm_campaign%3DKelowna_Insolvency%26sc_camp%3D6E4BBDFD22C64A84B500D9FF6C0F1916",
+    "website": "https://mnpdebt.ca/en/offices/penticton?utm_source=google&utm_medium=organic_lpm&utm_campaign=Kelowna_Insolvency&sc_camp=6E4BBDFD22C64A84B500D9FF6C0F1916",
     "rating": 4.9,
     "reviews": 42,
     "recommended": true
@@ -5804,7 +5804,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-492-2969",
-    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx%3Ftype%3DLocation%26loc%3DBraemore%2520Lodge%26svc%3DTertiary%2520Psychiatric%2520Services%26ploc%3DN/A",
+    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx?type=Location&loc=Braemore%20Lodge&svc=Tertiary%20Psychiatric%20Services&ploc=N/A",
     "rating": 3.5,
     "reviews": 4,
     "recommended": true
@@ -5818,7 +5818,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-492-4000",
-    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx%3Ftype%3DLocation%26loc%3DPenticton%2520Regional%2520Hospital%26svc%3D%26ploc%3D",
+    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx?type=Location&loc=Penticton%20Regional%20Hospital&svc=&ploc=",
     "rating": 3.2,
     "reviews": 251,
     "recommended": true
@@ -6028,7 +6028,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-239-2406",
-    "website": "https://wellbeingscounselling.ca/port-coquitlam-counselling-clinic/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb-port-coquitlam",
+    "website": "https://wellbeingscounselling.ca/port-coquitlam-counselling-clinic/?utm_source=google&utm_medium=organic&utm_campaign=gmb-port-coquitlam",
     "rating": 5.0,
     "reviews": 2,
     "recommended": true
@@ -6406,7 +6406,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-735-3978",
-    "website": "https://westsidepsychology.ca/%3Futm_source%3Dgmb_listing%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_westside_psych",
+    "website": "https://westsidepsychology.ca/?utm_source=gmb_listing&utm_medium=organic&utm_campaign=gmb_website_westside_psych",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -7638,7 +7638,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-879-2653",
-    "website": "https://www.sunshinecoasthealthcentre.ca/vancouver/%3Futm_source%3DGoogle%26utm_medium%3DSearch%26utm_campaign%3Dlocal_vancouver%26utm_id%3DSCHC",
+    "website": "https://www.sunshinecoasthealthcentre.ca/vancouver/?utm_source=Google&utm_medium=Search&utm_campaign=local_vancouver&utm_id=SCHC",
     "rating": 4.8,
     "reviews": 28,
     "recommended": true
@@ -8170,7 +8170,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "778-506-2276",
-    "website": "https://interactivecounselling.ca/vernon-counselling/%3Futm_source%3Dgoogle-my-business%26utm_medium%3Dorganic%26utm_campaign%3DVernon%2520GMB",
+    "website": "https://interactivecounselling.ca/vernon-counselling/?utm_source=google-my-business&utm_medium=organic&utm_campaign=Vernon%20GMB",
     "rating": 4.7,
     "reviews": 30,
     "recommended": true
@@ -8394,7 +8394,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-549-5700",
-    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx%3Ftype%3DLocation%26loc%3DVernon%2520Health%2520Unit%26svc%3DImmunization%2520Services%26ploc%3DN/A",
+    "website": "https://www.interiorhealth.ca/FindUs/_layouts/FindUs/info.aspx?type=Location&loc=Vernon%20Health%20Unit&svc=Immunization%20Services&ploc=N/A",
     "rating": 3.2,
     "reviews": 0,
     "recommended": true
@@ -8814,7 +8814,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-777-8748",
-    "website": "https://www.melaniejonescounselling.com/%3Futm_source%3DGMB%26utm_medium%3Dorganic",
+    "website": "https://www.melaniejonescounselling.com/?utm_source=GMB&utm_medium=organic",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true
@@ -9066,7 +9066,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "888-520-9151",
-    "website": "https://www.strengthinheart.ca/%3Futm_source%3Dgmbpage%26utm_medium%3Dorganic%26utm_campaign%3Dgmb",
+    "website": "https://www.strengthinheart.ca/?utm_source=gmbpage&utm_medium=organic&utm_campaign=gmb",
     "rating": 4.9,
     "reviews": 60,
     "recommended": true
@@ -9122,7 +9122,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-658-9222",
-    "website": "https://www.talltreehealth.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3DGoogle%2BBusiness%2B-%2BCordova%2BBay%26utm_content%3Dwebsite%2Blink",
+    "website": "https://www.talltreehealth.ca/?utm_source=google&utm_medium=organic&utm_campaign=Google+Business+-+Cordova+Bay&utm_content=website+link",
     "rating": 4.9,
     "reviews": 529,
     "recommended": true
@@ -9136,7 +9136,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "778-401-4614",
-    "website": "https://www.sunshinecoasthealthcentre.ca/victoria/%3Futm_source%3DGoogle%26utm_medium%3DSearch%26utm_campaign%3Dlocal_victoria%26utm_id%3DSCHC",
+    "website": "https://www.sunshinecoasthealthcentre.ca/victoria/?utm_source=Google&utm_medium=Search&utm_campaign=local_victoria&utm_id=SCHC",
     "rating": 4.8,
     "reviews": 5,
     "recommended": true
@@ -9234,7 +9234,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "778-406-1177",
-    "website": "https://www.mosshealthcare.com/%3Futm_source%3DGBP%26utm_medium%3Dbutton%26utm_campaign%3DHome",
+    "website": "https://www.mosshealthcare.com/?utm_source=GBP&utm_medium=button&utm_campaign=Home",
     "rating": 4.6,
     "reviews": 68,
     "recommended": true
@@ -9318,7 +9318,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "250-818-1623",
-    "website": "https://www.yourpathcounselling.com/%3Futm_source%3Dgoogle%26utm_medium%3Dgbp%26utm_campaign%3Dmain",
+    "website": "https://www.yourpathcounselling.com/?utm_source=google&utm_medium=gbp&utm_campaign=main",
     "rating": 4.5,
     "reviews": 16,
     "recommended": true
@@ -9906,7 +9906,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "236-516-2983",
-    "website": "https://www.nirvanacounsellinglounge.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D9458012226306097319",
+    "website": "https://www.nirvanacounsellinglounge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9458012226306097319",
     "rating": 5.0,
     "reviews": 7,
     "recommended": true
@@ -9920,7 +9920,7 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "604-787-5809",
-    "website": "https://www.strivetothrivecounsellingwellness.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D6033827962604073479",
+    "website": "https://www.strivetothrivecounsellingwellness.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6033827962604073479",
     "rating": 5.0,
     "reviews": 1,
     "recommended": true

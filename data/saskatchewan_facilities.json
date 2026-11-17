@@ -316,7 +316,7 @@
     "province_code": "SK",
     "country": "Canada",
     "phone": "306-820-6120",
-    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx%3Fid%3D1045451%26serviceAtFacilityID%3D1088782",
+    "website": "https://www.albertahealthservices.ca/findhealth/Service.aspx?id=1045451&serviceAtFacilityID=1088782",
     "rating": 3.9,
     "reviews": 18,
     "recommended": true
@@ -386,7 +386,7 @@
     "province_code": "SK",
     "country": "Canada",
     "phone": "306-820-6000",
-    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx%3Fid%3D1000201",
+    "website": "https://www.albertahealthservices.ca/findhealth/facility.aspx?id=1000201",
     "rating": 2.4,
     "reviews": 144,
     "recommended": false
@@ -610,7 +610,7 @@
     "province_code": "SK",
     "country": "Canada",
     "phone": "306-313-9800",
-    "website": "https://www.betterdaysc.com/%3Futm_source%3Dgoogle%26utm_medium%3Dwix_google_business_profile%26utm_campaign%3D13627050266735343245",
+    "website": "https://www.betterdaysc.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13627050266735343245",
     "rating": 5.0,
     "reviews": 3,
     "recommended": true
@@ -1926,7 +1926,7 @@
     "province_code": "SK",
     "country": "Canada",
     "phone": "nan",
-    "website": "https://river-city-counselling.ueniweb.com/%3Futm_campaign%3Dgmb",
+    "website": "https://river-city-counselling.ueniweb.com/?utm_campaign=gmb",
     "rating": null,
     "reviews": 0,
     "recommended": false
@@ -2430,7 +2430,7 @@
     "province_code": "SK",
     "country": "Canada",
     "phone": "306-316-5871",
-    "website": "https://www.bring2life.ca/%3Futm_source%3DGBP%26utm_medium%3Dorganic%26utm_campaign%3Doffice",
+    "website": "https://www.bring2life.ca/?utm_source=GBP&utm_medium=organic&utm_campaign=office",
     "rating": 5.0,
     "reviews": 5,
     "recommended": true
