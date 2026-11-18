@@ -2,7 +2,7 @@
   "state": "Missouri",
   "state_code": "MO",
   "state_slug": "missouri",
-  "total_facilities": 1207,
+  "total_facilities": 1208,
   "total_cities": 58,
   "cities": [
     "Arnold",
@@ -18169,6 +18169,22 @@
       "reviews": 8,
       "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlYY7fF4o2YcRrRnXgdm4K2U&q=*&authuser=0&hl=en&gl=US",
       "recommended": true
+    },
+    {
+      "name": "Brain Recovery Centers",
+      "category": "Mental health clinic",
+      "address": "3934 Union Rd, St. Louis, MO 63125",
+      "street": "3934 Union Rd",
+      "city": "St. Louis",
+      "state": "Missouri",
+      "state_code": "MO",
+      "phone": "314-314-9112",
+      "website": "https://brainrecoverycenters.com",
+      "rating": 5.0,
+      "reviews": 13,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ32ZbHkHJ2IcRN-O9USZ-2dE&q=*&authuser=0&hl=en&gl=US",
+      "recommended": true,
+      "claimed": true
     }
   ]
 }
