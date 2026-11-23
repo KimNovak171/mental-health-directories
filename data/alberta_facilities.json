@@ -3418,7 +3418,7 @@
   {
     "name": "Interactive Counselling Grande Prairie",
     "care_type": "Counselor",
-    "address": "10130 99 Ave Suite 180, Grande Prairie, AB T8V 2V3",
+    "address": "10130 99th Ave Suite 180, Grande Prairie, AB T8V 2V4",
     "city": "Grande Prairie",
     "province": "Alberta",
     "province_code": "AB",
@@ -3427,7 +3427,8 @@
     "website": "https://interactivecounselling.ca/grande-prairie-counselling-services/?utm_source=google-my-business&utm_medium=organic&utm_campaign=GP%20GMB",
     "rating": 4.7,
     "reviews": 35,
-    "recommended": true
+    "recommended": true,
+    "claimed": true
   },
   {
     "name": "Reconnect Counselling",

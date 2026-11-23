@@ -3388,6 +3388,19 @@
     "recommended": false
   },
   {
+    "name": "Interactive Counselling Kelowna",
+    "care_type": "Counselor",
+    "address": "2009 Enterprise Way Unit I, Kelowna, BC V1Y 8G6",
+    "city": "Kelowna",
+    "province": "British Columbia",
+    "province_code": "BC",
+    "country": "Canada",
+    "phone": "250-859-4485",
+    "website": "https://interactivecounselling.ca/kelowna-counselling/",
+    "recommended": true,
+    "claimed": true
+  },
+  {
     "name": "B C Child & Youth Mental Health",
     "care_type": "Mental health clinic",
     "address": "20434 64 Ave, Langley, BC V2Y 1N4",
@@ -5454,10 +5467,11 @@
     "province_code": "BC",
     "country": "Canada",
     "phone": "236-700-6707",
-    "website": "https://www.interactivecounselling.ca/penticton-counselling/?utm_source=google-business-profile&utm_medium=organic",
+    "website": "https://interactivecounselling.ca/penticton-counselling/",
     "rating": 5.0,
     "reviews": 3,
-    "recommended": true
+    "recommended": true,
+    "claimed": true
   },
   {
     "name": "Take Heart Counselling Services",
@@ -8164,7 +8178,7 @@
   {
     "name": "Interactive Counselling Vernon",
     "care_type": "Counselor",
-    "address": "Suite #1, 4300 27 St, Vernon, BC V1T 4Y4",
+    "address": "4300 27 St Unit 5, Vernon, BC V1T 4Y4",
     "city": "Vernon",
     "province": "British Columbia",
     "province_code": "BC",
@@ -8173,7 +8187,8 @@
     "website": "https://interactivecounselling.ca/vernon-counselling/?utm_source=google-my-business&utm_medium=organic&utm_campaign=Vernon%20GMB",
     "rating": 4.7,
     "reviews": 30,
-    "recommended": true
+    "recommended": true,
+    "claimed": true
   },
   {
     "name": "OK Clinical Therapy Group - Vernon Counselling",
